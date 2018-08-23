@@ -1,4 +1,4 @@
-# Zettelkasten – Schlagwortregister
+# ZK I – Schlagwortregister
 ## A
 - Abduktion 33/5d5f
 - Abstraktion 33/5f-g
@@ -6,21 +6,26 @@
 - Aktant 21/3a1
 - Akteur 31/1d2
 - Akteur-Netzwerk Theorie 21/3-5; 33/6
+- Ambiguität 31/1c3c
 - Arzt 31/1c2b
 - Assemblage 12/4l
 - Assoziation 21/3b; 21/5c3c; 21/5c3b1
 - Asymmetrie 31/5d(1-2); 31/5f-h; 31/5d2e; 31/5g
+- Atopik 31/5d2g1a3
 - Ausstellung 21/5c3c
 - Autopoiesis 21/3d; 12/4c2a
 ## B
 - Banalität 31/5d4a3
+- Bedeutungen 33/5c3a; ... 
 - Bereichsethik 12/2a
 - Berufe 31/1c1
 - Bewusstsein 31/5d5
 - Bewusstseinskontext 31/1c2e
 - Biografie 31/5d2g2a
 - Bourdieu 61/1
+- Bürokratie 22/3
 ## C
+- Charisma 31/5d2g3b
 - Code 31/5d2c; 31/5d2e1
 - Compliance 31/5d2e1a
 ## D
@@ -31,9 +36,12 @@
 - Disziplin 21/5c2
 - Diplomatie 21/5c3, 21/5e
 - Dissens 33/1f; 33/2
+- Dissimulation 31/5d2g1d; 31/5d2g5e
+- Distanz 31/5d2h1b
 - Dokumentarische Methode 33/5d5c
 ## E
 - Ebenenunterscheidung 33/1d
+- Ekel 31/5d5c
 - Entdifferenzierung 33/6; 33/7
 - Entscheidung 31/5d4a3; 31/5d2k
 - Ethische Sensibilisierung 21/5d-e; 31/1c; 21/5c1a; 21/5c6a-b
@@ -47,10 +55,11 @@
 - Erwartungsmanagement 31/1c2
 - Erwartungsstil 31/1c3d
 - Evaluation 31/5d2b
-- Evidenz 12/4c5
+- Evidenz 12/4c5; 31/1c2b2a; 31/5d2g1c1
 - Evolution 12/4c1
 - Exegese 35/3-5; 41/2; 21/3a1
 - Existenzweisen 21/3b2
+- Experiment 31/1c2b2c
 - Experte 31/1a-d; 12/6, 21/5c5; 31/1c2a1
 ## F
 - Form 22; 33/5d7
@@ -66,9 +75,9 @@
 - Habermas 33/5d2
 - Habitus 31/1c2b2; 33/5a; 33/5d5e; 61/2
 - Handeln 33/1g; 33/5d6
-- Häuslichkeit 31/5d2g1a1
+- Häuslichkeit 31/5d2g1a
 - Hegel 33/3,4
-- Hermeneutik 33/5d3-4
+- Hermeneutik 33/5d3-4; 33/5c7
 - Heterogenität 12/4a1
 - Hierarchie 31/5d2j
 - Hineinversetzen 21/5c6-9; 31/5d2g1
@@ -97,23 +106,27 @@
 - Kollektivitätsorientierung 31/5d2h2
 - Kommunikation 31/5d6
 - Komplementarität 31/4
+- Konsens 31/5a1
 - Konstruktivismus 31/8a1; 35/5
 - Kontext 33/8-9; 33/5c4; 33/5d1a; 33/5d5
 - Kontextur 33/5c4; 33/8-10
 - Kontingenz 33/5c
 - Konzept 33/1h1
-- Körper 31/5d2i4; 31/5d2g2a
+- Körper 31/5d2i4; 31/5d2g2a; 31/5d2g3c; 31/5d5c
 ## L
 - Laien 31/1b; 31/5d2g1c
 - Landschaft 12/4l
 - Latour 61/1a
 - Lebensende 11/5
 - Legitimation 12/5; 31/5d2e; 32/2
+- Leiche 31/5d2i6
 - Lernen 21/5c6
 - Literatur 61/2
+- Logik 12/4c3b4
 ## M
 - Macht 12/4h
 - Makro-Akteur 12/4i
+- Material, empirisches 33/5d5a
 - Materie 12/4e
 - Medium 22/2
 - Medizin 31/5d2c-f; 32/2
@@ -123,7 +136,7 @@
 - Mode 12/1a
 - Moderator 21/5, 21/5c5
 - Moral 31/9; 12/1b; 31/1c1a
-- Multiprofessionalität 31/5d2h1; 31/5d7
+- Multiprofessionalität 31/5d2h1; 31/5d2h1b; 31/5d7
 - Musik 22/1
 ## N
 - Netzwerk 12/4h-l; 12/4c1b
@@ -136,13 +149,13 @@
 - Orientierungsrahmen 33/5d5c
 ## P
 - Pädagogik 31/1c2b2; 31/5d2h4
-- Palliativmedizin 31/5d2c-g; 31/5d2g1b
+- Palliativmedizin 31/5d2c-g; 31/5d2g1b-d
 - Papst 12/4b
 - Paradoxie 33/5e, 33/1d; 31/5d2a2
 - Performanz 31/1c2b2a; 31/5d2i; 33/1g,h
 - Person 12/4c3c; 33/1
 - Perspektivendifferenz 21/5c, 21/3f
-- Pflege 31/5d2h
+- Pflege 31/5d2h; 31/5d2h5
 - Plausibilität 12/4c4-5
 - Polykontexturalität 31/5d2e6
 - Praxis 12/4c3b
@@ -153,10 +166,11 @@
 - Qualitative Sozialforschung 33/5c,d
 - Quasi-Objekt 21/5c3b4-5
 ## R
-- Rahmen 33/5d6
+- Rahmen 12/4c3b3; 33/5d6
 - Rationalismus 31/8c
 - Rasse 33/5c1
 - Reinheit 83/1
+- Rekursivität 11/2d
 - Relativismus 21/5c9-10
 - Revolution 12/4k
 - Reziprozität 31/12
@@ -166,20 +180,23 @@
 ## S
 - Schema 12/4c5
 - Schmerz 31/5d2e1
+- Schmutz 31/5d2g3c
 - Schweigen 31/5c
 - Semantik 12/4c-g; 21/3a1; 32/2; 35/5
 - Simmel 31/1e
-- Sinn 33/1e,g,h; 33/5d4; 21/3e,f; 12/4c1
+- Sinn 33/1e,g,h; 33/5c7; 33/5d4; 21/3e,f; 12/4c1
 - Sinndimension 33/1e
 - Soziale Arbeit 31/1c2a3
 - Sozialisation 21/5c6b
 - Soziologie 35/2a
 - Spezialisierung 31/5d2i2
-- Spiritualität 41/3
-- Sterben 31/1c2d; 31/5d2; 31/5d3b
+- Spiritualität 42/1
+- Sterben 31/1c2d; 31/5d2; 31/5d3b; 31/5d6
+- Sterben, gutes 31/5d2b
 - Sterbekultur 31/5d2
 - Sterben-Machen 33/5d1b,c
 - Struktur 11/2a,b,c; 12/4c1
+- Strukturen, dissipative 11/2d
 - Subjekt 31/8a
 - Symbolisch generalisierte Kommunikationsmedien 33/1e
 - Symmetrie, Prinzip der 31/8-9; 31/5d1; 35/5
@@ -194,6 +211,7 @@
 - Tiere 31/5d2f1
 - Tod 11/4; 31/5d2-5; 33/5c4
 - Todesverdrängung 31/5d5a
+- Transzendenz 31/5a1 
 - Trauer 31/5d4b
 ## U
 - Übersetzung 12/4; 12/4h
@@ -204,10 +222,11 @@
 - Verteilte Intelligenz 12/4b
 - Verfremdung 35/4
 - Vermittlungsarbeit 12/4f
+- Vernunft 12/4c3b2
 ## W
 - Werte 31/7
 - Whitehead 12/4e
-- Wiederholung 41/1-2; 12/4c3a
+- Wiederholung 12/4c3a; 33/5d1a1; 41/1-2
 - Wille 31/5d2a; 31/1c2b1
 - Wissenschaftstheorie 35/1,2; 21/2; 31/8a
 - Wissenspolitik 33/5d1b
