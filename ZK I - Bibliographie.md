@@ -1,0 +1,308 @@
+# ZK I - Bibliographie
+## A 
+- Adorno, Theodor W. (1975): Philosophie der neuen Musik, Frankfurt/M.: Suhrkamp.
+	- 11/1a
+	- 22/1
+- Atzeni, Gina (2016): Professionelles Erwartungsmanagement.  Zur soziologischen Bedeutung der sozialfigur Arzt, Baden-Baden: Nomos.
+	- 31/1c2
+	- 31/1c2a
+	- 31/1c3
+- Atzeni, Gina / Mayr, Katharina (2015): Ethische Expertise. Ethikkommissionen und Klinische Ethik-Komitees als Räume ethischer Rede, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 229-253.
+	- 12/4
+	- 12/5
+	- 21/5c3
+## B
+- Barth, Niklas / Nassehi, Armin / Schneider, Antonius (2013): Umgang mit Unbestimmtheit - zur Hypermodernität des Hausarztes, in: Zeitschrift für Evidenz, Fortbildung und Qualität im Gesundheitswesen 108, S. 59-65.
+	- 31/1c2b2
+- Belan, Dina / Schiller, Carina (2016): Helfen ohne zu heilen. Berufsbedingte Belastungen und Bewältigungsstrategien von Palliativpflegekräften, München: Rainer Hampp Verlag.
+	- 31/1c4
+- Bourdieu, Pierre (1987): Sozialer Sinn, Frankfurt/M.: Suhrkamp.
+	- 12/4c3b4
+## C
+- Callon, Michel (1999): De la sociologie du travail appliquée à l‘opération chirurgicale : ou comment faire disparaître la personne du patient, dans: Sociologie du Travail 41.2, pp. 143-162.
+	- 12/4m
+- Charmaz, Kathy (1980): The social reality of death. Death in contemporary America, Reading, MA: Addison-Wesley.
+	- 31/1c2d
+- Clive, Seale (1998): Constructing Death. Sociology of Dying and Bereavement, Cambridge: Cambridge University Press.
+	- 31/5d2h1b
+	- 31/5d2h1c
+	- 31/5d2g5e
+## D
+- Deleuze, Gilles / Guattari, Félix (1977): Rhizom, Berlin: Merve.
+	- 12/4j
+	- 12/4k
+- Dreßke, Stephan / Göckenjahn, Gerd (2002): Wandlungen des Sterbens im Krankenhaus und die Konflikte zwischen Krankenrolle und Sterberolle, in: Österreichische Zeitschrift für Soziologie 27.4, S. 80-96.
+	- 31/5d2b3
+## E
+## F
+- Foucault, Michel (1988): Die Geburt der Klinik, Frankfurt/M.: S. Fischer Verlag.
+	- 31/1c1b
+## G
+- Gertenbach, Lars (2016): Politik - Diplomatie - Dezisionismus, in: Soziale Welt 67.3, S. 281-298.
+	- 21/3b2
+- Gill, Bernhard (2008): Über Whitehead und Mead zur Akteur-Netzwerk-Theorie, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 47-75.
+	- 12/4e 
+- Glaser, Barney G. / Strauss, Anselm L. (1964): Awareness contexts and social interaction, in: American Sociological Review 29.5, S. 669-679.
+	- 31/1c2e
+- Glaser, Barney G. / Strauss, Anselm L. (1974): Interaktion mit Sterbenden, Göttingen: Vandenhoeck & Ruprecht.
+	- 31/1c2f
+	- 31/1c2g
+- Gronemeyer, Reimer (2005): Hospizbewegung und Palliative Care, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 207-220.
+	- 31/5d2b1
+## H
+- Habermas, Jürgen (1971): Theorie der Gesellschaft oder Sozialtechnologie? Eine Auseinandersetzung mit Niklas Luhmann, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie?, Frankfurt/M.: Suhrkamp, S. 142-290.
+	- 12/4c3b5
+- Habermas, Jürgen (1971): Vorbereitende Bemerkungen zu einer Theorie der kommunikativen Kompetenz, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie?, Frankfurt/M.: Suhrkamp, S. 101-141.
+	- ausstehend
+- Habermas, Jürgen (1997): Die Einheit der Vernunft in der Vielfalt ihrer Stimmen, in: ders.: Nachmetaphysisches Denken. Philosophische Aufsätze, Frankfurt/M.: Suhrkamp, S. 153-186.
+	- 12/4l
+## I
+## J
+- Jacques, Michel (1997): Soigner avec ou sans consentement, dans: Faure, Olivier (ed.): Les thérapeutiques : savoirs et usages, Lyon: Fondation Marcel Mérieux, S. 341-356.
+	- 31/1c2b2c
+## K
+- Keller, Reiner / Lau, Christoph (2008): Bruno Latour und die Grenzen der Gesellschaft, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 306-338.
+	- 12/3a1
+	- 31/5d1
+- Kneer, Georg (2008): Hybridizität, zirkulierende Referenz, Amoderne?, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 261-305.
+	- 12/4f
+- Krause, Ulrike (2016): Ethische Überlegungen zur Feldforschung, CSS Working Paper 20, Marburg.
+	- 21/5c1a
+- Kunz, Roland (2003): Palliative Care für Patienten mit fortgeschrittener Demenz: Values Based statt Evidence Based Practice, in: Zeitschrift für Gerontologie und Geriatrie 36, S. 355-359.
+	- 31/5d2g1c1
+	- 31/5d2g1c2
+## L
+- Latour, Bruno (1996): Aramis or the love of technology, Cambridge, MA: Harvard Univ. Press.
+	- 21/5c3b2
+	- 21/5c5
+	- 21/5c7
+- Latour, Bruno (1996): La vie laboratoire, Paris: La Découverte.
+	- 12/4a1
+	- 12/4d
+	- 21/5c3b3
+	- 21/5c10
+	- 31/1d1
+- Latour, Bruno (2006): Die Macht der Assoziation, in: Belliger, Andréa / Krieger, David J. (Hrsg.): ANThology. Ein einführendes Handbuch zur Akteur-Netzwerk-Theorie, Bielefeld: transcript, S. 195-212.
+	- 12/4h
+- Latour, Bruno (2006): Drawing things together, in: Belliger, Andréa / Krieger, David J. (Hrsg.): ANThology. Ein einführendes Handbuch zur Akteur-Netzwerk-Theorie, Bielefeld: transcript, S. 259-308.
+	- 12/4i
+- Latour, Bruno (2007): Eine neue Soziologie für eine neue Gesellschaft, Frankfurt/M.: Suhrkamp.
+	- 21/3b
+	- 21/5c9
+- Latour, Bruno (2015): Face à Gaia, Paris: La Découverte/Les empêcheurs de penser en rond.
+	- 21/5a
+- Laux, Henning (2016): Hybridorganisationen: Politische Herausforderungen an der Schnittstelle zwischen Wissenschaft und biophysischer Natur, in: Soziale Welt 67.3, S. 313-331.
+	- 12/4a
+- Lawton, Julia (1998): Contemporary hopsice care: the sequestration of the unbounded body and ‚dirty dying‘, in: Sociology of Health & Illness 20.2, S. 121-143.
+	- 31/5d5d
+	- 31/5d2g3c
+- Lehmann, Maren (2015): Das „Altwerden funktionaler Differenzierung“ und die „nächste Gesellschaft“, in: Soziale Systeme 20.2, S. 308-336.
+	- 22/3
+	- 31/5d2g1a3
+- Lehmann, Maren (2016): Diplomatie an der Front, in: Soziologische Revue 39.4, S. 537-544.
+	- 21/5c4
+- Lindemann, Gesa (2008): „Allons enfants et faits de la patrie ...“ Über Latours Sozial- und Gesellschaftstheorie sowie seinen Beitrag zur Rettung der Welt, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 339-360.
+	- 31/1d2
+- Luhmann, Niklas (1971): Sinn als Grundbegriff der Soziologie, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie, Frankfurt/M.: Suhrkamp, S. 25-100.
+	- 33/5c7
+- Luhmann, Niklas (1971(2007)): Die Knappheit der Zeit und die Vordringlichkeit des Befristeten, in: ders. (Hrsg.): Politische Planung. Aufsätze zur Soziologie von Politik und Verwaltung, Wiesbaden: VS-Verlag, S. 143-164.
+	- 71/2
+	- 71/3 
+- Luhmann, Niklas (1975(2009)): Formen des Helfens im Wandel gesellschaftlicher Bedingungen, in: ders. (Hrsg.): Soziologische Aufklärung 2. Aufsätze zur Theorie der Gesellschaft, Wiesbaden: VS-Verlag, S. 167-186.
+	- 31/1c1
+- Luhmann, Niklas (1980): Gesellschaftliche Struktur und semantische Tradition, in: ders (Hrsg.): Gesellschaftsstruktur und Semantik. Band 1, Frankfurt/M.: Suhrkamp, S. 9-71. 
+	- 12/4c1
+	- 12/4c2
+	- 12/4c3
+	- 12/4c4
+- Luhmann, Niklas (1984): Soziale Systeme, Frankfurt/M.: Suhrkamp.
+	- 11/2c
+	- 12/6
+	- 21/3e 
+	- 21/3f
+	- 21/5e
+	- 31/1c3a
+	- 31/1c3b
+	- 31/1c3c
+	- 31/1c3d
+- Luhmann, Niklas (1990): Paradigm lost: Über die ethische Reflexion der Moral, Frankfurt/M.: Suhrkamp. 
+	- 12/1b 
+- Luhmann, Niklas (1994): Die Wirtschaft der Gesellschaft, Frankfurt/M.: Suhrkamp.
+	- 21/3d
+	- 22/2
+- Luhmann, Niklas (1995): Die Kunst der Gesellschaft, Frankfurt/M.: Suhrkamp.
+	- 11/1
+	- 21/5c3b5
+	- 31/1
+	- 31/2
+- Luhmann, Niklas (1997): Die Gesellschaft der Gesellschaft, Frankfurt/M.: Suhrkamp.
+	- 12/4c1a1
+	- 12/4c1a2
+	- 12/4c2a
+	- 12/4c5
+	- 21/1
+	- 21/3f
+## M
+- May, Michaela / Smeaton, Susan / Sittig, Melanie (2016): Die psychosoziale Dimension der Spezialisierten Ambulanten Palliativversorgung, in: Neue Praxis 46.5, S. 473-483.
+	- 31/5d2h1b1
+- Mayr, Katharina (2007): Rationalität und Plausibilität in klinischen Ethikkomitees, in: Soziale Welt, Sonderheft 58, S. 323-344.
+	- 11/2c1
+- McNamara, Beverley (2004): Good enough death: autonomy and choice in Australian palliative care, in: Social Science & Medicine 58, S. 929-938.
+	- 31/5d2b2a
+	- 31/5d2a3
+- Michel, Jacques (1997): Soigner avec ou sans consentement, dans: Faure, Olivier (ed): Les thérapeutiques : savoirs et usages, Lyon: Fondation Marcel Merieux, S. 341-356.
+	- 31/1c2b2c
+- Müller, Julian (2015): Modische Moderne, moderne Moral. Unbestimmtheit als Signum der modernen Gesellschaft, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 157-171.
+	- 12/1a
+- Müller, Julian (2015): Bestimmbare Unbestimmtheiten, München: Fink Verlag.
+	- 12/4l
+## N
+- Nassehi, Armin (1997): Kommunikation verstehen, in: Sutter, Tilmann (Hrsg.): Beobachtung verstehen, Verstehen beobachten, Opladen: Westdeutscher Verlag, S. 134-163.
+	- 12/4c3c
+- Nassehi, Armin (2003): Geschlossenheit und Offenheit, Frankfurt/M.: Suhrkamp.
+	- 12/4c2b
+	- 12/4c3b
+	- 31/1c2a
+	- 31/1c2a1
+	- 31/1c2a2
+	- 31/5d2a2
+	- 31/5d2b1a
+- Nassehi, Armin (2004): Sozialer Sinn, in: Nassehi, Armin / Nollmann, Gerd (Hrsg.): Bourdieu und Luhmann, Frankfurt/M.: Suhrkamp, S. 155-188.
+	- 12/4c3b4
+- Nassehi, Armin (2006): Der soziologische Diskurs der Moderne, Frankfurt/M.: Suhrkamp.
+	- 12/4c3b1
+	- 31/1c2a
+- Nassehi, Armin (2011): Gesellschaft der Gegenwarten, Berlin: Suhrkamp.
+	- 11/2
+	- 21/3c
+	- 21/4
+	- 21/5
+	- 21/6
+	- 31/1b
+	- 31/5
+- Nassehi, Armin (2015): Die „Theodizee des Willens“ als Bezugsproblem des Ethischen, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 31-41.
+	- 12/1
+	- 31/5a
+	- 31/5b
+- Nassehi, Armin (2015): Die letzte Stunde der Wahrheit, Hamburg: Murrmann Verlag.
+	- 12/4b
+- Nida-Rümelin, Julian (2001): Strukturelle Rationalität, Stuttgart: Reclam. 
+	- 11/2a
+	- 11/2b
+	- 12/2a
+## O
+- Obrist, Hans Ulrich (2014): Ways of curating, New York, NY: Penguin.
+	- 21/5c3a
+	- 21/5c3b
+	- 21/5c3c
+- Oevermann, Ulrich (1990): Klinische Soziologie. Konzeptualisierung, Begründung, Berufspraxis und Ausbildung. Manuskript. Zitiert nach: www.objektivehermeneutik.de keine valide Quellenangabe
+	- 31/1c2b2b
+## P
+- Parsons, Talcott (1939): The professions and social structure, in: Social Forces 17.4, S. 457-467.
+	- 31/1c6
+- Parsons, Talcott (1958): Struktur und Funktion der Modernen Medizin, in: König, René (Hrsg.): Probleme der Medizin-Soziologie, Kölner Zeitschrift für Soziologie und Sozialpsychologie, Sonderheft 3, S. 10-57.
+	- 31/1c1a
+	- 31/1c2b
+- Parsons, Talcott / Lidz, Victor (1967): Death in American Society, in: Shneidman, Edwin S. (ed.): Essays in Self-Destruction, New York: Science House, S. 133-170.
+	- 11/7
+## Q
+## R
+- Roßler, Gustav (2008): Kleine Galerie neuer Dingbegriffe, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 76-107.
+	- 21/5c3b5
+## S
+- Saake, Irmhild (2004): Theorien der Empirie. Zur Spiegelbildlichkeit der Bourdieuschen Theorie der Praxis und der Luhmannschen Systemtheorie, in: Nassehi, Armin / Nollmann, Gerd (Hrsg.): Bourdieu und Luhmann, Frankfurt/M.: Suhrkamp, S. 85-118. 
+	- 12/4c3b1
+- Saake, Irmhild (2008): Moderne Todessemantiken, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 237-262.
+	- 31/5d2a
+- Saake, Irmhild (2010): Die Kultur des Sterbens. Praktiken der Symmetrisierung, in: polar #10, 6-18.
+	- 31/5d2
+- Saake, Irmhild (2012): Sterben vor Publikum, in: Kursbuch 171.
+	- 31/5d2b
+- Saake, Irmhild (2015): Soziologie der Ethik. Semantik es symmetrischer Kommunikation, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 43-67.
+	- 12/2
+	- 12/3
+	- 12/4c
+	- 21/5b
+	- 21/5c
+- Saake, Irmhild (2016): Zum Umgang mit Unterschieden und Asymmetrien, in: Aus Politik und Zeitgeschichte (66) 09/2016, S. 49-54. 
+	- 31/4a
+	- 31/5d
+- Saake, Irmhild / Nassehi, Armin (2004): Die Kulturalisierung der Ethik, in: Burkhardt Günter / Runkel Gunter (Hrsg.): Luhmann und die Kulturtheorie, Frankfurt/M.: Suhrkamp, S. 102-135.
+	- 11/4
+	- 31/1c2b1
+- Saake, Irmhild / Nassehi, Armin (2007): Einleitung: Warum Systeme?, in: Soziale Welt, Sonderheft 58, S. 233-253.
+	- 12/4c3b2
+- Saake, Irmhild / Kunz, Dominik (2015): Von Kommunikation über Ethik zu „ethischer Sensibilisierung“. Symmetrisierungsprozesse in diskursiven Verfahren, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 199-227.
+	- 21/5c1
+	- 21/5c2
+	- 21/5d
+	- 21/5e
+	- 31/1c
+- Schlegel, Friedrich (1799): Lucinde, Stuttgart: Reclam.
+	- 31/4
+- Schneider, Werner (2005): Zur diskursiven Ordnung des Lebensendes, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 55-80.
+	- 31/5d2a1
+- Schneider, Werner (2014): Sterbewelten. Ethnographische (und dispostivanalytische) Forschung am Lebensende, in: Schnell, Martin W. / Schneider, Werner / Kolbe, Harald (Hrsg.): Sterbewelten, Wiesbaden: Springer VS, S. 51-138.
+	- 11/5
+	- 11/6
+	- 31/1c5
+- Schleiermacher, Friedrich (1977): Hermeneutik und Kritik. Herausgegeben von Manfred Frank, Frankfurt/M.: Suhrkamp.
+	- 33/5d5a1
+- Schradt, Dinah (2015): Auf schmalem Grat mit Leib und Seele. Zum politischen Umgang mit Tod und Verwundung am Beispiel des Afghanistaneinsatzes der Bundeswehr, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 95-129.
+	- 11/3
+- Schroer, Markus (2008): Vermischen, Vermitteln, Vernetzen, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 361-400.
+	- 12/4g
+	- 21/5c6b
+- Serres, Michel (2008): Der Parasit, Frankfurt/M.: Suhrkamp.
+	- 21/5c3b5
+- Simmel, Georg (1989): Die Philosophie des Geldes, Frankfurt/M.: Suhrkamp.
+	- 31/1e
+- Stäheli, Urs (2000): Sinnzusammenbrüche, Wielerswist: Velbrück Wissenschaft.
+	- 12/4c1a
+	- 12/4c1b
+	- 12/4c3a
+- Stäheli, Urs (2016): Von einer Politik der Konnektivität zu einer Politik der Diskonnektivität, in: Soziale Welt, Sonderheft 67.3, S. 299-312.
+	- 21/3b1
+	- 31/1d
+	- 31/5c
+- Streckeisen, Ursula (2001): Die Medizin und der Tod, Leske + Budrich.
+	- 31/1c2c
+- Streeck, Natalie (2017): Sterben, wie man gelebt hat. Die Optimierung des Lebensendes, in: Jakoby, Nina / Thönnes, Michaela (Hrsg.): Zur Soziologie des Sterbens, Wiesbaden: Springer VS, S. 29-48.
+	- 31/5d2b2
+- Stolberg, Michael (2011): Die Geschichte der Palliativmedizin, Frankfurt/M.: Mabuse-Verlag. 
+	- 31/5d2g1a2
+	- 31/5d2g1a2a
+	- 31/5d2g1a2b
+- Sudnow, David (1973): Organisiertes Sterben. Eine soziologische Untersuchung, Frankfurt/M.: S. Fischer Verlag.
+	- 31/1c2d2
+	- 31/1c2d3
+## T
+- Tarde, Gabriel (2009): Monadologie und Soziologie, Frankfurt/M.: Suhrkamp. 
+	- 21/2
+	- 21/3
+	- 21/3a
+	- 21/3b
+	- 31/3
+## U
+## V
+- Vogd, Werner (2002): Professionalisierungsschub oder Auflösung ärztlicher Autonomie, in: Zeitschrift für Soziologie 31.4, S. 294-315.
+	- 31/1c2b2a
+	- 31/1c2b2b
+- Vogd, Werner (2007): Empirie oder Theorie?, in: Soziale Welt, Sonderheft 58, S. 295-321.
+	- 11/2d
+	- 12/4c3b3
+- Vogd, Werner (2010): Methodologie und Verfahrensweise der dokumentarischen Methode, in: John, René / Henkel, Anna / Rückert-John Jana (Hrsg.): Methodologien des Systems, Wiesbaden: VS-Verlag, S. 121-140.
+	- 31/1c2d1
+- Vogd, Werner (2017): The professions in modernity and the society of the future, in: Professions and Professionalism 7.1, Keine Seitenzahlen.
+	- 31/1c2b3
+## W
+- Wagner, Elke (2007): Der Arzt und seine Kritiker, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 265-284.
+	- 21/5c2a
+	- 21/5c2b
+	- 31/1b1
+- Wasner, Maria / Piret, Paal / Borasio, Gian Domenico (2013): Psychological Care for the Caregivers of Primary Malignant Brain Tumor Patients, in: Journal of Social Work in End-of-Life & Palliative Care 9, S. 74-95.
+	- 31/1c2a3
+- Wolf, Julian / Vogd, Werner (2018): Professionalisierung der Pflege, Deprofessionalisierung der Ärzte oder vice versa?, in: Müller-Hermann, Silke / Becker-Lenz, Roland / Busse, Stefan / Ehlert, Gudrun (Hrsg.): Professionskulturen - Charakteristika unterschiedlicher professioneller Praxen, Wiesbaden: Springer VS, S. 151-173.
+	- 31/5d2h2a
+	- 31/5d2h5
+## X, Y, Z
