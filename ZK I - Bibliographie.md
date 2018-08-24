@@ -3,7 +3,7 @@
 - Adorno, Theodor W. (1975): Philosophie der neuen Musik, Frankfurt/M.: Suhrkamp.
 	- 11/1a
 	- 22/1
-- Atzeni, Gina (2016): Professionelles Erwartungsmanagement.  Zur soziologischen Bedeutung der sozialfigur Arzt, Baden-Baden: Nomos.
+- Atzeni, Gina (2016): Professionelles Erwartungsmanagement.  Zur soziologischen Bedeutung der Sozialfigur Arzt, Baden-Baden: Nomos.
 	- 31/1c2
 	- 31/1c2a
 	- 31/1c3
@@ -12,10 +12,14 @@
 	- 12/5
 	- 21/5c3
 ## B
+- Baecker, Dirk (2008): Zur Krankenbehandlung im Krankenhaus, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 39-62.
+	- 31/5d2d
 - Barth, Niklas / Nassehi, Armin / Schneider, Antonius (2013): Umgang mit Unbestimmtheit - zur Hypermodernität des Hausarztes, in: Zeitschrift für Evidenz, Fortbildung und Qualität im Gesundheitswesen 108, S. 59-65.
 	- 31/1c2b2
+	- 31/5d2d2
 - Belan, Dina / Schiller, Carina (2016): Helfen ohne zu heilen. Berufsbedingte Belastungen und Bewältigungsstrategien von Palliativpflegekräften, München: Rainer Hampp Verlag.
 	- 31/1c4
+	- 31/5d2d1a
 - Bourdieu, Pierre (1987): Sozialer Sinn, Frankfurt/M.: Suhrkamp.
 	- 12/4c3b4
 ## C
@@ -31,12 +35,19 @@
 - Deleuze, Gilles / Guattari, Félix (1977): Rhizom, Berlin: Merve.
 	- 12/4j
 	- 12/4k
+- Dreßke, Stephan (2008): Die Herstellung des „guten Sterbens“. Arbeit an der Identitätssicherung im Hospiz, in:  Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 215-236.
+	- 31/5d2g
 - Dreßke, Stephan / Göckenjahn, Gerd (2002): Wandlungen des Sterbens im Krankenhaus und die Konflikte zwischen Krankenrolle und Sterberolle, in: Österreichische Zeitschrift für Soziologie 27.4, S. 80-96.
 	- 31/5d2b3
 ## E
 ## F
+- Findeis, Anja (2008): Die Ganzheitlichkeit der Pflege. Ein notwendiger Mythos klinischer Organisationen, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 307-328.
+	- 31/5d2h
 - Foucault, Michel (1988): Die Geburt der Klinik, Frankfurt/M.: S. Fischer Verlag.
 	- 31/1c1b
+	- 31/5d2d2a
+	- 31/5d2d2b
+	- 31/5d2b2c
 ## G
 - Gertenbach, Lars (2016): Politik - Diplomatie - Dezisionismus, in: Soziale Welt 67.3, S. 281-298.
 	- 21/3b2
@@ -47,8 +58,11 @@
 - Glaser, Barney G. / Strauss, Anselm L. (1974): Interaktion mit Sterbenden, Göttingen: Vandenhoeck & Ruprecht.
 	- 31/1c2f
 	- 31/1c2g
+- Groddeck, Victoria von (2011): Organisation und Werte, Wiesbaden: VS-Verlag.
+	- 31/5d2e5
 - Gronemeyer, Reimer (2005): Hospizbewegung und Palliative Care, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 207-220.
 	- 31/5d2b1
+	- 31/5d2g3
 ## H
 - Habermas, Jürgen (1971): Theorie der Gesellschaft oder Sozialtechnologie? Eine Auseinandersetzung mit Niklas Luhmann, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie?, Frankfurt/M.: Suhrkamp, S. 142-290.
 	- 12/4c3b5
@@ -56,10 +70,15 @@
 	- ausstehend
 - Habermas, Jürgen (1997): Die Einheit der Vernunft in der Vielfalt ihrer Stimmen, in: ders.: Nachmetaphysisches Denken. Philosophische Aufsätze, Frankfurt/M.: Suhrkamp, S. 153-186.
 	- 12/4l
+- Hanses, Andreas / Heuer, Katrin / Janotta, Lisa / Paul, Kathleen (2015): Konstruktionen des Sterbens - Analysen zu den Herstellungsweisen des Sterbens in organisationalen Kontexten, in: Neue Praxis 45.2, S. 160-177.
+	- 31/5d2g2a
+	- 31/5d2g3a
 ## I
 ## J
 - Jacques, Michel (1997): Soigner avec ou sans consentement, dans: Faure, Olivier (ed.): Les thérapeutiques : savoirs et usages, Lyon: Fondation Marcel Mérieux, S. 341-356.
 	- 31/1c2b2c
+- James, Nicky / Field, David (1992): The routinization of hospice: Charisma and bureaucratization, in: Social Science & Medicine 34.12, pp. 1363-1375.
+	- 31/5d2g3b
 ## K
 - Keller, Reiner / Lau, Christoph (2008): Bruno Latour und die Grenzen der Gesellschaft, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 306-338.
 	- 12/3a1
@@ -142,9 +161,15 @@
 	- 12/4c5
 	- 21/1
 	- 21/3f
+- Luhmann, Niklas (2008): Ist Kunst codierbar?, in: ders. (Hrsg.): Schriften zur Kunst und Literatur, Frankfurt/M.: Suhrkamp, S. 14-44.
+	- 31/5d2c
+- Luhmann, Niklas (2009: Der medizinische Code, in: ders. (Hrsg.): Soziologische Aufklärung 5. Konstruktivistische Perspektiven, Wiesbaden: VS-Verlag, S. 176-188.
+	- 31/5d2d1
 ## M
 - May, Michaela / Smeaton, Susan / Sittig, Melanie (2016): Die psychosoziale Dimension der Spezialisierten Ambulanten Palliativversorgung, in: Neue Praxis 46.5, S. 473-483.
 	- 31/5d2h1b1
+- May, Michaela / Schütte-Bäumer, Christian (2018): Macht- und Wissensverhältnisse in der spezialisierten ambulanten Palliativversorgung, in: Stehr Johannes / Anhorn, Roland / Rathgeb, Kerstin (Hrsg.): Konflikt als Verhältnis - Konflikt als Verhalten - Konflikt als Widerstand, Wiesbaden: Springer VS, S. 519-531.
+	- 31/5d2g1a1
 - Mayr, Katharina (2007): Rationalität und Plausibilität in klinischen Ethikkomitees, in: Soziale Welt, Sonderheft 58, S. 323-344.
 	- 11/2c1
 - McNamara, Beverley (2004): Good enough death: autonomy and choice in Australian palliative care, in: Social Science & Medicine 58, S. 929-938.
@@ -159,6 +184,8 @@
 ## N
 - Nassehi, Armin (1997): Kommunikation verstehen, in: Sutter, Tilmann (Hrsg.): Beobachtung verstehen, Verstehen beobachten, Opladen: Westdeutscher Verlag, S. 134-163.
 	- 12/4c3c
+- Nassehi, Armin (2002): Begriffsumstellungen und ihre Folgen - Antwort auf die Replik von Hrischauer/Bergmann, in: Zeitschrift für Soziologie 31.4, S. 337-343.
+	- 33/5c3b
 - Nassehi, Armin (2003): Geschlossenheit und Offenheit, Frankfurt/M.: Suhrkamp.
 	- 12/4c2b
 	- 12/4c3b
@@ -172,6 +199,8 @@
 - Nassehi, Armin (2006): Der soziologische Diskurs der Moderne, Frankfurt/M.: Suhrkamp.
 	- 12/4c3b1
 	- 31/1c2a
+- Nassehi, Armin (2007): Todesexperten, in: Schneider, Werner / Nieder, Ludwig (Hrsg.): Die grenzen des menschlichen Lebens, Münster: Lit Verlag, S. 123-134.
+	- 31/5d2g2b
 - Nassehi, Armin (2011): Gesellschaft der Gegenwarten, Berlin: Suhrkamp.
 	- 11/2
 	- 21/3c
@@ -205,11 +234,18 @@
 	- 31/1c2b
 - Parsons, Talcott / Lidz, Victor (1967): Death in American Society, in: Shneidman, Edwin S. (ed.): Essays in Self-Destruction, New York: Science House, S. 133-170.
 	- 11/7
+	- 31/5d2d2e
+- Pfeffer, Christine (2005): Ich hab‘ gar nicht gemerkt, wie ich da reingezogen wurde: Zur Dynamik von Individualsierung und Nähe in der Pflegearbeit stationärer Hospize, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 103-124.
+	- 31/5d2g1
+	- 31/5d2g2
 ## Q
 ## R
 - Roßler, Gustav (2008): Kleine Galerie neuer Dingbegriffe, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 76-107.
 	- 21/5c3b5
 ## S
+- Saake, Irmhild (2003): Die Performanz des Medizinischen, in: Soziale Welt 54.4, S. 429-459.
+	- 31/5d2d3
+	- 31/5d2d4
 - Saake, Irmhild (2004): Theorien der Empirie. Zur Spiegelbildlichkeit der Bourdieuschen Theorie der Praxis und der Luhmannschen Systemtheorie, in: Nassehi, Armin / Nollmann, Gerd (Hrsg.): Bourdieu und Luhmann, Frankfurt/M.: Suhrkamp, S. 85-118. 
 	- 12/4c3b1
 - Saake, Irmhild (2008): Moderne Todessemantiken, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 237-262.
@@ -246,6 +282,10 @@
 	- 11/5
 	- 11/6
 	- 31/1c5
+	- 31/5d2b4
+	- 31/5d2g4
+- Schneider, Werner / Nieder, Ludwig (2007): Grenzfragen menschlichen Lebens: Lebensbeginn und Lebensende aus kultursoziologischer Sicht - Einleitung, in: Schneider, Werner / Nieder, Ludwig (Hrsg.): Die Grenzen des menschlichen Lebens, Münster: Lit Verlag, S. 7-24.
+	- 31/5d2b5
 - Schleiermacher, Friedrich (1977): Hermeneutik und Kritik. Herausgegeben von Manfred Frank, Frankfurt/M.: Suhrkamp.
 	- 33/5d5a1
 - Schradt, Dinah (2015): Auf schmalem Grat mit Leib und Seele. Zum politischen Umgang mit Tod und Verwundung am Beispiel des Afghanistaneinsatzes der Bundeswehr, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 95-129.
@@ -257,6 +297,8 @@
 	- 21/5c3b5
 - Simmel, Georg (1989): Die Philosophie des Geldes, Frankfurt/M.: Suhrkamp.
 	- 31/1e
+- Stadelbacher, Stephanie (2017): Das Lebensende als Randgebiet des Sozialen? Zur Praxis des ‚guten‘ Sterbens zu Hause am Beispiel der ambulanten Hospiz- und Palliativarbeit, in: Jakoby, Nina / Thönnes, Michaela (Hrsg.): Zur Soziologie des Sterbens, Wiesbaden: Springer VS, S. 49-70.
+	- 31/5d2g1a
 - Stäheli, Urs (2000): Sinnzusammenbrüche, Wielerswist: Velbrück Wissenschaft.
 	- 12/4c1a
 	- 12/4c1b
@@ -267,15 +309,31 @@
 	- 31/5c
 - Streckeisen, Ursula (2001): Die Medizin und der Tod, Leske + Budrich.
 	- 31/1c2c
+	- 31/5d2e1a
+	- 31/5d2e4
+- Streckeisen, Ursula (2005): Das Lebensende in der Universitätsklinik. Sterbendenbetreuung in der Inneren Medizin zwischen Tradition und Aufbruch, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 125-146.
+	- 31/5d2e1
+	- 31/5d2e3
+- Streckeisen, Ursula (2008): Legitime und Illegitime Schmerzen. Ärztliche und pflegerische Strategien im Umgang mit invasives Maßnahmen bei Sterbenden, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 191-214.
+	- 31/5d2e
+	- 31/5d2f
 - Streeck, Natalie (2017): Sterben, wie man gelebt hat. Die Optimierung des Lebensendes, in: Jakoby, Nina / Thönnes, Michaela (Hrsg.): Zur Soziologie des Sterbens, Wiesbaden: Springer VS, S. 29-48.
 	- 31/5d2b2
+- Stolberg, Michael (2007): Cura palliativa. Begriff und Diskussion der palliativen Krankheitsbehandlung in der vermodernden Medizin, in: Medizinhistorisches Journal 42, S. 7-29.
+	- 31/5d2d1b
+	- 31/5d2g1b
+	- 31/5d2g1c
 - Stolberg, Michael (2011): Die Geschichte der Palliativmedizin, Frankfurt/M.: Mabuse-Verlag. 
 	- 31/5d2g1a2
 	- 31/5d2g1a2a
 	- 31/5d2g1a2b
+	- 31/5d2g1d
+	- 31/5d2g1e
+	- 31/5d2b6
 - Sudnow, David (1973): Organisiertes Sterben. Eine soziologische Untersuchung, Frankfurt/M.: S. Fischer Verlag.
 	- 31/1c2d2
 	- 31/1c2d3
+	- 31/5d2d2d
 ## T
 - Tarde, Gabriel (2009): Monadologie und Soziologie, Frankfurt/M.: Suhrkamp. 
 	- 21/2
@@ -283,11 +341,15 @@
 	- 21/3a
 	- 21/3b
 	- 31/3
+- Thönnes, Michaela / Jakoby, Nina (2017): Tiere als Sterbebegleiter. Eine symbolisch-interaktionistische Perspektive, in: ders. (Hrsg.): Zur Soziologie des Sterbens, Wiesbaden: Springer VS, S. 91-112.
+	- 31/5d2f1
 ## U
 ## V
 - Vogd, Werner (2002): Professionalisierungsschub oder Auflösung ärztlicher Autonomie, in: Zeitschrift für Soziologie 31.4, S. 294-315.
 	- 31/1c2b2a
 	- 31/1c2b2b
+- Vogd, Werner (2005): Systemtheorie und rekonstruktive Sozialforschung, Opladen: Verlag Barbara Budrich.
+	- 31/5d2e6
 - Vogd, Werner (2007): Empirie oder Theorie?, in: Soziale Welt, Sonderheft 58, S. 295-321.
 	- 11/2d
 	- 12/4c3b3
@@ -300,8 +362,13 @@
 	- 21/5c2a
 	- 21/5c2b
 	- 31/1b1
+- Walker, Andreas / Breitsameter, Christoph (2012): Conflicts and conflict regulation in hospices: nurses‘ perspectives, in: Medical Health Care and Philosophy 16/2013, pp. 709-718.
+	- 31/5d2g5
 - Wasner, Maria / Piret, Paal / Borasio, Gian Domenico (2013): Psychological Care for the Caregivers of Primary Malignant Brain Tumor Patients, in: Journal of Social Work in End-of-Life & Palliative Care 9, S. 74-95.
 	- 31/1c2a3
+- Winkel, Heidemarie (2005): Selbstbestimmt Sterben. Patient(inn)enorientierung und ganzheitliche Schmerztherapie als Kommunikationskoordinaten in der Hospizarbeit. Eine systemtheoretische Perspektive, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 169-188.
+	- 31/5d2e2
+	- 31/5d2e3
 - Wolf, Julian / Vogd, Werner (2018): Professionalisierung der Pflege, Deprofessionalisierung der Ärzte oder vice versa?, in: Müller-Hermann, Silke / Becker-Lenz, Roland / Busse, Stefan / Ehlert, Gudrun (Hrsg.): Professionskulturen - Charakteristika unterschiedlicher professioneller Praxen, Wiesbaden: Springer VS, S. 151-173.
 	- 31/5d2h2a
 	- 31/5d2h5
