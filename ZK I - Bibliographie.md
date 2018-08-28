@@ -40,6 +40,8 @@
 - Dreßke, Stephan / Göckenjahn, Gerd (2002): Wandlungen des Sterbens im Krankenhaus und die Konflikte zwischen Krankenrolle und Sterberolle, in: Österreichische Zeitschrift für Soziologie 27.4, S. 80-96.
 	- 31/5d2b3
 ## E
+- Ernaux, Annie (1997): La honte, Paris: Éditions Gallimard.
+	- ausstehend
 ## F
 - Findeis, Anja (2008): Die Ganzheitlichkeit der Pflege. Ein notwendiger Mythos klinischer Organisationen, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 307-328.
 	- 31/5d2h
