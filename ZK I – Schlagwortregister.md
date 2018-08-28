@@ -20,7 +20,7 @@
 - Bereichsethik 12/2a
 - Berufe 31/1c1
 - Bewusstsein 31/5d5
-- Bewusstseinskontext 31/1c2e
+- Bewusstseinskontext 31/1c2e; 31/5d2b2a
 - Biografie 31/5d2g2a
 - Bourdieu 61/1
 - Bürokratie 22/3
@@ -153,7 +153,7 @@
 - Papst 12/4b
 - Paradoxie 33/5e, 33/1d; 31/5d2a2
 - Performanz 31/1c2b2a; 31/5d2i; 33/1g,h
-- Person 12/4c3c; 33/1
+- Person 12/4c3c; 33/1; 31/5d2h5
 - Perspektivendifferenz 21/5c, 21/3f
 - Pflege 31/5d2h; 31/5d2h5
 - Plausibilität 12/4c4-5
@@ -191,6 +191,7 @@
 - Soziologie 35/2a
 - Spezialisierung 31/5d2i2
 - Spiritualität 42/1
+- Sterbehilfe 31/1c2i
 - Sterben 31/1c2d; 31/5d2; 31/5d3b; 31/5d6
 - Sterben, gutes 31/5d2b
 - Sterbekultur 31/5d2
