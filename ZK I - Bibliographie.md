@@ -4,9 +4,11 @@
 	- 11/1a
 	- 22/1
 - Atzeni, Gina (2016): Professionelles Erwartungsmanagement.  Zur soziologischen Bedeutung der Sozialfigur Arzt, Baden-Baden: Nomos.
+	- 11/2e 
 	- 31/1c2
 	- 31/1c2a
 	- 31/1c3
+	- 31/5d2e7
 - Atzeni, Gina / Mayr, Katharina (2015): Ethische Expertise. Ethikkommissionen und Klinische Ethik-Komitees als Räume ethischer Rede, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 229-253.
 	- 12/4
 	- 12/5
@@ -20,11 +22,13 @@
 - Belan, Dina / Schiller, Carina (2016): Helfen ohne zu heilen. Berufsbedingte Belastungen und Bewältigungsstrategien von Palliativpflegekräften, München: Rainer Hampp Verlag.
 	- 31/1c4
 	- 31/5d2d1a
+	- 31/5d2j
 - Bourdieu, Pierre (1987): Sozialer Sinn, Frankfurt/M.: Suhrkamp.
 	- 12/4c3b4
 ## C
-- Callon, Michel (1999): De la sociologie du travail appliquée à l‘opération chirurgicale : ou comment faire disparaître la personne du patient, dans: Sociologie du Travail 41.2, pp. 143-162.
+- Callon, Michel / Rabehariosa, Vololona (1999): De la sociologie du travail appliquée à l‘opération chirurgicale : ou comment faire disparaître la personne du patient, dans: Sociologie du Travail 41.2, pp. 143-162.
 	- 12/4m
+	- 31/5d2i5
 - Charmaz, Kathy (1980): The social reality of death. Death in contemporary America, Reading, MA: Addison-Wesley.
 	- 31/1c2d
 - Clive, Seale (1998): Constructing Death. Sociology of Dying and Bereavement, Cambridge: Cambridge University Press.
@@ -50,6 +54,9 @@
 	- 31/5d2d2a
 	- 31/5d2d2b
 	- 31/5d2b2c
+	- 31/5d2h1a
+	- 31/5d2i3
+	- 31/5d2i4
 ## G
 - Gertenbach, Lars (2016): Politik - Diplomatie - Dezisionismus, in: Soziale Welt 67.3, S. 281-298.
 	- 21/3b2
@@ -126,10 +133,10 @@
 	- 31/1d2
 - Luhmann, Niklas (1971): Sinn als Grundbegriff der Soziologie, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie, Frankfurt/M.: Suhrkamp, S. 25-100.
 	- 33/5c7
-- Luhmann, Niklas (1971(2007)): Die Knappheit der Zeit und die Vordringlichkeit des Befristeten, in: ders. (Hrsg.): Politische Planung. Aufsätze zur Soziologie von Politik und Verwaltung, Wiesbaden: VS-Verlag, S. 143-164.
+- Luhmann, Niklas (1971/2007): Die Knappheit der Zeit und die Vordringlichkeit des Befristeten, in: ders. (Hrsg.): Politische Planung. Aufsätze zur Soziologie von Politik und Verwaltung, Wiesbaden: VS-Verlag, S. 143-164.
 	- 71/2
 	- 71/3 
-- Luhmann, Niklas (1975(2009)): Formen des Helfens im Wandel gesellschaftlicher Bedingungen, in: ders. (Hrsg.): Soziologische Aufklärung 2. Aufsätze zur Theorie der Gesellschaft, Wiesbaden: VS-Verlag, S. 167-186.
+- Luhmann, Niklas (1975/2009): Formen des Helfens im Wandel gesellschaftlicher Bedingungen, in: ders. (Hrsg.): Soziologische Aufklärung 2. Aufsätze zur Theorie der Gesellschaft, Wiesbaden: VS-Verlag, S. 167-186.
 	- 31/1c1
 - Luhmann, Niklas (1980): Gesellschaftliche Struktur und semantische Tradition, in: ders (Hrsg.): Gesellschaftsstruktur und Semantik. Band 1, Frankfurt/M.: Suhrkamp, S. 9-71. 
 	- 12/4c1
@@ -165,7 +172,7 @@
 	- 21/3f
 - Luhmann, Niklas (2008): Ist Kunst codierbar?, in: ders. (Hrsg.): Schriften zur Kunst und Literatur, Frankfurt/M.: Suhrkamp, S. 14-44.
 	- 31/5d2c
-- Luhmann, Niklas (2009: Der medizinische Code, in: ders. (Hrsg.): Soziologische Aufklärung 5. Konstruktivistische Perspektiven, Wiesbaden: VS-Verlag, S. 176-188.
+- Luhmann, Niklas (1990/2009): Der medizinische Code, in: ders. (Hrsg.): Soziologische Aufklärung 5. Konstruktivistische Perspektiven, Wiesbaden: VS-Verlag, S. 176-188.
 	- 31/5d2d1
 ## M
 - May, Michaela / Smeaton, Susan / Sittig, Melanie (2016): Die psychosoziale Dimension der Spezialisierten Ambulanten Palliativversorgung, in: Neue Praxis 46.5, S. 473-483.
@@ -177,6 +184,8 @@
 - McNamara, Beverley (2004): Good enough death: autonomy and choice in Australian palliative care, in: Social Science & Medicine 58, S. 929-938.
 	- 31/5d2b2a
 	- 31/5d2a3
+- Menzel-Begemann, Anke / Klünder, Britta / Schaeffer, Doris (2015): Edukative Unterstützung Pflegebedürftiger und ihrer Angehörigen zur Vorbereitung auf die häusliche (Selbst-)Versorgung während der stationären Rehabilitation - Herausforderungen und Erfordernisse, in: Pflege & Gesellschaft 20.2, S. 101-115.
+	- 31/5d2h4
 - Michel, Jacques (1997): Soigner avec ou sans consentement, dans: Faure, Olivier (ed): Les thérapeutiques : savoirs et usages, Lyon: Fondation Marcel Merieux, S. 341-356.
 	- 31/1c2b2c
 - Müller, Julian (2015): Modische Moderne, moderne Moral. Unbestimmtheit als Signum der modernen Gesellschaft, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 157-171.
@@ -203,6 +212,10 @@
 	- 31/1c2a
 - Nassehi, Armin (2007): Todesexperten, in: Schneider, Werner / Nieder, Ludwig (Hrsg.): Die grenzen des menschlichen Lebens, Münster: Lit Verlag, S. 123-134.
 	- 31/5d2g2b
+- Nassehi, Armin (2008): Organisation - Macht - Medizin, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 379-397.
+	- 31/5d2i1
+- Nassehi, Armin (2008): Rethinking Functionalism. Zur Empiriefähigkeit systemtheoretischer Soziologie, in: Kalthoff, Herbert / Hirschauer, Stefan / Lindemann, Gesa (Hrsg.): Theoretische Empirie, Frankfurt/M.: Suhrkamp, S. 79-108.
+	- 31/5d2i
 - Nassehi, Armin (2011): Gesellschaft der Gegenwarten, Berlin: Suhrkamp.
 	- 11/2
 	- 21/3c
@@ -234,6 +247,7 @@
 - Parsons, Talcott (1958): Struktur und Funktion der Modernen Medizin, in: König, René (Hrsg.): Probleme der Medizin-Soziologie, Kölner Zeitschrift für Soziologie und Sozialpsychologie, Sonderheft 3, S. 10-57.
 	- 31/1c1a
 	- 31/1c2b
+	- 31/5d2h3
 - Parsons, Talcott / Lidz, Victor (1967): Death in American Society, in: Shneidman, Edwin S. (ed.): Essays in Self-Destruction, New York: Science House, S. 133-170.
 	- 11/7
 	- 31/5d2d2e
@@ -248,6 +262,7 @@
 - Saake, Irmhild (2003): Die Performanz des Medizinischen, in: Soziale Welt 54.4, S. 429-459.
 	- 31/5d2d3
 	- 31/5d2d4
+	- 31/5d2i2
 - Saake, Irmhild (2004): Theorien der Empirie. Zur Spiegelbildlichkeit der Bourdieuschen Theorie der Praxis und der Luhmannschen Systemtheorie, in: Nassehi, Armin / Nollmann, Gerd (Hrsg.): Bourdieu und Luhmann, Frankfurt/M.: Suhrkamp, S. 85-118. 
 	- 12/4c3b1
 - Saake, Irmhild (2008): Moderne Todessemantiken, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 237-262.
@@ -313,9 +328,13 @@
 	- 31/1c2c
 	- 31/5d2e1a
 	- 31/5d2e4
+	- 31/5d2h1
+	- 31/5d2h2
 - Streckeisen, Ursula (2005): Das Lebensende in der Universitätsklinik. Sterbendenbetreuung in der Inneren Medizin zwischen Tradition und Aufbruch, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 125-146.
 	- 31/5d2e1
 	- 31/5d2e3
+- Streckeisen, Ursula (2007): Die Bannung des Todes durch die Wissenschaft. Berufliche Strategien in der Pathologie, in: Nieder, Ludwig / Schneider, Werner (Hrsg.): Die Grenzen des menschlichen Lebens, Münster: Lit Verlag, S. 85-102.
+	- 31/5d2i6
 - Streckeisen, Ursula (2008): Legitime und Illegitime Schmerzen. Ärztliche und pflegerische Strategien im Umgang mit invasives Maßnahmen bei Sterbenden, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 191-214.
 	- 31/5d2e
 	- 31/5d2f
@@ -350,6 +369,7 @@
 - Vogd, Werner (2002): Professionalisierungsschub oder Auflösung ärztlicher Autonomie, in: Zeitschrift für Soziologie 31.4, S. 294-315.
 	- 31/1c2b2a
 	- 31/1c2b2b
+	- 31/5d2i2
 - Vogd, Werner (2005): Systemtheorie und rekonstruktive Sozialforschung, Opladen: Verlag Barbara Budrich.
 	- 31/5d2e6
 - Vogd, Werner (2007): Empirie oder Theorie?, in: Soziale Welt, Sonderheft 58, S. 295-321.
@@ -364,6 +384,8 @@
 	- 21/5c2a
 	- 21/5c2b
 	- 31/1b1
+- Walker, Andreas / Breitsameter, Christoph (2013): Ethische Entscheidungen in Hospizen. Ergebnisse einer qualitativen Studie in drei Hospizen in Nordrhein-Westfalen, in: Ethik Med, S. 301-313.
+	- 31/5d2k
 - Walker, Andreas / Breitsameter, Christoph (2012): Conflicts and conflict regulation in hospices: nurses‘ perspectives, in: Medical Health Care and Philosophy 16/2013, pp. 709-718.
 	- 31/5d2g5
 - Wasner, Maria / Piret, Paal / Borasio, Gian Domenico (2013): Psychological Care for the Caregivers of Primary Malignant Brain Tumor Patients, in: Journal of Social Work in End-of-Life & Palliative Care 9, S. 74-95.
