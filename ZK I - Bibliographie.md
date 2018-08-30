@@ -16,7 +16,7 @@
 	- 12/5
 	- 21/5c3
 ## B
-- Baecker, Dirk (2008): Zur Krankenbehandlung im Krankenhaus, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 39-62.
+- Baecker, Dirk (2007): Zur Krankenbehandlung im Krankenhaus, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 39-62.
 	- 31/5d2d
 - Barth, Niklas / Nassehi, Armin / Schneider, Antonius (2013): Umgang mit Unbestimmtheit - zur Hypermodernität des Hausarztes, in: Zeitschrift für Evidenz, Fortbildung und Qualität im Gesundheitswesen 108, S. 59-65.
 	- 31/1c2b2
@@ -46,7 +46,7 @@
 - Deleuze, Gilles / Guattari, Félix (1977): Rhizom, Berlin: Merve.
 	- 12/4j
 	- 12/4k
-- Dreßke, Stephan (2008): Die Herstellung des „guten Sterbens“. Arbeit an der Identitätssicherung im Hospiz, in:  Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 215-236.
+- Dreßke, Stephan (2007): Die Herstellung des „guten Sterbens“. Arbeit an der Identitätssicherung im Hospiz, in:  Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 215-236.
 	- 31/5d2g
 - Dreßke, Stephan / Göckenjahn, Gerd (2002): Wandlungen des Sterbens im Krankenhaus und die Konflikte zwischen Krankenrolle und Sterberolle, in: Österreichische Zeitschrift für Soziologie 27.4, S. 80-96.
 	- 31/5d2b3
@@ -54,7 +54,7 @@
 - Ernaux, Annie (1997): La honte, Paris: Éditions Gallimard.
 	- ausstehend
 ## F
-- Findeis, Anja (2008): Die Ganzheitlichkeit der Pflege. Ein notwendiger Mythos klinischer Organisationen, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 307-328.
+- Findeis, Anja (2007): Die Ganzheitlichkeit der Pflege. Ein notwendiger Mythos klinischer Organisationen, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 307-328.
 	- 31/5d2h
 - Foucault, Michel (1988): Die Geburt der Klinik, Frankfurt/M.: S. Fischer Verlag.
 	- 31/1c1b
@@ -79,7 +79,7 @@
 - Groddeck, Victoria von (2011): Organisation und Werte, Wiesbaden: VS-Verlag.
 	- 31/5d2e5
 	- 31/7a
-- Groddeck, Victoria von (2015): Unternehmen sind nun mal Teil der Gesellschaft, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. ausstehend.
+- Groddeck, Victoria von (2015): Unternehmen sind nun mal Teil der Gesellschaft, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 131-156.
 	- 31/7
 - Gronemeyer, Reimer (2005): Hospizbewegung und Palliative Care, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 207-220.
 	- 31/5d2b1
@@ -162,6 +162,8 @@
 	- 12/4c2
 	- 12/4c3
 	- 12/4c4
+- Luhmann, Niklas (1983): Anspruchsinflation im Krankheitssystem. Eine Stellungnahme aus gesellschaftstheoretischer Sicht, in: Herder-Dorneich, Philipp / Schuller, Alexander (Hrsg.): Die Anspruchsspirale, Stuttgart: Kohlhammer, S. 28-49.
+	- 31/5d2d2f
 - Luhmann, Niklas (1984): Soziale Systeme, Frankfurt/M.: Suhrkamp.
 	- 11/2c
 	- 12/6
@@ -237,11 +239,14 @@
 	- 31/1c2a
 - Nassehi, Armin (2007): Todesexperten, in: Schneider, Werner / Nieder, Ludwig (Hrsg.): Die grenzen des menschlichen Lebens, Münster: Lit Verlag, S. 123-134.
 	- 31/5d2g2b
-- Nassehi, Armin (2008): Organisation - Macht - Medizin, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 379-397.
+- Nassehi, Armin (2007): Organisation - Macht - Medizin, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 379-397.
 	- 31/5d2i1
 	- 31/5d4a2
 - Nassehi, Armin (2008): Rethinking Functionalism. Zur Empiriefähigkeit systemtheoretischer Soziologie, in: Kalthoff, Herbert / Hirschauer, Stefan / Lindemann, Gesa (Hrsg.): Theoretische Empirie, Frankfurt/M.: Suhrkamp, S. 79-108.
 	- 31/5d2i
+- Nassehi, Armin (2010): Asymmetrien als Lösung und als Problem, in: Fateh-Moghadam, Bijan / Sellmaier, Stephan / Vossenkuhl, Wilhelm (Hrsg.): Grenzen des Paternalismus, Stuttgart: Kohlhammer, S. 341-356.
+	- 31/5d2a4
+	- 31/5d8
 - Nassehi, Armin (2011): Gesellschaft der Gegenwarten, Berlin: Suhrkamp.
 	- 11/2
 	- 21/3c
@@ -304,7 +309,7 @@
 	- 31/5h
 - Saake, Irmhild (2004): Theorien der Empirie. Zur Spiegelbildlichkeit der Bourdieuschen Theorie der Praxis und der Luhmannschen Systemtheorie, in: Nassehi, Armin / Nollmann, Gerd (Hrsg.): Bourdieu und Luhmann, Frankfurt/M.: Suhrkamp, S. 85-118. 
 	- 12/4c3b1
-- Saake, Irmhild (2008): Moderne Todessemantiken, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 237-262.
+- Saake, Irmhild (2007): Moderne Todessemantiken, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 237-262.
 	- 31/5d2a
 - Saake, Irmhild (2010): Die Kultur des Sterbens. Praktiken der Symmetrisierung, in: polar #10, 6-18.
 	- 31/5d2
@@ -328,7 +333,7 @@
 	- 31/5d6
 - Saake, Irmhild / Nassehi, Armin (2007): Einleitung: Warum Systeme?, in: Soziale Welt, Sonderheft 58, S. 233-253.
 	- 12/4c3b2
-- Saake, Irmhild / Vogd, Werner (2008): Einleitung. Moderne Mythen der Medizin, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 7-36.
+- Saake, Irmhild / Vogd, Werner (2007): Einleitung. Moderne Mythen der Medizin, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 7-36.
 	- 31/5d4a3
 - Saake, Irmhild / Kunz, Dominik (2015): Von Kommunikation über Ethik zu „ethischer Sensibilisierung“. Symmetrisierungsprozesse in diskursiven Verfahren, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 199-227.
 	- 21/5c1
@@ -387,7 +392,7 @@
 	- 31/5d2e3
 - Streckeisen, Ursula (2007): Die Bannung des Todes durch die Wissenschaft. Berufliche Strategien in der Pathologie, in: Nieder, Ludwig / Schneider, Werner (Hrsg.): Die Grenzen des menschlichen Lebens, Münster: Lit Verlag, S. 85-102.
 	- 31/5d2i6
-- Streckeisen, Ursula (2008): Legitime und Illegitime Schmerzen. Ärztliche und pflegerische Strategien im Umgang mit invasives Maßnahmen bei Sterbenden, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 191-214.
+- Streckeisen, Ursula (2007): Legitime und Illegitime Schmerzen. Ärztliche und pflegerische Strategien im Umgang mit invasives Maßnahmen bei Sterbenden, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 191-214.
 	- 31/5d2e
 	- 31/5d2f
 - Streeck, Natalie (2017): Sterben, wie man gelebt hat. Die Optimierung des Lebensendes, in: Jakoby, Nina / Thönnes, Michaela (Hrsg.): Zur Soziologie des Sterbens, Wiesbaden: Springer VS, S. 29-48.
