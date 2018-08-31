@@ -232,6 +232,8 @@
 	- 31/5d2a2
 	- 31/5d2b1a
 	- 31/5g2
+- Nassehi, Armin (2004): Die Theorie funktionaler Differenzierung im Horizont ihrer Kritik, in: Zeitschrift für Soziologie 33.2, S. 98-118.
+	- ausstehend
 - Nassehi, Armin (2004): Sozialer Sinn, in: Nassehi, Armin / Nollmann, Gerd (Hrsg.): Bourdieu und Luhmann, Frankfurt/M.: Suhrkamp, S. 155-188.
 	- 12/4c3b4
 - Nassehi, Armin (2006): Der soziologische Diskurs der Moderne, Frankfurt/M.: Suhrkamp.
@@ -256,6 +258,8 @@
 	- 31/1b
 	- 31/5
 	- 31/6
+- Nassehi, Armin (2012): Ökonomisierung als Optionssteigerung. Eine differenzierungstheoretische Perspektive, in: Soziale Welt 63.4, S. 401-418.
+	- ausstehend
 - Nassehi, Armin (2015): Die „Theodizee des Willens“ als Bezugsproblem des Ethischen, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 31-41.
 	- 12/1
 	- 31/5a
@@ -267,6 +271,8 @@
 	- 31/5d5a
 - Nassehi, Armin / Brüggen, Susanne / Saake, Irmhild (2002): Beratung zum Tode. Eine neue ars moriendi?, in: Berliner Journal für Soziologie 12.1, S. 63-85.
 	- 31/5d3
+- Nassehi, Armin / Saake, Irmhild (2002): Kontingenz: Methodisch verhindert oder beobachtet?, in: Zeitschrift für Soziologie 31.1, S. 66-86.
+	- ausstehend
 - Nida-Rümelin, Julian (2001): Strukturelle Rationalität, Stuttgart: Reclam. 
 	- 11/2a
 	- 11/2b
@@ -432,6 +438,8 @@
 - Vogd, Werner (2007): Empirie oder Theorie?, in: Soziale Welt, Sonderheft 58, S. 295-321.
 	- 11/2d
 	- 12/4c3b3
+- Vogd, Werner (2009): Systemtheorie und Methode? Zum komplexen Verhältnis von Theoriearbeit und Empirie in der Organisationsforschung, in: Soziale Systeme 15.1, S. 98-137.
+	- ausstehend
 - Vogd, Werner (2010): Methodologie und Verfahrensweise der dokumentarischen Methode, in: John, René / Henkel, Anna / Rückert-John Jana (Hrsg.): Methodologien des Systems, Wiesbaden: VS-Verlag, S. 121-140.
 	- 31/1c2d1
 - Vogd, Werner (2017): The professions in modernity and the society of the future, in: Professions and Professionalism 7.1, Keine Seitenzahlen.
