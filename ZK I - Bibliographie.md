@@ -3,6 +3,8 @@
 - Adorno, Theodor W. (1975): Philosophie der neuen Musik, Frankfurt/M.: Suhrkamp.
 	- 11/1a
 	- 22/1
+- Akerstrøm Andersen, Niels (2010): The Semantic Analytical Strategy and Diagnostic of Present, in: John, René / Henkel, Anna / Rückert-John, Jana (Hrsg.): Die Methodologien des Systems. Wie kommt man zum Fall und wie dahinter?, Wiesbaden: VS-Verlag, S. 161-180.
+	- 33/1h1
 - Ariès, Philippe (1980): Geschichte des Todes, München/Wien: Hanser.
 	- 31/5d5b
 - Atzeni, Gina (2016): Professionelles Erwartungsmanagement.  Zur soziologischen Bedeutung der Sozialfigur Arzt, Baden-Baden: Nomos.
@@ -21,6 +23,8 @@
 - Barth, Niklas / Nassehi, Armin / Schneider, Antonius (2013): Umgang mit Unbestimmtheit - zur Hypermodernität des Hausarztes, in: Zeitschrift für Evidenz, Fortbildung und Qualität im Gesundheitswesen 108, S. 59-65.
 	- 31/1c2b2
 	- 31/5d2d2
+- Barth, Niklas / Linde, K Vorname fehlt / Schneider, Antonius (2017): Niederlassungsmotive - Die Bereitschaft zur Niederlassung in eigener Praxis von Ärztinnen und Ärzten in Weiterbildung zum Facharzt für Allgemeinmedizin, in: Das Gesundheitswesen 79, S. 638-644.
+	- 33/5c3a
 - Bateson, Gregory (1993): Wo Engel zögern. Unterwegs zu einer Epistemologie des Heiligen, Frankfurt/M.: Suhrkamp.
 	- 31/5d4a1 
 - Belan, Dina / Schiller, Carina (2016): Helfen ohne zu heilen. Berufsbedingte Belastungen und Bewältigungsstrategien von Palliativpflegekräften, München: Rainer Hampp Verlag.
@@ -31,6 +35,8 @@
 	- 31/8b
 - Bloor, David (1999): Anti-Latour, in: Studies in History and Philosophy of Science 30.1, pp. 81-112.
 	- 31/8a
+- Bohnsack, Ralf (2010): Dokumentarische Methode und Typenbildung - Bezüge zur Systemtheorie, in: John, René / Henkel, Anna / Rückert-John Jana (Hrsg.): Methodologien des Systems, Wiesbaden: VS-Verlag, S. 291-320.
+	- 33/5d5e
 - Bourdieu, Pierre (1987): Sozialer Sinn, Frankfurt/M.: Suhrkamp.
 	- 12/4c3b4
 - Brüggen, Susanne (2005): Religiöses aus der Ratgeberecke, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 81-102.
@@ -52,8 +58,10 @@
 	- 31/5d2b3
 ## E
 - Ernaux, Annie (1997): La honte, Paris: Éditions Gallimard.
-	- ausstehend
+	- 41/1
 ## F
+- Feyerabend, Paul (1984/2013): Wissenschaft als Kunst (8. Auflage), Frankfurt/M.: Suhrkamp.
+	- 35/2
 - Findeis, Anja (2007): Die Ganzheitlichkeit der Pflege. Ein notwendiger Mythos klinischer Organisationen, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 307-328.
 	- 31/5d2h
 - Foucault, Michel (1988): Die Geburt der Klinik, Frankfurt/M.: S. Fischer Verlag.
@@ -79,11 +87,14 @@
 - Groddeck, Victoria von (2011): Organisation und Werte, Wiesbaden: VS-Verlag.
 	- 31/5d2e5
 	- 31/7a
+	- 33/5d5b
 - Groddeck, Victoria von (2015): Unternehmen sind nun mal Teil der Gesellschaft, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 131-156.
 	- 31/7
 - Gronemeyer, Reimer (2005): Hospizbewegung und Palliative Care, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 207-220.
 	- 31/5d2b1
 	- 31/5d2g3
+- Gunaratnam, Yasmin (2003): Researching ‚Race‘ and Ethnicity. Methods, Power and Knowledge, London: Sagepub.
+	- 33/5c1
 ## H
 - Habermas, Jürgen (1971): Theorie der Gesellschaft oder Sozialtechnologie? Eine Auseinandersetzung mit Niklas Luhmann, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie?, Frankfurt/M.: Suhrkamp, S. 142-290.
 	- 12/4c3b5
@@ -91,6 +102,8 @@
 	- ausstehend
 - Habermas, Jürgen (1997): Die Einheit der Vernunft in der Vielfalt ihrer Stimmen, in: ders.: Nachmetaphysisches Denken. Philosophische Aufsätze, Frankfurt/M.: Suhrkamp, S. 153-186.
 	- 12/4l
+- Haesler, Aldo (2011): Das Geld macht uns einsam, Interview auf Zeit-Online, 18.08.2011.
+	- 32/1
 - Hanses, Andreas / Heuer, Katrin / Janotta, Lisa / Paul, Kathleen (2015): Konstruktionen des Sterbens - Analysen zu den Herstellungsweisen des Sterbens in organisationalen Kontexten, in: Neue Praxis 45.2, S. 160-177.
 	- 31/5d2g2a
 	- 31/5d2g3a
@@ -102,6 +115,7 @@
 	- 31/5d2g3b
 - Jansen, Till / von Schlippe, Arist / Vogd, Werner (2015): Kontexturanalyse - ein Vorschlag für rekonstruktive Sozialforschung, in: Forum Qualitative Sozialforschung 16.1, 68 §. 
 	- 31/5d4a1
+	- 33/10
 ## K
 - Keller, Reiner / Lau, Christoph (2008): Bruno Latour und die Grenzen der Gesellschaft, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 306-338.
 	- 12/3a1
@@ -110,12 +124,16 @@
 	- 12/4f
 - Knorr-Cetina, Karin (1989): Spielarten des Konstruktivismus, in: Soziale Welt 40.1/2, S. 86-96.
 	- 31/8a1
+	- 35/5
 - Krause, Ulrike (2016): Ethische Überlegungen zur Feldforschung, CSS Working Paper 20, Marburg.
 	- 21/5c1a
 - Kunz, Roland (2003): Palliative Care für Patienten mit fortgeschrittener Demenz: Values Based statt Evidence Based Practice, in: Zeitschrift für Gerontologie und Geriatrie 36, S. 355-359.
 	- 31/5d2g1c1
 	- 31/5d2g1c2
 ## L
+- Latour, Bruno (1973): Les raisons profondes du style répétitif de Péguy, dans: Péguy Écrivain, Colloque du Centenaire, Paris: Klinsieck, pp. 78-102. 
+	- 35/4
+	- 41/2
 - Latour, Bruno (1996): Aramis or the love of technology, Cambridge, MA: Harvard Univ. Press.
 	- 21/5c3b2
 	- 21/5c5
@@ -127,6 +145,9 @@
 	- 21/5c10
 	- 31/1d1
 	- 31/8
+	- 31/9
+	- 35/3
+	- 61/1a
 - Latour, Bruno (2006): Die Macht der Assoziation, in: Belliger, Andréa / Krieger, David J. (Hrsg.): ANThology. Ein einführendes Handbuch zur Akteur-Netzwerk-Theorie, Bielefeld: transcript, S. 195-212.
 	- 12/4h
 - Latour, Bruno (2006): Drawing things together, in: Belliger, Andréa / Krieger, David J. (Hrsg.): ANThology. Ein einführendes Handbuch zur Akteur-Netzwerk-Theorie, Bielefeld: transcript, S. 259-308.
@@ -136,8 +157,13 @@
 	- 21/5c9
 - Latour, Bruno (1991/2008): Wir sind nie modern gewesen. Versuch einer symmetrischen Anthropologie, Frankfurt/M.: Suhrkamp.
 	- 31/8a
+	- 31/9
+- Latour, Bruno (2014): Existenzweisen. Eine Anthropologie der Modernen, Berlin: Suhrkamp.
+	- 35/2
 - Latour, Bruno (2015): Face à Gaia, Paris: La Découverte/Les empêcheurs de penser en rond.
 	- 21/5a
+- Latour, Bruno (2016): Reset Modernity!, Cambridge, MA / London: The MIT Press. 
+	- 83/3
 - Laux, Henning (2016): Hybridorganisationen: Politische Herausforderungen an der Schnittstelle zwischen Wissenschaft und biophysischer Natur, in: Soziale Welt 67.3, S. 313-331.
 	- 12/4a
 - Lawton, Julia (1998): Contemporary hopsice care: the sequestration of the unbounded body and ‚dirty dying‘, in: Sociology of Health & Illness 20.2, S. 121-143.
@@ -150,6 +176,8 @@
 	- 21/5c4
 - Lindemann, Gesa (2008): „Allons enfants et faits de la patrie ...“ Über Latours Sozial- und Gesellschaftstheorie sowie seinen Beitrag zur Rettung der Welt, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 339-360.
 	- 31/1d2
+- Luhmann, Niklas (1971): Moderne Systemtheorien als Form gesamtgesellschaftlicher Analyse, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie, Frankfurt/M.: Suhrkamp, S. 7-24.
+	- 33/5g
 - Luhmann, Niklas (1971): Sinn als Grundbegriff der Soziologie, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie, Frankfurt/M.: Suhrkamp, S. 25-100.
 	- 33/5c7
 - Luhmann, Niklas (1971/2007): Die Knappheit der Zeit und die Vordringlichkeit des Befristeten, in: ders. (Hrsg.): Politische Planung. Aufsätze zur Soziologie von Politik und Verwaltung, Wiesbaden: VS-Verlag, S. 143-164.
@@ -175,16 +203,29 @@
 	- 31/1c3c
 	- 31/1c3d
 	- 31/5d5
+	- 33/1e
+	- 33/1f
+	- 33/3
 - Luhmann, Niklas (1990): Paradigm lost: Über die ethische Reflexion der Moral, Frankfurt/M.: Suhrkamp. 
 	- 12/1b 
 - Luhmann, Niklas (1994): Die Wirtschaft der Gesellschaft, Frankfurt/M.: Suhrkamp.
 	- 21/3d
 	- 22/2
+	- 33/1d
+	- 33/5e
+	- 33/7
+	- 51/1
 - Luhmann, Niklas (1995): Die Kunst der Gesellschaft, Frankfurt/M.: Suhrkamp.
 	- 11/1
 	- 21/5c3b5
 	- 31/1
 	- 31/2
+	- 33/1
+	- 33/1a
+	- 33/2
+	- 33/4
+	- 61/1
+	- 83/1
 - Luhmann, Niklas (1997): Die Gesellschaft der Gesellschaft, Frankfurt/M.: Suhrkamp.
 	- 12/4c1a1
 	- 12/4c1a2
@@ -193,8 +234,11 @@
 	- 21/1
 	- 21/3f
 	- 31/5h
+	- 71/4
 - Luhmann, Niklas (2008): Ist Kunst codierbar?, in: ders. (Hrsg.): Schriften zur Kunst und Literatur, Frankfurt/M.: Suhrkamp, S. 14-44.
 	- 31/5d2c
+- Luhmann, Niklas (2008): Inklusion und Exklusion, in: ders.: Soziologische Aufklärung, S. unvollständig, alles prüfen
+	- 33/5d7
 - Luhmann, Niklas (1990/2009): Der medizinische Code, in: ders. (Hrsg.): Soziologische Aufklärung 5. Konstruktivistische Perspektiven, Wiesbaden: VS-Verlag, S. 176-188.
 	- 31/5d2d1
 ## M
@@ -206,6 +250,7 @@
 	- 31/5d2g1a1
 - Mayr, Katharina (2007): Rationalität und Plausibilität in klinischen Ethikkomitees, in: Soziale Welt, Sonderheft 58, S. 323-344.
 	- 11/2c1
+	- 33/5c6
 - McNamara, Beverley (2004): Good enough death: autonomy and choice in Australian palliative care, in: Social Science & Medicine 58, S. 929-938.
 	- 31/5d2b2a
 	- 31/5d2a3
@@ -218,9 +263,13 @@
 - Müller, Julian (2015): Bestimmbare Unbestimmtheiten, München: Fink Verlag.
 	- 12/4l
 	- 31/5d4
+	- 33/1f
+	- 33/1g
+	- 33/5d4
 ## N
 - Nassehi, Armin (1997): Kommunikation verstehen, in: Sutter, Tilmann (Hrsg.): Beobachtung verstehen, Verstehen beobachten, Opladen: Westdeutscher Verlag, S. 134-163.
 	- 12/4c3c
+	- 33/5d4b
 - Nassehi, Armin (2002): Begriffsumstellungen und ihre Folgen - Antwort auf die Replik von Hrischauer/Bergmann, in: Zeitschrift für Soziologie 31.4, S. 337-343.
 	- 33/5c3b
 - Nassehi, Armin (2003): Geschlossenheit und Offenheit, Frankfurt/M.: Suhrkamp.
@@ -232,8 +281,14 @@
 	- 31/5d2a2
 	- 31/5d2b1a
 	- 31/5g2
+	- 33/1h
+	- 33/5c2
+	- 33/5f
+	- 33/8
+	- 35/2a
+	- 71/1
 - Nassehi, Armin (2004): Die Theorie funktionaler Differenzierung im Horizont ihrer Kritik, in: Zeitschrift für Soziologie 33.2, S. 98-118.
-	- ausstehend
+	- 33/7
 - Nassehi, Armin (2004): Sozialer Sinn, in: Nassehi, Armin / Nollmann, Gerd (Hrsg.): Bourdieu und Luhmann, Frankfurt/M.: Suhrkamp, S. 155-188.
 	- 12/4c3b4
 - Nassehi, Armin (2006): Der soziologische Diskurs der Moderne, Frankfurt/M.: Suhrkamp.
@@ -246,6 +301,7 @@
 	- 31/5d4a2
 - Nassehi, Armin (2008): Rethinking Functionalism. Zur Empiriefähigkeit systemtheoretischer Soziologie, in: Kalthoff, Herbert / Hirschauer, Stefan / Lindemann, Gesa (Hrsg.): Theoretische Empirie, Frankfurt/M.: Suhrkamp, S. 79-108.
 	- 31/5d2i
+	- 33/5d6
 - Nassehi, Armin (2010): Asymmetrien als Lösung und als Problem, in: Fateh-Moghadam, Bijan / Sellmaier, Stephan / Vossenkuhl, Wilhelm (Hrsg.): Grenzen des Paternalismus, Stuttgart: Kohlhammer, S. 341-356.
 	- 31/5d2a4
 	- 31/5d8
@@ -258,8 +314,11 @@
 	- 31/1b
 	- 31/5
 	- 31/6
+	- 33/5a
+	- 33/5b
 - Nassehi, Armin (2012): Ökonomisierung als Optionssteigerung. Eine differenzierungstheoretische Perspektive, in: Soziale Welt 63.4, S. 401-418.
-	- ausstehend
+	- 32/1
+	- 32/2
 - Nassehi, Armin (2015): Die „Theodizee des Willens“ als Bezugsproblem des Ethischen, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 31-41.
 	- 12/1
 	- 31/5a
@@ -272,7 +331,14 @@
 - Nassehi, Armin / Brüggen, Susanne / Saake, Irmhild (2002): Beratung zum Tode. Eine neue ars moriendi?, in: Berliner Journal für Soziologie 12.1, S. 63-85.
 	- 31/5d3
 - Nassehi, Armin / Saake, Irmhild (2002): Kontingenz: Methodisch verhindert oder beobachtet?, in: Zeitschrift für Soziologie 31.1, S. 66-86.
-	- ausstehend
+	- 33/5b
+	- 33/5c
+	- 33/5c3
+- Nassehi, Armin / Saake, Irmhild (2002): Begriffsumstellungen und ihre Folgen - Antwort auf die Replik von Hirschauer/Bergmann, in: Zeitschrift für Soziologie 31.4, S. 337-349.
+	- 33/5c3b
+- Nassehi, Armin / Saake, Irmhild (2005): Kontexturen des Todes, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 31-54.
+	- 33/5c4
+	- 33/9
 - Nida-Rümelin, Julian (2001): Strukturelle Rationalität, Stuttgart: Reclam. 
 	- 11/2a
 	- 11/2b
@@ -287,6 +353,7 @@
 ## P
 - Paal, Piret (2014): Was ist Ethnographie?, in: Schnell, Martin W. / Schneider, Werner / Kolbe, Harald (Hrsg.): Sterbewelten, Wiesbaden: Springer VS, S. 33-50.
 	- 31/5d7
+	- 33/1i
 - Parsons, Talcott (1939): The professions and social structure, in: Social Forces 17.4, S. 457-467.
 	- 31/1c6
 - Parsons, Talcott (1958): Struktur und Funktion der Modernen Medizin, in: König, René (Hrsg.): Probleme der Medizin-Soziologie, Kölner Zeitschrift für Soziologie und Sozialpsychologie, Sonderheft 3, S. 10-57.
@@ -303,6 +370,8 @@
 	- 31/5d2g2
 ## Q
 ## R
+- Reichertz, Jo (1997): Plädoyer für das Ende einer Methodologiedebatte bis zur letzten Konsequenz, in: Sutter, Tilmann (Hrsg.): Beobachtung verstehen, Verstehen beobachten. Perspektiven einer konstruktivistischen Hermeneutik, Opladen: Westdeutscher Verlag, S. 98-132.
+	- 33/5d5f
 - Roßler, Gustav (2008): Kleine Galerie neuer Dingbegriffe, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 76-107.
 	- 21/5c3b5
 ## S
@@ -319,6 +388,12 @@
 	- 31/5d2a
 - Saake, Irmhild (2010): Die Kultur des Sterbens. Praktiken der Symmetrisierung, in: polar #10, 6-18.
 	- 31/5d2
+- Saake, Irmhild (2010): Bedeutungen und ihre Bornhiertheit, in: John, René / Henkel, Anna / Rückert-John Jana (Hrsg.): Methodologien des Systems, Wiesbaden: VS-Verlag, S. 55-79.
+	- 33/5d
+	- 33/5d1
+	- 33/5d1a
+	- 33/5d2
+	- 33/5d3
 - Saake, Irmhild (2012): Sterben vor Publikum, in: Kursbuch 171.
 	- 31/5d2b
 - Saake, Irmhild (2015): Soziologie der Ethik. Semantik es symmetrischer Kommunikation, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 43-67.
@@ -327,6 +402,8 @@
 	- 12/4c
 	- 21/5b
 	- 21/5c
+	- 31/10
+	- 83/2
 - Saake, Irmhild (2016): Zum Umgang mit Unterschieden und Asymmetrien, in: Aus Politik und Zeitgeschichte (66) 09/2016, S. 49-54. 
 	- 31/4a
 	- 31/5d
@@ -339,8 +416,11 @@
 	- 31/5d6
 - Saake, Irmhild / Nassehi, Armin (2007): Einleitung: Warum Systeme?, in: Soziale Welt, Sonderheft 58, S. 233-253.
 	- 12/4c3b2
+	- 33/5d1a1
 - Saake, Irmhild / Vogd, Werner (2007): Einleitung. Moderne Mythen der Medizin, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 7-36.
 	- 31/5d4a3
+	- 33/5d5
+	- 33/5d5a
 - Saake, Irmhild / Kunz, Dominik (2015): Von Kommunikation über Ethik zu „ethischer Sensibilisierung“. Symmetrisierungsprozesse in diskursiven Verfahren, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 199-227.
 	- 21/5c1
 	- 21/5c2
@@ -349,6 +429,9 @@
 	- 31/1c
 - Schlegel, Friedrich (1799): Lucinde, Stuttgart: Reclam.
 	- 31/4
+	- 33/1b 
+- Schleiermacher, Friedrich (1977): Hermeneutik und Kritik. Herausgegeben von Manfred Frank, Frankfurt/M.: Suhrkamp.
+	- 33/5d5a1
 - Schneider, Werner (2005): Zur diskursiven Ordnung des Lebensendes, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 55-80.
 	- 31/5d2a1
 - Schneider, Werner (2014): Sterbewelten. Ethnographische (und dispostivanalytische) Forschung am Lebensende, in: Schnell, Martin W. / Schneider, Werner / Kolbe, Harald (Hrsg.): Sterbewelten, Wiesbaden: Springer VS, S. 51-138.
@@ -357,10 +440,10 @@
 	- 31/1c5
 	- 31/5d2b4
 	- 31/5d2g4
+	- 33/5d1b
+	- 33/5d1c
 - Schneider, Werner / Nieder, Ludwig (2007): Grenzfragen menschlichen Lebens: Lebensbeginn und Lebensende aus kultursoziologischer Sicht - Einleitung, in: Schneider, Werner / Nieder, Ludwig (Hrsg.): Die Grenzen des menschlichen Lebens, Münster: Lit Verlag, S. 7-24.
 	- 31/5d2b5
-- Schleiermacher, Friedrich (1977): Hermeneutik und Kritik. Herausgegeben von Manfred Frank, Frankfurt/M.: Suhrkamp.
-	- 33/5d5a1
 - Schradt, Dinah (2015): Auf schmalem Grat mit Leib und Seele. Zum politischen Umgang mit Tod und Verwundung am Beispiel des Afghanistaneinsatzes der Bundeswehr, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 95-129.
 	- 11/3
 - Schroer, Markus (2008): Vermischen, Vermitteln, Vernetzen, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 361-400.
@@ -377,6 +460,8 @@
 	- 21/5c3b5
 - Simmel, Georg (1989): Die Philosophie des Geldes, Frankfurt/M.: Suhrkamp.
 	- 31/1e
+- Simmel, Georg (1989): Über sociale Differenzierung. Soziologische und psychologische Untersuchungen, Frankfurt/M.: Suhrkamp, S. 109-295.
+	- 33/1
 - Stadelbacher, Stephanie (2017): Das Lebensende als Randgebiet des Sozialen? Zur Praxis des ‚guten‘ Sterbens zu Hause am Beispiel der ambulanten Hospiz- und Palliativarbeit, in: Jakoby, Nina / Thönnes, Michaela (Hrsg.): Zur Soziologie des Sterbens, Wiesbaden: Springer VS, S. 49-70.
 	- 31/5d2g1a
 - Stäheli, Urs (2000): Sinnzusammenbrüche, Wielerswist: Velbrück Wissenschaft.
@@ -425,8 +510,13 @@
 	- 21/3a
 	- 21/3b
 	- 31/3
+	- 35/1
 - Thönnes, Michaela / Jakoby, Nina (2017): Tiere als Sterbebegleiter. Eine symbolisch-interaktionistische Perspektive, in: ders. (Hrsg.): Zur Soziologie des Sterbens, Wiesbaden: Springer VS, S. 91-112.
 	- 31/5d2f1
+- Turner, Bryan S. (1986): Equality, London: Tavistock.
+	- 31/10
+	- 31/11
+	- 31/12
 ## U
 ## V
 - Vogd, Werner (2002): Professionalisierungsschub oder Auflösung ärztlicher Autonomie, in: Zeitschrift für Soziologie 31.4, S. 294-315.
@@ -435,13 +525,19 @@
 	- 31/5d2i2
 - Vogd, Werner (2005): Systemtheorie und rekonstruktive Sozialforschung, Opladen: Verlag Barbara Budrich.
 	- 31/5d2e6
+	- 33/5d5c
 - Vogd, Werner (2007): Empirie oder Theorie?, in: Soziale Welt, Sonderheft 58, S. 295-321.
 	- 11/2d
 	- 12/4c3b3
+	- 33/5c5
 - Vogd, Werner (2009): Systemtheorie und Methode? Zum komplexen Verhältnis von Theoriearbeit und Empirie in der Organisationsforschung, in: Soziale Systeme 15.1, S. 98-137.
-	- ausstehend
+	- 33/1f1
+	- 33/5d4a
+	- 33/5d5c2
 - Vogd, Werner (2010): Methodologie und Verfahrensweise der dokumentarischen Methode, in: John, René / Henkel, Anna / Rückert-John Jana (Hrsg.): Methodologien des Systems, Wiesbaden: VS-Verlag, S. 121-140.
 	- 31/1c2d1
+	- 33/5d5c1
+	- 33/5d5d
 - Vogd, Werner (2017): The professions in modernity and the society of the future, in: Professions and Professionalism 7.1, Keine Seitenzahlen.
 	- 31/1c2b3
 ## W
@@ -453,12 +549,19 @@
 	- 31/5d2k
 - Walker, Andreas / Breitsameter, Christoph (2012): Conflicts and conflict regulation in hospices: nurses‘ perspectives, in: Medical Health Care and Philosophy 16/2013, pp. 709-718.
 	- 31/5d2g5
+- Walker, Andreas / Breitsameter, Christoph (2017): The Provision of Spiritual Care in Hospices, in: Journal of Religious Health 56, pp. 2237-2250. titel möglicherweise unvollständig
 - Wasner, Maria / Piret, Paal / Borasio, Gian Domenico (2013): Psychological Care for the Caregivers of Primary Malignant Brain Tumor Patients, in: Journal of Social Work in End-of-Life & Palliative Care 9, S. 74-95.
 	- 31/1c2a3
+- Werber, Niels (2016): Der letzte Κατέχων oder: Das Übel der Differenzierung, in: Soziale Welt 67.3, S. 267-280.
+	- 33/6
 - Winkel, Heidemarie (2005): Selbstbestimmt Sterben. Patient(inn)enorientierung und ganzheitliche Schmerztherapie als Kommunikationskoordinaten in der Hospizarbeit. Eine systemtheoretische Perspektive, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 169-188.
 	- 31/5d2e2
 	- 31/5d2e3
 - Wolf, Julian / Vogd, Werner (2018): Professionalisierung der Pflege, Deprofessionalisierung der Ärzte oder vice versa?, in: Müller-Hermann, Silke / Becker-Lenz, Roland / Busse, Stefan / Ehlert, Gudrun (Hrsg.): Professionskulturen - Charakteristika unterschiedlicher professioneller Praxen, Wiesbaden: Springer VS, S. 151-173.
 	- 31/5d2h2a
 	- 31/5d2h5
+- Woolgar, Steve (1981): Discovery: Logic and Sequence in a Scientific Text, in: Knorr, Karin D. (ed.): The Social Process of Scientific Investigation, Dordrecht: Reidel, pp. 239-268.
+	- 31/8c
+	- 35/3a
+	- 35/3b
 ## X, Y, Z
