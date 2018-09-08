@@ -64,6 +64,8 @@
 	- 35/2
 - Findeis, Anja (2007): Die Ganzheitlichkeit der Pflege. Ein notwendiger Mythos klinischer Organisationen, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 307-328.
 	- 31/5d2h
+- Foucault, Michel (1972/2017): Die Ordnung des Diskurses, Frankfurt/M.: S. Fischer Verlag.
+	- 31/5d1a2
 - Foucault, Michel (1988): Die Geburt der Klinik, Frankfurt/M.: S. Fischer Verlag.
 	- 31/1c1b
 	- 31/5d2d2a
@@ -98,6 +100,7 @@
 ## H
 - Habermas, Jürgen (1971): Theorie der Gesellschaft oder Sozialtechnologie? Eine Auseinandersetzung mit Niklas Luhmann, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie?, Frankfurt/M.: Suhrkamp, S. 142-290.
 	- 12/4c3b5
+	- 12/4c3b6
 - Habermas, Jürgen (1971): Vorbereitende Bemerkungen zu einer Theorie der kommunikativen Kompetenz, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie?, Frankfurt/M.: Suhrkamp, S. 101-141.
 	- ausstehend
 - Habermas, Jürgen (1997): Die Einheit der Vernunft in der Vielfalt ihrer Stimmen, in: ders.: Nachmetaphysisches Denken. Philosophische Aufsätze, Frankfurt/M.: Suhrkamp, S. 153-186.
@@ -109,7 +112,7 @@
 	- 31/5d2g3a
 ## I
 ## J
-- Jacques, Michel (1997): Soigner avec ou sans consentement, dans: Faure, Olivier (ed.): Les thérapeutiques : savoirs et usages, Lyon: Fondation Marcel Mérieux, S. 341-356.
+- Jacques, Michel (1997): Soigner avec ou sans consentement, dans: Faure, Olivier (ed.): Les thérapeutiques : savoirs et usages, Lyon: Fondation Marcel Mérieux, pp. 341-356.
 	- 31/1c2b2c
 - James, Nicky / Field, David (1992): The routinization of hospice: Charisma and bureaucratization, in: Social Science & Medicine 34.12, pp. 1363-1375.
 	- 31/5d2g3b
@@ -365,6 +368,9 @@
 	- 31/5d2d2e
 - Pilnick, Alison / Dingwall, Robert (2011): On the remarkable resistance of asymmetry in doctor/patient interaction: a critical review, in: Social Science & Medicine 72.8, pp. 1374-1382.
 	- 31/5g1
+- Pfadenhauer, Michaela (2003): Professionalität. Eine wissenssoziologische Rekonstruktion institutionalisierter Kompetenzdarstellungskompetenz, Opladen: Leske + Budrich.
+	- 31/1c2a4
+	- 31/1c2b2d
 - Pfeffer, Christine (2005): Ich hab‘ gar nicht gemerkt, wie ich da reingezogen wurde: Zur Dynamik von Individualsierung und Nähe in der Pflegearbeit stationärer Hospize, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 103-124.
 	- 31/5d2g1
 	- 31/5d2g2
