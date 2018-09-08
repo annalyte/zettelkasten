@@ -182,6 +182,7 @@
 - Schmerz 31/5d2e1
 - Schmutz 31/5d2g3c
 - Schweigen 31/5c
+- Selbststeuerung 33/5d1a2
 - Semantik 12/4c-g; 21/3a1; 32/2; 35/5
 - Simmel 31/1e
 - Sinn 33/1e,g,h; 33/5c7; 33/5d4; 21/3e,f; 12/4c1
@@ -196,7 +197,7 @@
 - Sterben, gutes 31/5d2b
 - Sterbekultur 31/5d2
 - Sterben-Machen 33/5d1b,c
-- Struktur 11/2a,b,c; 12/4c1
+- Struktur 11/2a-e; 12/4c1
 - Strukturen, dissipative 11/2d
 - Subjekt 31/8a
 - Symbolisch generalisierte Kommunikationsmedien 33/1e
@@ -225,6 +226,7 @@
 - Vermittlungsarbeit 12/4f
 - Vernunft 12/4c3b2
 ## W
+- Wandel 11/2e 
 - Werte 31/7
 - Whitehead 12/4e
 - Wiederholung 12/4c3a; 33/5d1a1; 41/1-2
