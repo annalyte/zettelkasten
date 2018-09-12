@@ -357,6 +357,8 @@
 	- 31/1c2b2b
 - Oevermann, Ulrich (1996): Theoretische Skizze einer revidierten Theorie professionalisierten Handelns, in: Combe, Arno / Helsper, Werner (Hrsg.): Pädagogische Professionalität, Frankfurt/M.: Suhrkamp, S. 70-182.
 	- 31/1c2b2b1
+	- 31/1c2b2b2
+	- 31/5d2h1b2
 ## P
 - Paal, Piret (2014): Was ist Ethnographie?, in: Schnell, Martin W. / Schneider, Werner / Kolbe, Harald (Hrsg.): Sterbewelten, Wiesbaden: Springer VS, S. 33-50.
 	- 31/5d7
