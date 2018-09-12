@@ -238,6 +238,8 @@
 	- 21/3f
 	- 31/5h
 	- 71/4
+- Luhmann, Niklas (2000/2011): Organisation und Entscheidung, Wiesbaden: Westdeutscher Verlag.
+	- 31/5d4a4
 - Luhmann, Niklas (2008): Ist Kunst codierbar?, in: ders. (Hrsg.): Schriften zur Kunst und Literatur, Frankfurt/M.: Suhrkamp, S. 14-44.
 	- 31/5d2c
 - Luhmann, Niklas (2008): Inklusion und Exklusion, in: ders.: Soziologische Aufklärung, S. unvollständig, alles prüfen
@@ -353,6 +355,8 @@
 	- 21/5c3c
 - Oevermann, Ulrich (1990): Klinische Soziologie. Konzeptualisierung, Begründung, Berufspraxis und Ausbildung. Manuskript. Zitiert nach: www.objektivehermeneutik.de keine valide Quellenangabe
 	- 31/1c2b2b
+- Oevermann, Ulrich (1996): Theoretische Skizze einer revidierten Theorie professionalisierten Handelns, in: Combe, Arno / Helsper, Werner (Hrsg.): Pädagogische Professionalität, Frankfurt/M.: Suhrkamp, S. 70-182.
+	- 31/1c2b2b1
 ## P
 - Paal, Piret (2014): Was ist Ethnographie?, in: Schnell, Martin W. / Schneider, Werner / Kolbe, Harald (Hrsg.): Sterbewelten, Wiesbaden: Springer VS, S. 33-50.
 	- 31/5d7
@@ -478,6 +482,8 @@
 	- 21/3b1
 	- 31/1d
 	- 31/5c
+ - Stichweh, Rudolf (1996): Professionen in einer funktional differenzierten Gesellschaft, in: Combe, Arno / Helsper, Werner (Hrsg.): Pädagogische Professionalität, Frankfurt/M.: Suhrkamp, S. 49-69.
+	- 31/1c1c
 - Streckeisen, Ursula (2001): Die Medizin und der Tod, Leske + Budrich.
 	- 31/1c2c
 	- 31/5d2e1a
