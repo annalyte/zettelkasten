@@ -72,7 +72,7 @@
 - Gewohnheit 21/3e
 - Gleichheit 31/10-12
 - Grenze 21/3f; 31/5d1
-- Gründe 11/2,a; 31/5; 12/2a; 31/5d1; 33/5d2
+- Gründe 11/2; 12/1; 31/5; 31/5d1; 33/5d2
 ## H
 - Habermas 33/5d2
 - Habitus 31/1c2b2; 33/5a; 33/5d5e; 61/2
