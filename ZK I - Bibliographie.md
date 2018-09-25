@@ -358,6 +358,7 @@
 - Oevermann, Ulrich (1996): Theoretische Skizze einer revidierten Theorie professionalisierten Handelns, in: Combe, Arno / Helsper, Werner (Hrsg.): Pädagogische Professionalität, Frankfurt/M.: Suhrkamp, S. 70-182.
 	- 31/1c2b2b1
 	- 31/1c2b2b2
+	- 31/1c2j
 	- 31/5d2h1b2
 ## P
 - Paal, Piret (2014): Was ist Ethnographie?, in: Schnell, Martin W. / Schneider, Werner / Kolbe, Harald (Hrsg.): Sterbewelten, Wiesbaden: Springer VS, S. 33-50.
@@ -376,12 +377,18 @@
 	- 31/5g1
 - Pfadenhauer, Michaela (2003): Professionalität. Eine wissenssoziologische Rekonstruktion institutionalisierter Kompetenzdarstellungskompetenz, Opladen: Leske + Budrich.
 	- 31/1c2a4
+	- 31/1c2a5
 	- 31/1c2b2d
+	- 31/1c2b4
+	- 31/1c8
+	- 31/5d2e8
 - Pfeffer, Christine (2005): Ich hab‘ gar nicht gemerkt, wie ich da reingezogen wurde: Zur Dynamik von Individualsierung und Nähe in der Pflegearbeit stationärer Hospize, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 103-124.
 	- 31/5d2g1
 	- 31/5d2g2
 ## Q
 ## R
+- Rabe-Kleberg, Ursula (1996): Professionalität und Geschlechterverhältnis. Oder: Was ist „semi“ an traditionellen Frauenberufen? in: Combe, Arno / Helsper, Werner (Hrsg.): Pädagogische Professionalität, Frankfurt/M.: Suhrkamp, S. 276-302.
+	- 31/1c7
 - Reichertz, Jo (1997): Plädoyer für das Ende einer Methodologiedebatte bis zur letzten Konsequenz, in: Sutter, Tilmann (Hrsg.): Beobachtung verstehen, Verstehen beobachten. Perspektiven einer konstruktivistischen Hermeneutik, Opladen: Westdeutscher Verlag, S. 98-132.
 	- 33/5d5f
 - Roßler, Gustav (2008): Kleine Galerie neuer Dingbegriffe, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 76-107.
