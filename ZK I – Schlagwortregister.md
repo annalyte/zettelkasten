@@ -13,6 +13,7 @@
 - Asymmetrie 31/5d(1-2); 31/5f-h; 31/5d2e; 31/5g
 - Atopik 31/5d2g1a3
 - Ausstellung 21/5c3c
+- Autonomie 31/1c2j; 31/1c8
 - Autopoiesis 21/3d; 12/4c2a
 ## B
 - Banalität 31/5d4a3
@@ -32,6 +33,7 @@
 - Dekonstruktion 35/5
 - Destabilisierung 21/5c2b
 - Dezisionismus 33/6
+- Dienstleistung 31/1c7
 - Dinge 31/1d-e; 21/3f
 - Disziplin 21/5c2
 - Diplomatie 21/5c3, 21/5e
@@ -84,6 +86,7 @@
 - Hierarchie 31/5d2j
 - Hineinversetzen 21/5c6-9; 31/5d2g1
 - Hospiz 31/5d2g; 31/5d2g3
+- Humangenetik 31/5d2e8
 - Hybriden 21/5c6b
 - Hybridorganisation 12/4a
 ## I
@@ -185,7 +188,7 @@
 - Schmerz 31/5d2e1
 - Schmutz 31/5d2g3c
 - Schweigen 31/5c
-- Selbststeuerung 33/5d1a2
+- Selbststeuerung 33/5d1a2; 31/1c8
 - Semantik 12/4c-g; 21/3a1; 32/2; 35/5
 - Simmel 31/1e
 - Sinn 33/1e,g,h; 33/5c7; 33/5d4; 21/3e,f; 12/4c1
@@ -221,6 +224,7 @@
 ## U
 - Übersetzung 12/4; 12/4h
 - Überzeugungspraxis 35/3
+- Unbestimmtheit 12/4c3b1; 31/1c7
 - Unterscheidung 12/4c2a
 - Utopie 31/5d2g3a
 ## V
