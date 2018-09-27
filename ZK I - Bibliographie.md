@@ -66,7 +66,7 @@
 	- 31/5d2h
 - Foucault, Michel (1972/2017): Die Ordnung des Diskurses, Frankfurt/M.: S. Fischer Verlag.
 	- 31/5d1a2
-- Foucault, Michel (1988): Die Geburt der Klinik, Frankfurt/M.: S. Fischer Verlag.
+- Foucault, Michel (1988/1973): Die Geburt der Klinik, Frankfurt/M.: S. Fischer Verlag.
 	- 31/1c1b
 	- 31/5d2d2a
 	- 31/5d2d2b
@@ -256,12 +256,15 @@
 - Mayr, Katharina (2007): Rationalität und Plausibilität in klinischen Ethikkomitees, in: Soziale Welt, Sonderheft 58, S. 323-344.
 	- 11/2c1
 	- 33/5c6
+- McNamara, Beverley (2001): Fragile lives. Death, dying and care, Buckingham/Philadelphia, PA: Open University Press.
+	- 31/5d2b2b
+	- 31/5d2d1c
 - McNamara, Beverley (2004): Good enough death: autonomy and choice in Australian palliative care, in: Social Science & Medicine 58, S. 929-938.
 	- 31/5d2b2a
 	- 31/5d2a3
 - Menzel-Begemann, Anke / Klünder, Britta / Schaeffer, Doris (2015): Edukative Unterstützung Pflegebedürftiger und ihrer Angehörigen zur Vorbereitung auf die häusliche (Selbst-)Versorgung während der stationären Rehabilitation - Herausforderungen und Erfordernisse, in: Pflege & Gesellschaft 20.2, S. 101-115.
 	- 31/5d2h4
-- Michel, Jacques (1997): Soigner avec ou sans consentement, dans: Faure, Olivier (ed): Les thérapeutiques : savoirs et usages, Lyon: Fondation Marcel Merieux, S. 341-356.
+- Michel, Jacques (1997): Soigner avec ou sans consentement, dans: Faure, Olivier (ed): Les thérapeutiques : savoirs et usages, Lyon: Fondation Marcel Mérieux, S. 341-356.
 	- 31/1c2b2c
 - Müller, Julian (2015): Modische Moderne, moderne Moral. Unbestimmtheit als Signum der modernen Gesellschaft, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 157-171.
 	- 12/1a
@@ -481,6 +484,8 @@
 	- 31/1e
 - Simmel, Georg (1989): Über sociale Differenzierung. Soziologische und psychologische Untersuchungen, Frankfurt/M.: Suhrkamp, S. 109-295.
 	- 33/1
+- Sontag, Susan (1978/1977): Krankheit als Metapher, München/Wien: Carl Hanser Verlag.
+	- 31/5d2i7
 - Stadelbacher, Stephanie (2017): Das Lebensende als Randgebiet des Sozialen? Zur Praxis des ‚guten‘ Sterbens zu Hause am Beispiel der ambulanten Hospiz- und Palliativarbeit, in: Jakoby, Nina / Thönnes, Michaela (Hrsg.): Zur Soziologie des Sterbens, Wiesbaden: Springer VS, S. 49-70.
 	- 31/5d2g1a
 - Stäheli, Urs (2000): Sinnzusammenbrüche, Wielerswist: Velbrück Wissenschaft.
