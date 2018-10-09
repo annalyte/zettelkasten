@@ -1,5 +1,7 @@
 # ZK I - Bibliographie
 ## A 
+- Abbott, Andrew (1988): The System of Professions, Chicago/London: The University of Chicago Press.
+	- 31/1c2a4a
 - Adorno, Theodor W. (1975): Philosophie der neuen Musik, Frankfurt/M.: Suhrkamp.
 	- 11/1a
 	- 22/1
@@ -259,6 +261,8 @@
 - McNamara, Beverley (2001): Fragile lives. Death, dying and care, Buckingham/Philadelphia, PA: Open University Press.
 	- 31/5d2b2b
 	- 31/5d2d1c
+	- 31/5d6a
+	- 31/5d5f
 - McNamara, Beverley (2004): Good enough death: autonomy and choice in Australian palliative care, in: Social Science & Medicine 58, S. 929-938.
 	- 31/5d2b2a
 	- 31/5d2a3
@@ -498,6 +502,8 @@
 	- 31/5c
  - Stichweh, Rudolf (1996): Professionen in einer funktional differenzierten Gesellschaft, in: Combe, Arno / Helsper, Werner (Hrsg.): Pädagogische Professionalität, Frankfurt/M.: Suhrkamp, S. 49-69.
 	- 31/1c1c
+- Stichweh, Rudolf (2000): Professionen im System der modernen Gesellschaft, in: Merten, Roland (Hrsg.): Systemtheorie Sozialer Arbeit, Opladen: Leske + Budrich, S. 30-38.
+	- 31/1c1d
 - Streckeisen, Ursula (2001): Die Medizin und der Tod, Leske + Budrich.
 	- 31/1c2c
 	- 31/5d2e1a
