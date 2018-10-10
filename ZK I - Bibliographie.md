@@ -25,7 +25,7 @@
 - Barth, Niklas / Nassehi, Armin / Schneider, Antonius (2013): Umgang mit Unbestimmtheit - zur Hypermodernität des Hausarztes, in: Zeitschrift für Evidenz, Fortbildung und Qualität im Gesundheitswesen 108, S. 59-65.
 	- 31/1c2b2
 	- 31/5d2d2
-- Barth, Niklas / Linde, K Vorname fehlt / Schneider, Antonius (2017): Niederlassungsmotive - Die Bereitschaft zur Niederlassung in eigener Praxis von Ärztinnen und Ärzten in Weiterbildung zum Facharzt für Allgemeinmedizin, in: Das Gesundheitswesen 79, S. 638-644.
+- Barth, Niklas / Linde, Klaus / Schneider, Antonius (2017): Niederlassungsmotive - Die Bereitschaft zur Niederlassung in eigener Praxis von Ärztinnen und Ärzten in Weiterbildung zum Facharzt für Allgemeinmedizin, in: Das Gesundheitswesen 79, S. 638-644.
 	- 33/5c3a
 - Bateson, Gregory (1993): Wo Engel zögern. Unterwegs zu einer Epistemologie des Heiligen, Frankfurt/M.: Suhrkamp.
 	- 31/5d4a1 
@@ -112,6 +112,8 @@
 - Hanses, Andreas / Heuer, Katrin / Janotta, Lisa / Paul, Kathleen (2015): Konstruktionen des Sterbens - Analysen zu den Herstellungsweisen des Sterbens in organisationalen Kontexten, in: Neue Praxis 45.2, S. 160-177.
 	- 31/5d2g2a
 	- 31/5d2g3a
+- Hopf, Christel (1978): Die Pseudo-Exploration - Überlegungen zur Technik qualitativer Interviews in der Sozialforschung, in: Zeitschrift für Soziologie, 7.2, S. 97-115.
+	- 33/5c3c
 ## I
 ## J
 - Jacques, Michel (1997): Soigner avec ou sans consentement, dans: Faure, Olivier (ed.): Les thérapeutiques : savoirs et usages, Lyon: Fondation Marcel Mérieux, pp. 341-356.
@@ -502,7 +504,7 @@
 	- 31/5c
  - Stichweh, Rudolf (1996): Professionen in einer funktional differenzierten Gesellschaft, in: Combe, Arno / Helsper, Werner (Hrsg.): Pädagogische Professionalität, Frankfurt/M.: Suhrkamp, S. 49-69.
 	- 31/1c1c
-- Stichweh, Rudolf (2000): Professionen im System der modernen Gesellschaft, in: Merten, Roland (Hrsg.): Systemtheorie Sozialer Arbeit, Opladen: Leske + Budrich, S. 30-38.
+- Stichweh, Rudolf (2000): Professionen im System der modernen Gesellschaft, in: Merten, Roland (Hrsg.): Systemtheorie Sozialer Arbeit, Opladen: Leske + Budrich, S. 29-38.
 	- 31/1c1d
 - Streckeisen, Ursula (2001): Die Medizin und der Tod, Leske + Budrich.
 	- 31/1c2c
