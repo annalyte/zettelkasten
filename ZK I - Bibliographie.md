@@ -25,6 +25,9 @@
 - Barth, Niklas / Nassehi, Armin / Schneider, Antonius (2013): Umgang mit Unbestimmtheit - zur Hypermodernität des Hausarztes, in: Zeitschrift für Evidenz, Fortbildung und Qualität im Gesundheitswesen 108, S. 59-65.
 	- 31/1c2b2
 	- 31/5d2d2
+- Barth, Niklas / Schneider, Antonius (2016): Warum will Charles Bovary kein Hausarzt mehr sein? - zur Medialität von Interviews mit angehenden Allgemeinmediziner\_innen, in: Forum Qualitative Sozialforschung, 17.3, 48 Absätze.
+	- 32/3
+	- 31/5d2g1f
 - Barth, Niklas / Linde, Klaus / Schneider, Antonius (2017): Niederlassungsmotive - Die Bereitschaft zur Niederlassung in eigener Praxis von Ärztinnen und Ärzten in Weiterbildung zum Facharzt für Allgemeinmedizin, in: Das Gesundheitswesen 79, S. 638-644.
 	- 33/5c3a
 - Bateson, Gregory (1993): Wo Engel zögern. Unterwegs zu einer Epistemologie des Heiligen, Frankfurt/M.: Suhrkamp.
@@ -120,7 +123,7 @@
 	- 31/1c2b2c
 - James, Nicky / Field, David (1992): The routinization of hospice: Charisma and bureaucratization, in: Social Science & Medicine 34.12, pp. 1363-1375.
 	- 31/5d2g3b
-- Jansen, Till / von Schlippe, Arist / Vogd, Werner (2015): Kontexturanalyse - ein Vorschlag für rekonstruktive Sozialforschung, in: Forum Qualitative Sozialforschung 16.1, 68 §. 
+- Jansen, Till / von Schlippe, Arist / Vogd, Werner (2015): Kontexturanalyse - ein Vorschlag für rekonstruktive Sozialforschung, in: Forum Qualitative Sozialforschung 16.1, 68 Absätze. 
 	- 31/5d4a1
 	- 33/10
 ## K
