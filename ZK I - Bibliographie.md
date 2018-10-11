@@ -245,11 +245,13 @@
 	- 21/3f
 	- 31/5h
 	- 71/4
+- Luhmann, Niklas (1997): Wie konstruiert man in eine Welt, die so ist wie sie ist, Freiheiten hinein?, in: Bradmann, Theodor M. (Hrsg.): Zirkuläre Positionen. Konstruktivismus als praktische Theorie, Opladen: Westdeutscher Verlag, S. 67-83.
+	- 12/4c3d
 - Luhmann, Niklas (2000/2011): Organisation und Entscheidung, Wiesbaden: Westdeutscher Verlag.
 	- 31/5d4a4
 - Luhmann, Niklas (2008): Ist Kunst codierbar?, in: ders. (Hrsg.): Schriften zur Kunst und Literatur, Frankfurt/M.: Suhrkamp, S. 14-44.
 	- 31/5d2c
-- Luhmann, Niklas (2008): Inklusion und Exklusion, in: ders.: Soziologische Aufklärung, S. unvollständig, alles prüfen
+- Luhmann, Niklas (2008/1995): Inklusion und Exklusion, in: ders.: Soziologische Aufklärung 6. Die Soziologie und der Mensch, Wiesbaden: VS-Verlag, S. 226-251.
 	- 33/5d7
 - Luhmann, Niklas (1990/2009): Der medizinische Code, in: ders. (Hrsg.): Soziologische Aufklärung 5. Konstruktivistische Perspektiven, Wiesbaden: VS-Verlag, S. 176-188.
 	- 31/5d2d1
@@ -445,6 +447,8 @@
 	- 31/5d3b
 	- 31/5d4a
 	- 31/5d6
+- Saake, Irmhild / Nassehi, Armin (2004): Das gesellschaftliche Gehäuse der Persönlichkeit, in: Berliner Journal für Soziologie, 14.4, S. 503-525.
+	- 12/4c1a3
 - Saake, Irmhild / Nassehi, Armin (2007): Einleitung: Warum Systeme?, in: Soziale Welt, Sonderheft 58, S. 233-253.
 	- 12/4c3b2
 	- 33/5d1a1
