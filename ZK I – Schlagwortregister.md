@@ -38,7 +38,7 @@
 - Disziplin 21/5c2
 - Diplomatie 21/5c3, 21/5e
 - Dissens 33/1f; 33/2
-- Dissimulation 31/5d2g1d; 31/5d2g5e
+- Dissimulation 31/5d2g1d; 31/5d5e
 - Distanz 31/5d2h1b
 - Dokumentarische Methode 33/5d5c
 ## E
@@ -57,6 +57,7 @@
 - Erwartung 12/4c3a; 31/5e; 31/1c2,3,4; 33/1f; 31/1c3a
 - Erwartungsmanagement 31/1c2
 - Erwartungsstil 31/1c3d
+- Erzählung 32/3
 - Evaluation 31/5d2b
 - Evidenz 12/4c5; 31/1c2b2a; 31/5d2g1c1
 - Evolution 12/4c1
@@ -166,6 +167,7 @@
 - Polykontexturalität 31/5d2e6
 - Praxis 12/4c3b
 - Preadaptive Advances 12/4c1a1
+- Problem/Lösung 31/1c2a4
 - Profession 31/1c1; 31/5d2h2; 31/5d3
 - Publikum 31/1c2a
 ## Q
@@ -233,7 +235,8 @@
 - Vermittlungsarbeit 12/4f
 - Vernunft 12/4c3b2
 ## W
-- Wandel 11/2e 
+- Wandel 11/2e
+- Weltbilder 12/4c1a3
 - Werte 31/7
 - Whitehead 12/4e
 - Wiederholung 12/4c3a; 33/5d1a1; 41/1-2
