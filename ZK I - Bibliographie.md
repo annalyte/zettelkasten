@@ -107,7 +107,7 @@
 	- 12/4c3b5
 	- 12/4c3b6
 - Habermas, Jürgen (1971): Vorbereitende Bemerkungen zu einer Theorie der kommunikativen Kompetenz, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie?, Frankfurt/M.: Suhrkamp, S. 101-141.
-	- ausstehend
+	- 31/5a1
 - Habermas, Jürgen (1997): Die Einheit der Vernunft in der Vielfalt ihrer Stimmen, in: ders.: Nachmetaphysisches Denken. Philosophische Aufsätze, Frankfurt/M.: Suhrkamp, S. 153-186.
 	- 12/4l
 - Haesler, Aldo (2011): Das Geld macht uns einsam, Interview auf Zeit-Online, 18.08.2011.
@@ -590,9 +590,12 @@
 	- 31/5d2k
 - Walker, Andreas / Breitsameter, Christoph (2012): Conflicts and conflict regulation in hospices: nurses‘ perspectives, in: Medical Health Care and Philosophy 16/2013, pp. 709-718.
 	- 31/5d2g5
-- Walker, Andreas / Breitsameter, Christoph (2017): The Provision of Spiritual Care in Hospices, in: Journal of Religious Health 56, pp. 2237-2250. titel möglicherweise unvollständig
+- Walker, Andreas / Breitsameter, Christoph (2017): The Provision of Spiritual Care in Hospices: A Study in Four Hospices in North Rhine-Westphalia, in: Journal of Religious Health 56, pp. 2237-2250.
+	- 42/1
 - Wasner, Maria / Piret, Paal / Borasio, Gian Domenico (2013): Psychological Care for the Caregivers of Primary Malignant Brain Tumor Patients, in: Journal of Social Work in End-of-Life & Palliative Care 9, S. 74-95.
 	- 31/1c2a3
+- Weber, Max (1988): Wissenschaft als Beruf, in: ders.: Gesammelte Aufsätze zur Wissenschaftslehre, Tübingen: Mohr, S. 582-613
+	- 31/5d2g1g
 - Werber, Niels (2016): Der letzte Κατέχων oder: Das Übel der Differenzierung, in: Soziale Welt 67.3, S. 267-280.
 	- 33/6
 - Winkel, Heidemarie (2005): Selbstbestimmt Sterben. Patient(inn)enorientierung und ganzheitliche Schmerztherapie als Kommunikationskoordinaten in der Hospizarbeit. Eine systemtheoretische Perspektive, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 169-188.
