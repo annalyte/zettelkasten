@@ -393,6 +393,7 @@
 	- 31/1c2a4
 	- 31/1c2a5
 	- 31/1c2b2d
+	- 31/1c2b2e
 	- 31/1c2b4
 	- 31/1c8
 	- 31/5d2e8
@@ -596,6 +597,8 @@
 	- 31/1c2a3
 - Weber, Max (1988): Wissenschaft als Beruf, in: ders.: Gesammelte Aufsätze zur Wissenschaftslehre, Tübingen: Mohr, S. 582-613
 	- 31/5d2g1g
+- Werber, Niels (2011): Raumvergessenheit oder Raumontologie, Latour oder Luhmann? Zur Rolle der Systemtheorie in einer (medien)geographischen Kontroverse, in: Soziale Systeme 17.2, S. 361-372.
+	- 31/5d2g1a4
 - Werber, Niels (2016): Der letzte Κατέχων oder: Das Übel der Differenzierung, in: Soziale Welt 67.3, S. 267-280.
 	- 33/6
 - Winkel, Heidemarie (2005): Selbstbestimmt Sterben. Patient(inn)enorientierung und ganzheitliche Schmerztherapie als Kommunikationskoordinaten in der Hospizarbeit. Eine systemtheoretische Perspektive, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 169-188.
