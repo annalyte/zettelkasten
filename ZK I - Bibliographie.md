@@ -44,6 +44,9 @@
 	- 33/5d5e
 - Bourdieu, Pierre (1987): Sozialer Sinn, Frankfurt/M.: Suhrkamp.
 	- 12/4c3b4
+	- 12/4c3b4a
+	- 33/5d2a
+	- 33/5d2b
 - Brüggen, Susanne (2005): Religiöses aus der Ratgeberecke, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 81-102.
 	- 31/5d3a
 ## C
@@ -202,8 +205,9 @@
 	- 12/4c4
 - Luhmann, Niklas (1983): Anspruchsinflation im Krankheitssystem. Eine Stellungnahme aus gesellschaftstheoretischer Sicht, in: Herder-Dorneich, Philipp / Schuller, Alexander (Hrsg.): Die Anspruchsspirale, Stuttgart: Kohlhammer, S. 28-49.
 	- 31/5d2d2f
-- Luhmann, Niklas (1984): Soziale Systeme, Frankfurt/M.: Suhrkamp.
+- Luhmann, Niklas (1984/1987): Soziale Systeme, Frankfurt/M.: Suhrkamp.
 	- 11/2c
+	- 12/4c1c
 	- 12/6
 	- 21/3e 
 	- 21/3f
