@@ -91,6 +91,7 @@
 - Hybriden 21/5c6b
 - Hybridorganisation 12/4a
 ## I
+- Improvisation 33/5d2b
 - Individualisierung 31/5d3
 - Ingenieur 21/5c5
 - Inklusion 21/5c6b; 12/4g
@@ -111,6 +112,7 @@
 - Kollektiv 31/1d2
 - Kollektivitätsorientierung 31/5d2h2
 - Kommunikation 31/5d6
+- Kompetenz 31/1c2b2d
 - Komplementarität 31/4
 - Konsens 31/5a1
 - Konstruktivismus 31/8a1; 35/5
@@ -124,6 +126,7 @@
 - Landschaft 12/4l
 - Latour 61/1a
 - Lebensende 11/5
+- Lebensqualität 31/5d2g1g
 - Legitimation 12/5; 31/5d2e; 32/2
 - Leiche 31/5d2i6
 - Lernen 21/5c6
@@ -175,8 +178,9 @@
 - Quasi-Objekt 21/5c3b4-5
 ## R
 - Rahmen 12/4c3b3; 33/5d6
-- Rationalismus 31/8c
 - Rasse 33/5c1
+- Rationalismus 31/8c
+- Raum 31/5d2g1a4
 - Reinheit 83/1
 - Rekursivität 11/2d
 - Relativismus 21/5c9-10
