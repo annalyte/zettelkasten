@@ -5,6 +5,8 @@
 - Adorno, Theodor W. (1975): Philosophie der neuen Musik, Frankfurt/M.: Suhrkamp.
 	- 11/1a
 	- 22/1
+- Akerstrøm Andersen, Niels (2003): Discursive Analytical Strategies. Understanding Foucault, Koselleck, Laclau, Luhmann, Bristol: The Policy Press.
+	- 33/1h2
 - Akerstrøm Andersen, Niels (2010): The Semantic Analytical Strategy and Diagnostic of Present, in: John, René / Henkel, Anna / Rückert-John, Jana (Hrsg.): Die Methodologien des Systems. Wie kommt man zum Fall und wie dahinter?, Wiesbaden: VS-Verlag, S. 161-180.
 	- 33/1h1
 - Ariès, Philippe (1980): Geschichte des Todes, München/Wien: Hanser.
