@@ -153,6 +153,7 @@
 ## O
 - Objekt 21/5c3b2-5; 21/1; 31/8a
 - Ökonomie 32/2
+- Ontologie 33/1h1
 - Operativität 12/4c3a
 - Optionssteigerung 32/2
 - Organisation 31/5d4a; 31/5d2i2
