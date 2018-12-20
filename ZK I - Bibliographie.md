@@ -49,6 +49,8 @@
 	- 12/4c3b4a
 	- 33/5d2a
 	- 33/5d2b
+- Bradshaw, Ann (1996): The spiritual dimension of hospice: The secularization of an ideal, in: Social Science & Medicine, 43.2, pp. 409-419.
+	- 42/2
 - Brüggen, Susanne (2005): Religiöses aus der Ratgeberecke, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 81-102.
 	- 31/5d3a
 ## C
@@ -62,6 +64,12 @@
 - Deleuze, Gilles / Guattari, Félix (1977): Rhizom, Berlin: Merve.
 	- 12/4j
 	- 12/4k
+- Dreßke, Stephan (2005): Sterben im Hospiz. Der Alltag in einer alternativen Pflegeeinrichtung, Frankfurt/M./New York, NY: Campus-Verlag.
+	- 31/5d2d2g
+	- 31/5d2d5
+	- 31/5d2e4a
+	- 31/5d2g2a1
+	- 31/5d2h6
 - Dreßke, Stephan (2007): Die Herstellung des „guten Sterbens“. Arbeit an der Identitätssicherung im Hospiz, in:  Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 215-236.
 	- 31/5d2g
 - Dreßke, Stephan / Göckenjahn, Gerd (2002): Wandlungen des Sterbens im Krankenhaus und die Konflikte zwischen Krankenrolle und Sterberolle, in: Österreichische Zeitschrift für Soziologie 27.4, S. 80-96.
@@ -72,6 +80,8 @@
 ## F
 - Feyerabend, Paul (1984/2013): Wissenschaft als Kunst (8. Auflage), Frankfurt/M.: Suhrkamp.
 	- 35/2
+- Field, David / Addington-Hall, Julia (1999): Extending specialist palliative care to all?, in: Social Science & Medicine 48, pp. 1271-1280.
+	- 31/5d2g1b1
 - Findeis, Anja (2007): Die Ganzheitlichkeit der Pflege. Ein notwendiger Mythos klinischer Organisationen, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 307-328.
 	- 31/5d2h
 - Foucault, Michel (1972/2017): Die Ordnung des Diskurses, Frankfurt/M.: S. Fischer Verlag.
