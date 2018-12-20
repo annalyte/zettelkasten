@@ -120,7 +120,7 @@
 - Kontextur 33/5c4; 33/8-10
 - Kontingenz 33/5c
 - Konzept 33/1h1
-- Körper 31/5d2i4; 31/5d2g2a; 31/5d2g3c; 31/5d5c
+- Körper 31/5d2i4; 31/5d2g2a; 31/5d2g3c; 31/5d5c; 31/5d2d3
 ## L
 - Laien 31/1b; 31/5d2g1c
 - Landschaft 12/4l
@@ -191,6 +191,7 @@
 - Ritual 31/5d4
 - Routinen 33/5d2; 31/5d4
 ## S
+- Säkularisierung 42/2
 - Schema 12/4c5
 - Schmerz 31/5d2e1
 - Schmutz 31/5d2g3c
