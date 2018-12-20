@@ -69,6 +69,7 @@
 	- 31/5d2d5
 	- 31/5d2e4a
 	- 31/5d2g2a1
+	- 31/5d2g3d
 	- 31/5d2h6
 - Dreßke, Stephan (2007): Die Herstellung des „guten Sterbens“. Arbeit an der Identitätssicherung im Hospiz, in:  Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 215-236.
 	- 31/5d2g
@@ -142,6 +143,8 @@
 	- 31/5d4a1
 	- 33/10
 ## K
+- Kahl, Antje (2010): Der Niedergang der klinischen Sektion: Dysfunktionalität der Praxis statt Tabuisierung des toten Körpers, in: Sociologica Internationalis, 48, S. 247-272.
+	- 31/5d2i8
 - Keller, Reiner / Lau, Christoph (2008): Bruno Latour und die Grenzen der Gesellschaft, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 306-338.
 	- 12/3a1
 	- 31/5d1
