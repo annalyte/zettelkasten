@@ -10,6 +10,7 @@
 - Arzt 31/1c2b
 - Assemblage 12/4l
 - Assoziation 21/3b; 21/5c3c; 21/5c3b1
+- Ästhetik 33/1c1
 - Asymmetrie 31/5d(1-2); 31/5f-h; 31/5d2e; 31/5g
 - Atopik 31/5d2g1a3
 - Ausstellung 21/5c3c
@@ -85,6 +86,7 @@
 - Hegel 33/3,4
 - Hermeneutik 33/5d3-4; 33/5c7
 - Heterogenität 12/4a1
+- Heterotopie 31/5d2g3e
 - Hierarchie 31/5d2j
 - Hineinversetzen 21/5c6-9; 31/5d2g1
 - Hospiz 31/5d2g; 31/5d2g3
