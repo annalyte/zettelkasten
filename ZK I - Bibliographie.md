@@ -87,7 +87,7 @@
 	- 31/5d2h
 - Foucault, Michel (1972/2017): Die Ordnung des Diskurses, Frankfurt/M.: S. Fischer Verlag.
 	- 31/5d1a2
-- Foucault, Michel (1988/1973): Die Geburt der Klinik, Frankfurt/M.: S. Fischer Verlag.
+- Foucault, Michel (1973/1988): Die Geburt der Klinik, Frankfurt/M.: S. Fischer Verlag.
 	- 31/1c1b
 	- 31/5d2d2a
 	- 31/5d2d2b
@@ -96,6 +96,8 @@
 	- 31/5d2i3
 	- 31/5d2i4
 	- 31/5d3c
+- Foucault, Michel (1984/1986): Of Other Spaces, in: Diacritics, 16.1, pp. 22-27.
+	- 31/5d2g3e
 ## G
 - Gertenbach, Lars (2016): Politik - Diplomatie - Dezisionismus, in: Soziale Welt 67.3, S. 281-298.
 	- 21/3b2
@@ -363,6 +365,8 @@
 	- 31/5b
 - Nassehi, Armin (2015): Die letzte Stunde der Wahrheit, Hamburg: Murrmann Verlag.
 	- 12/4b
+- Nassehi, Armin (2017): Gibt es theoretische Einsichten? Zur Empirie dessen, was wir wissen können, in: Burzan, Nicole / Hitzler, Ronald (Hrsg.): Theoretische Einsichten. Im Kontext empirischer Arbeit, Wiesbaden: Springer VS, S. 15-30.
+	- 33/1c1
 - Nassehi, Armin / Weber, Georg (1988): Verdrängung des Todes, in: Soziale Welt 39.4, S. 377-396.
 	- 31/5d4b1
 	- 31/5d5a
@@ -504,6 +508,8 @@
 - Schroer, Markus (2008): Vermischen, Vermitteln, Vernetzen, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 361-400.
 	- 12/4g
 	- 21/5c6b
+- Schroer, Markus (2019): Raum, Zeit und soziale Ordnung, in: ders. (Hrsg.): Räume der Gesellschaft. Soziologische Studien, Wiesbaden: Springer VS, S. 127-142.
+	- 31/5d2g1a4
 - Schützeichel, Rainer (2017): Sinnwelten des Trauerns. Eine Analyse der Professionalisierung von Trauerarbeit, in: Jakoby, Nina / Thönnes, Michaela (Hrsg.): Zur Soziologie des Sterbens, Wiesbaden: Springer VS, S. 113-134.
 	- 31/5d4b
 - Seale, Clive (1998): Constructing Death. Sociology of Dying and Bereavement, Cambridge: Cambridge University Press.
@@ -578,6 +584,8 @@
 	- 31/10
 	- 31/11
 	- 31/12
+- Tyrell, Hartmann (2015): Interaktion, Organisation, Gesellschaft - Niklas Luhmann und die Soziologie der Nachkriegszeit, in: Soziale Systeme 20.2, S. 337-386.
+	- 33/1d1
 ## U
 ## V
 - Vogd, Werner (2002): Professionalisierungsschub oder Auflösung ärztlicher Autonomie, in: Zeitschrift für Soziologie 31.4, S. 294-315.
