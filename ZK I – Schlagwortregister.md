@@ -221,6 +221,7 @@
 - Symmetrie, Prinzip der 31/8-9; 31/5d1; 35/5
 - Symmetrieerwartungen 31/5e
 - Symptom 31/5d2d2a
+- Synästhesie 31/5d2g1a6
 - Synchronisation 12/4a,b; 12/4j; 71/1
 - Systemtheorie 33/1a-e; 21/3c,d; 33/5,a-e; 33/6; 12/4c1
 ## T
