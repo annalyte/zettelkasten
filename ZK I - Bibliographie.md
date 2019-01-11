@@ -92,6 +92,7 @@
 	- 31/5d2d2a
 	- 31/5d2d2b
 	- 31/5d2b2c
+	- 31/5d2g1a6
 	- 31/5d2h1a
 	- 31/5d2i3
 	- 31/5d2i4
@@ -423,6 +424,8 @@
 - Pfeffer, Christine (2005): Ich hab‘ gar nicht gemerkt, wie ich da reingezogen wurde: Zur Dynamik von Individualsierung und Nähe in der Pflegearbeit stationärer Hospize, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 103-124.
 	- 31/5d2g1
 	- 31/5d2g2
+- Prokic, Tanja (2016): Wie der Blick in Serie ging, in: Friedrich, Orsolya / Aurenque, Diana / Assadi, Galia / Schleidgen, Sebastian (Hg.): Nietzsche, Foucault und die Medizin. Philosophische Impulse für die Medizinethik, Bielefeld: transcript Verlag, S. 85-106.
+	- 31/5d2g1a6
 ## Q
 ## R
 - Rabe-Kleberg, Ursula (1996): Professionalität und Geschlechterverhältnis. Oder: Was ist „semi“ an traditionellen Frauenberufen? in: Combe, Arno / Helsper, Werner (Hrsg.): Pädagogische Professionalität, Frankfurt/M.: Suhrkamp, S. 276-302.
@@ -465,6 +468,9 @@
 	- 31/4a
 	- 31/5d
 	- 31/5e
+- Saake, Irmhild (2018): Die Dominanz des Arztes, in: Kadmon, Martina / Klinke, Sebastian (Hrsg.): Ärztliche Tätigkeit im 21. Jahrhundert. Profession oder Dienstleistung, Berlin: Springer, S. 311-329.
+	- 31/1b2
+	- 31/5d2g6
 - Saake, Irmhild / Nassehi, Armin (2004): Die Kulturalisierung der Ethik, in: Burkhardt Günter / Runkel Gunter (Hrsg.): Luhmann und die Kulturtheorie, Frankfurt/M.: Suhrkamp, S. 102-135.
 	- 11/4
 	- 31/1c2b1
