@@ -85,6 +85,7 @@
 	- 31/5d2g1b1
 - Findeis, Anja (2007): Die Ganzheitlichkeit der Pflege. Ein notwendiger Mythos klinischer Organisationen, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 307-328.
 	- 31/5d2h
+	- 31/5d2e9
 - Foucault, Michel (1972/2017): Die Ordnung des Diskurses, Frankfurt/M.: S. Fischer Verlag.
 	- 31/5d1a2
 - Foucault, Michel (1973/1988): Die Geburt der Klinik, Frankfurt/M.: S. Fischer Verlag.
@@ -273,10 +274,12 @@
 	- 31/5d4a4
 - Luhmann, Niklas (2008): Ist Kunst codierbar?, in: ders. (Hrsg.): Schriften zur Kunst und Literatur, Frankfurt/M.: Suhrkamp, S. 14-44.
 	- 31/5d2c
-- Luhmann, Niklas (2008/1995): Inklusion und Exklusion, in: ders.: Soziologische Aufklärung 6. Die Soziologie und der Mensch, Wiesbaden: VS-Verlag, S. 226-251.
+- Luhmann, Niklas (1995/2008): Inklusion und Exklusion, in: ders.: Soziologische Aufklärung 6. Die Soziologie und der Mensch, Wiesbaden: VS-Verlag, S. 226-251.
 	- 33/5d7
 - Luhmann, Niklas (1990/2009): Der medizinische Code, in: ders. (Hrsg.): Soziologische Aufklärung 5. Konstruktivistische Perspektiven, Wiesbaden: VS-Verlag, S. 176-188.
 	- 31/5d2d1
+- Luhmann, Niklas (1990/2009): Sozialsystem Familie, in: ders. (Hrsg.): Soziologische Aufklärung 5. Konstruktivistische Perspektiven, Wiesbaden: VS-Verlag, S. 189-209.
+	- 12/4c3e
 ## M
 - Macho, Thomas / Marek, Kristin (2007): Die neue Sichtbarkeit des Todes, München: Wilhelm Fink Verlag.
 	- 31/5d3
@@ -345,6 +348,7 @@
 	- 33/5d6
 - Nassehi, Armin (2010): Asymmetrien als Lösung und als Problem, in: Fateh-Moghadam, Bijan / Sellmaier, Stephan / Vossenkuhl, Wilhelm (Hrsg.): Grenzen des Paternalismus, Stuttgart: Kohlhammer, S. 341-356.
 	- 31/5d2a4
+	- 31/5d4a5
 	- 31/5d8
 - Nassehi, Armin (2011): Gesellschaft der Gegenwarten, Berlin: Suhrkamp.
 	- 11/2
