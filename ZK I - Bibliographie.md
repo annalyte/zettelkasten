@@ -617,6 +617,9 @@
 	- 31/1c2d1
 	- 33/5d5c1
 	- 33/5d5d
+- Vogd, Werner (2011): Zur Soziologie der organisierten Krankenbehandlung, Weilerswist: Velbrück Wissenschaft.
+	- 31/5d4a6
+	- 31/5d4a7
 - Vogd, Werner (2017): The professions in modernity and the society of the future, in: Professions and Professionalism 7.1, Keine Seitenzahlen.
 	- 31/1c2b3
 ## W
