@@ -22,6 +22,8 @@
 	- 12/5
 	- 21/5c3
 ## B
+- Baecker, Dirk (1999): Die doppelte Schließung der Organisation, in: ders. (Hrsg.): Organisation als System, Frankfurt/M.: Suhrkamp, S. 121-168.
+	- 31/5d4a3a
 - Baecker, Dirk (2007): Zur Krankenbehandlung im Krankenhaus, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 39-62.
 	- 31/5d2d
 - Barth, Niklas / Nassehi, Armin / Schneider, Antonius (2013): Umgang mit Unbestimmtheit - zur Hypermodernität des Hausarztes, in: Zeitschrift für Evidenz, Fortbildung und Qualität im Gesundheitswesen 108, S. 59-65.
@@ -478,6 +480,7 @@
 - Saake, Irmhild / Nassehi, Armin (2004): Die Kulturalisierung der Ethik, in: Burkhardt Günter / Runkel Gunter (Hrsg.): Luhmann und die Kulturtheorie, Frankfurt/M.: Suhrkamp, S. 102-135.
 	- 11/4
 	- 31/1c2b1
+	- 31/5d2g1a2c
 	- 31/5d3b
 	- 31/5d4a
 	- 31/5d6
