@@ -36,6 +36,8 @@
 	- 33/5c3a
 - Bateson, Gregory (1993): Wo Engel zögern. Unterwegs zu einer Epistemologie des Heiligen, Frankfurt/M.: Suhrkamp.
 	- 31/5d4a1 
+- Becker, Dorothée / Schwermann, Meike / Carlen, Fernando (2019): Intuition und Wahrnehmung als Grundlage der palliativen Pflege - das Konzept der leiblichen Phänomenologie in Praxis und Bildung, in: Zeitschrift für Palliativmedizin, 20.2, S. 73-77.
+	- 31/5d2h7
 - Belan, Dina / Schiller, Carina (2016): Helfen ohne zu heilen. Berufsbedingte Belastungen und Bewältigungsstrategien von Palliativpflegekräften, München: Rainer Hampp Verlag.
 	- 31/1c4
 	- 31/5d2d1a
