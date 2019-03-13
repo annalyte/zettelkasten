@@ -210,6 +210,8 @@
 	- 31/5d2g1a3
 - Lehmann, Maren (2016): Diplomatie an der Front, in: Soziologische Revue 39.4, S. 537-544.
 	- 21/5c4
+- Lavi, Shai (2008): How Dying Became a ‚Life Crisis‘, in: Daedalus, 137.1, pp. 57-65.
+	- 31/5d2d1d
 - Lindemann, Gesa (2008): „Allons enfants et faits de la patrie ...“ Über Latours Sozial- und Gesellschaftstheorie sowie seinen Beitrag zur Rettung der Welt, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 339-360.
 	- 31/1d2
 - Luhmann, Niklas (1971): Moderne Systemtheorien als Form gesamtgesellschaftlicher Analyse, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie, Frankfurt/M.: Suhrkamp, S. 7-24.
@@ -231,6 +233,7 @@
 - Luhmann, Niklas (1984/1987): Soziale Systeme, Frankfurt/M.: Suhrkamp.
 	- 11/2c
 	- 12/4c1c
+	- 12/4c3f
 	- 12/6
 	- 21/3e 
 	- 21/3f
@@ -501,6 +504,9 @@
 	- 21/5d
 	- 21/5e
 	- 31/1c
+- Salis Gross, Corina (2001): Der ansteckende Tod. Eine ethnologische Studie zum Sterben im Altersheim, Frankfurt/M.: Campus.
+	- 31/5d2g1a7
+	- 31/5d2g1a8
 - Schlegel, Friedrich (1799): Lucinde, Stuttgart: Reclam.
 	- 31/4
 	- 33/1b 
