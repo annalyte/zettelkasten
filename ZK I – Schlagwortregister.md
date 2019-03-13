@@ -68,6 +68,7 @@
 - Experiment 31/1c2b2c
 - Experte 31/1a-d; 12/6, 21/5c5; 31/1c2a1
 ## F
+- Familie 12/4c3e
 - Form 22; 33/5d7
 ## G
 - Ganzheitlichkeit 31/5d2g1; 31/5d2h1a
@@ -102,6 +103,7 @@
 - Interdependenz 31/5d2i
 - Interpretation 33/5d4; 33/5d5b
 - Interview 33/5c3
+- Intuition 31/5d2h7
 ## J
 ## K
 - Kannibalen 21/5c6; 21/5c8
@@ -131,8 +133,10 @@
 - Lebensende 11/5
 - Lebensqualität 31/5d2g1g
 - Legitimation 12/5; 31/5d2e; 32/2
+- Leib 31/5d2h7
 - Leiche 31/5d2i6
 - Lernen 21/5c6
+- Liminalität 31/5d2g1a8
 - Literatur 61/2
 - Logik 12/4c3b4
 ## M
