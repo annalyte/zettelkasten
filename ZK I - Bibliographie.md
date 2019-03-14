@@ -202,6 +202,8 @@
 	- 83/3
 - Laux, Henning (2016): Hybridorganisationen: Politische Herausforderungen an der Schnittstelle zwischen Wissenschaft und biophysischer Natur, in: Soziale Welt 67.3, S. 313-331.
 	- 12/4a
+- Lavi, Shai (2008): How Dying Became a ‚Life Crisis‘, in: Daedalus, 137.1, pp. 57-65.
+	- 31/5d2d1d
 - Lawton, Julia (1998): Contemporary hopsice care: the sequestration of the unbounded body and ‚dirty dying‘, in: Sociology of Health & Illness 20.2, S. 121-143.
 	- 31/5d5d
 	- 31/5d2g3c
@@ -210,8 +212,6 @@
 	- 31/5d2g1a3
 - Lehmann, Maren (2016): Diplomatie an der Front, in: Soziologische Revue 39.4, S. 537-544.
 	- 21/5c4
-- Lavi, Shai (2008): How Dying Became a ‚Life Crisis‘, in: Daedalus, 137.1, pp. 57-65.
-	- 31/5d2d1d
 - Lindemann, Gesa (2008): „Allons enfants et faits de la patrie ...“ Über Latours Sozial- und Gesellschaftstheorie sowie seinen Beitrag zur Rettung der Welt, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 339-360.
 	- 31/1d2
 - Luhmann, Niklas (1971): Moderne Systemtheorien als Form gesamtgesellschaftlicher Analyse, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie, Frankfurt/M.: Suhrkamp, S. 7-24.
@@ -242,6 +242,7 @@
 	- 31/1c3b
 	- 31/1c3c
 	- 31/1c3d
+	- 31/1c3e
 	- 31/5d5
 	- 33/1e
 	- 33/1f
@@ -465,7 +466,7 @@
 	- 33/5d1a
 	- 33/5d2
 	- 33/5d3
-- Saake, Irmhild (2012): Sterben vor Publikum, in: Kursbuch 171.
+- Saake, Irmhild (2012): Sterben vor Publikum, in: Kursbuch 171, S. 157-171.
 	- 31/5d2b
 - Saake, Irmhild (2015): Soziologie der Ethik. Semantik es symmetrischer Kommunikation, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 43-67.
 	- 12/2
