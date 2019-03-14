@@ -56,7 +56,7 @@
 - Ethnomethodologie 33/5d4a
 - Ethos 31/1c1c
 - Erfahrung 31/2
-- Erwartung 12/4c3a; 31/5e; 31/1c2,3,4; 33/1f; 31/1c3a
+- Erwartung 12/4c3a; 31/5e; 33/1f; _31/1c3a_
 - Erwartungsmanagement 31/1c2
 - Erwartungsstil 31/1c3d
 - Erzählung 32/3
@@ -73,6 +73,7 @@
 ## G
 - Ganzheitlichkeit 31/5d2g1; 31/5d2h1a
 - Gedächtnis 31/5d4a4
+- Gefühle 31/1c3e
 - Generalisierung 21/5e
 - Gesellschaftskritik 83/2; 31/5d2g3
 - Gewohnheit 21/3e
