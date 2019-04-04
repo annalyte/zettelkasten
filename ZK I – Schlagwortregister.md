@@ -74,7 +74,9 @@
 - Ganzheitlichkeit 31/5d2g1; 31/5d2h1a
 - Gedächtnis 31/5d4a4
 - Gefühle 31/1c3e
+- Geld 31/5d2g3f
 - Generalisierung 21/5e
+- Geschichten 12/4k2
 - Gesellschaftskritik 83/2; 31/5d2g3
 - Gewohnheit 21/3e
 - Gleichheit 31/10-12
@@ -96,6 +98,7 @@
 - Hybriden 21/5c6b
 - Hybridorganisation 12/4a
 ## I
+- Identität 12/4k1
 - Improvisation 33/5d2b
 - Individualisierung 31/5d3
 - Ingenieur 21/5c5
@@ -125,6 +128,7 @@
 - Kontext 33/8-9; 33/5c4; 33/5d1a; 33/5d5
 - Kontextur 33/5c4; 33/8-10
 - Kontingenz 33/5c
+- Kontrolle 12/4k1
 - Konzept 33/1h1
 - Körper 31/5d2i4; 31/5d2g2a; 31/5d2g3c; 31/5d5c; 31/5d2d3
 ## L
@@ -157,7 +161,7 @@
 - Multiprofessionalität 31/5d2h1; 31/5d2h1b; 31/5d7
 - Musik 22/1
 ## N
-- Netzwerk 12/4h-l; 12/4c1b
+- Netzwerk 12/4h-l; 12/4c1b; 12/4k1
 ## O
 - Objekt 21/5c3b2-5; 21/1; 31/8a
 - Ökonomie 32/2
