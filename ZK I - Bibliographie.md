@@ -2,6 +2,8 @@
 ## A 
 - Abbott, Andrew (1988): The System of Professions, Chicago/London: The University of Chicago Press.
 	- 31/1c2a4a
+- Abel, Emily K. (1986): The Hospice Movement: Institutionalizing Innovation, in: International Journal of Health Services, 16.1, pp. 71-85.
+	- 31/5d2g3f
 - Adorno, Theodor W. (1975): Philosophie der neuen Musik, Frankfurt/M.: Suhrkamp.
 	- 11/1a
 	- 22/1
@@ -433,6 +435,8 @@
 	- 31/1c2b4
 	- 31/1c8
 	- 31/5d2e8
+- Pfeffer, Christine (1998): Brücke zwischen Leben und Tod. Eine empirische Untersuchung in einem Hospiz, Köln: Rüdiger Köppe Verlag.
+	- 31/5d2b2c
 - Pfeffer, Christine (2005): Ich hab‘ gar nicht gemerkt, wie ich da reingezogen wurde: Zur Dynamik von Individualsierung und Nähe in der Pflegearbeit stationärer Hospize, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 103-124.
 	- 31/5d2g1
 	- 31/5d2g2
@@ -653,6 +657,9 @@
 	- 31/5d2g1a4
 - Werber, Niels (2016): Der letzte Κατέχων oder: Das Übel der Differenzierung, in: Soziale Welt 67.3, S. 267-280.
 	- 33/6
+- White, Harrison C. (2008): Identity and Control. How Social Formations Emerge, Princeton, NJ: Princeton University Press.
+	- 12/4k1
+	- 12/4k2
 - Winkel, Heidemarie (2005): Selbstbestimmt Sterben. Patient(inn)enorientierung und ganzheitliche Schmerztherapie als Kommunikationskoordinaten in der Hospizarbeit. Eine systemtheoretische Perspektive, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 169-188.
 	- 31/5d2e2
 	- 31/5d2e3
