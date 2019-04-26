@@ -141,6 +141,8 @@
 - Hanses, Andreas / Heuer, Katrin / Janotta, Lisa / Paul, Kathleen (2015): Konstruktionen des Sterbens - Analysen zu den Herstellungsweisen des Sterbens in organisationalen Kontexten, in: Neue Praxis 45.2, S. 160-177.
 	- 31/5d2g2a
 	- 31/5d2g3a
+- Husserl, Edmund (1905/2013): Zur Phänomenologie des inneren Zeitbewußtseins, Hamburg: Felix Meiner Verlag.
+	- 71/5
 - Hopf, Christel (1978): Die Pseudo-Exploration - Überlegungen zur Technik qualitativer Interviews in der Sozialforschung, in: Zeitschrift für Soziologie, 7.2, S. 97-115.
 	- 33/5c3c
 ## I
@@ -216,6 +218,8 @@
 	- 21/5c4
 - Lindemann, Gesa (2008): „Allons enfants et faits de la patrie ...“ Über Latours Sozial- und Gesellschaftstheorie sowie seinen Beitrag zur Rettung der Welt, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 339-360.
 	- 31/1d2
+- Luhmann, Niklas (1968): Vertrauen. Ein Mechanismus der Reduktion sozialer Komplexität, Stuttgart: Ferdinand Enke Verlag.
+	- 31/1c3f
 - Luhmann, Niklas (1971): Moderne Systemtheorien als Form gesamtgesellschaftlicher Analyse, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie, Frankfurt/M.: Suhrkamp, S. 7-24.
 	- 33/5g
 - Luhmann, Niklas (1971): Sinn als Grundbegriff der Soziologie, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie, Frankfurt/M.: Suhrkamp, S. 25-100.
@@ -290,6 +294,8 @@
 	- 31/5d2d1
 - Luhmann, Niklas (1990/2009): Sozialsystem Familie, in: ders. (Hrsg.): Soziologische Aufklärung 5. Konstruktivistische Perspektiven, Wiesbaden: VS-Verlag, S. 189-209.
 	- 12/4c3e
+- Luhmann, Niklas (2016): Der neue Chef, Berlin: Suhrkamp.
+	- 12/4k3
 ## M
 - Macho, Thomas / Marek, Kristin (2007): Die neue Sichtbarkeit des Todes, München: Wilhelm Fink Verlag.
 	- 31/5d3
