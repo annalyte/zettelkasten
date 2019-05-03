@@ -1,25 +1,273 @@
-# ZK I - Struktur
-
-- 1 Ethik/Moral
-	- 11 Authentizität
-- 2 Emergenz
-	- 21 Netzwerk
-	- 22 Form
-- 3 Moderne
-	- 31 Symmetrie
-	- 32 Hard Modernity
-	- 33 Differenzierung
-	- 34 Postmoderne
-	- 35 Nach-Moderne
-- 4 Religion
-	- 41 Religiöses Reden
-	- 42 Spiritualität 
-- 5 Politik
-	- 51 Politikwissenschaft
-- 6 Frankreich
-	- 61 Soziologie
-- 7 Koordination
-	- 71 Synchronisierung
-- 8 Kritik
-	- 81 Emanzipation
-
+# ZK I – Schlagwortregister
+## A
+- Abduktion 33/5d5f
+- Abstraktion 33/5f-g
+- Achtung 12/1b
+- Aktant 21/3a1
+- Akteur 31/1d2
+- Akteur-Netzwerk Theorie 21/3-5; 33/6
+- Ambiguität 31/1c3c
+- Arzt 31/1c2b
+- Assemblage 12/4l
+- Assoziation 21/3b; 21/5c3c; 21/5c3b1
+- Ästhetik 33/1c1
+- Asymmetrie 31/5d(1-2); 31/5f-h; 31/5d2e; 31/5g
+- Atopik 31/5d2g1a3
+- Ausstellung 21/5c3c
+- Autonomie 31/1c2j; 31/1c8
+- Autopoiesis 21/3d; 12/4c2a
+- Autopsie 31/5d2i6
+## B
+- Banalität 31/5d4a3
+- Bedeutungen 33/5c3a; ... 
+- Bereichsethik 12/2a
+- Berufe 31/1c1
+- Bewusstsein 31/5d5
+- Bewusstseinskontext 31/1c2e; 31/5d2b2a
+- Biografie 31/5d2g2a
+- Bourdieu 61/1
+- Bürokratie 22/3
+## C
+- Charisma 31/5d2g3b
+- Code 31/5d2c; 31/5d2e1
+- Compliance 31/5d2e1a
+## D
+- Dekonstruktion 35/5
+- Destabilisierung 21/5c2b
+- Dezisionismus 33/6
+- Dienstleistung 31/1c7
+- Dinge 31/1d-e; 21/3f
+- Disziplin 21/5c2
+- Diplomatie 21/5c3, 21/5e
+- Dissens 33/1f; 33/2
+- Dissimulation 31/5d2g1d; 31/5d5e
+- Distanz 31/5d2h1b
+- Dokumentarische Methode 33/5d5c
+## E
+- Ebenenunterscheidung 33/1d
+- Ekel 31/5d5c
+- Entdifferenzierung 33/6; 33/7
+- Entscheidung 31/5d4a3; 31/5d2k
+- Ethische Sensibilisierung 21/5d-e; 31/1c; 21/5c1a; 21/5c6a-b
+- Ethisches Reden 21/5c2a
+- Ethikkommission 12/4,5
+- Ethnie 33/5c1
+- Ethnographie 31/5d7; 33/1i
+- Ethnomethodologie 33/5d4a
+- Ethos 31/1c1c
+- Erfahrung 31/2
+- Erwartung 12/4c3a; 31/5e; 33/1f; _31/1c3a_
+- Erwartungsmanagement 31/1c2
+- Erwartungsstil 31/1c3d
+- Erzählung 32/3
+- Evaluation 31/5d2b
+- Evidenz 12/4c5; 31/1c2b2a; 31/5d2g1c1
+- Evolution 12/4c1
+- Exegese 35/3-5; 41/2; 21/3a1
+- Existenzweisen 21/3b2
+- Experiment 31/1c2b2c
+- Experte 31/1a-d; 12/6, 21/5c5; 31/1c2a1
+## F
+- Familie 12/4c3e
+- Form 22; 33/5d7
+## G
+- Ganzheitlichkeit 31/5d2g1; 31/5d2h1a
+- Gedächtnis 31/5d4a4
+- Gefühle 31/1c3e
+- Geld 31/5d2g3f
+- Generalisierung 21/5e
+- Geschichten 12/4k2
+- Gesellschaftskritik 83/2; 31/5d2g3
+- Gewohnheit 21/3e
+- Gleichheit 31/10-12
+- Grenze 21/3f; 31/5d1
+- Gründe 11/2; 12/1; 31/5; 31/5d1; 33/5d2
+- Gruppe 12/4k3
+## H
+- Habermas 33/5d2
+- Habitus 31/1c2b2; 33/5a; 33/5d5e; 61/2
+- Handeln 33/1g; 33/5d6
+- Häuslichkeit 31/5d2g1a
+- Hegel 33/3,4
+- Hermeneutik 33/5d3-4; 33/5c7
+- Heterogenität 12/4a1
+- Heterotopie 31/5d2g3e
+- Hierarchie 31/5d2j
+- Hineinversetzen 21/5c6-9; 31/5d2g1
+- Hospiz 31/5d2g; 31/5d2g3
+- Humangenetik 31/5d2e8
+- Hybriden 21/5c6b
+- Hybridorganisation 12/4a
+## I
+- Identität 12/4k1
+- Improvisation 33/5d2b
+- Individualisierung 31/5d3
+- Ingenieur 21/5c5
+- Inklusion 21/5c6b; 12/4g
+- Interaktion 31/5g1a
+- Interdependenz 31/5d2i
+- Interpretation 33/5d4; 33/5d5b
+- Interview 33/5c3
+- Intuition 31/5d2h7
+## J
+## K
+- Kannibalen 21/5c6; 21/5c8
+- Kapitalismus 12/4i
+- Katalysator 21/5c3b; 21/5c3b2
+- Krankenhaus 31/5d2b3; 31/5d2e; 31/5d2h
+- Krankheit 31/5d2d2; 31/5d2i3
+- Kultur 12/4c2b
+- Kunst 11/1; 21/1; 21/5; 31/1c2b2b; 83/1
+- Kuratieren 21/5c3a-c
+- Kollektiv 31/1d2
+- Kollektivitätsorientierung 31/5d2h2
+- Kommunikation 31/5d6
+- Kompetenz 31/1c2b2d
+- Komplementarität 31/4
+- Komplexitätsreduktion 12/4c2c
+- Konsens 31/5a1
+- Konstruktivismus 31/8a1; 35/5
+- Kontext 33/8-9; 33/5c4; 33/5d1a; 33/5d5
+- Kontextur 33/5c4; 33/8-10
+- Kontingenz 33/5c
+- Kontrolle 12/4k1
+- Konzept 33/1h1
+- Körper 31/5d2i4; 31/5d2g2a; 31/5d2g3c; 31/5d5c; 31/5d2d3
+## L
+- Laien 31/1b; 31/5d2g1c
+- Landschaft 12/4l
+- Latour 61/1a
+- Lebensende 11/5
+- Lebensqualität 31/5d2g1g
+- Legitimation 12/5; 31/5d2e; 32/2
+- Leib 31/5d2h7
+- Leiche 31/5d2i6
+- Lernen 21/5c6
+- Liminalität 31/5d2g1a8
+- Literatur 61/2
+- Logik 12/4c3b4
+## M
+- Macht 12/4h
+- Makro-Akteur 12/4i
+- Material, empirisches 33/5d5a
+- Materie 12/4e
+- Medium 22/2
+- Medizin 31/5d2c-f; 32/2
+- Medizinalisierte Kommunikation 31/5d2e5
+- Metapher 12/4l
+- Methode 33/5a; 33/5d5; 21/5c1a; 35/5
+- Mitglied 31/5d4a4
+- Mode 12/1a
+- Moderator 21/5, 21/5c5
+- Moral 31/9; 12/1b; 31/1c1a
+- Multiprofessionalität 31/5d2h1; 31/5d2h1b; 31/5d7
+- Musik 22/1
+## N
+- Netzwerk 12/4h-l; 12/4c1b; 12/4k1
+## O
+- Objekt 21/5c3b2-5; 21/1; 31/8a
+- Ökonomie 32/2
+- Ontologie 33/1h1
+- Operativität 12/4c3a
+- Optionssteigerung 32/2
+- Organisation 31/5d4a; 31/5d2i2
+- Orientierungsrahmen 33/5d5c
+## P
+- Pädagogik 31/1c2b2; 31/5d2h4
+- Palliativmedizin 31/5d2c-g; 31/5d2g1b-d
+- Papst 12/4b
+- Paradoxie 33/5e, 33/1d; 31/5d2a2
+- Performanz 31/1c2b2a; 31/5d2i; 33/1g,h
+- Person 12/4c3c; 33/1; 31/5d2h5
+- Perspektivendifferenz 21/5c, 21/3f
+- Pflege 31/5d2h; 31/5d2h5
+- Plausibilität 12/4c4-5
+- Polykontexturalität 31/5d2e6
+- Praxis 12/4c3b
+- Preadaptive Advances 12/4c1a1
+- Problem/Lösung 31/1c2a4
+- Profession 31/1c1; 31/5d2h2; 31/5d3
+- Publikum 31/1c2a
+## Q
+- Qualitative Sozialforschung 33/5c,d
+- Quasi-Objekt 21/5c3b4-5
+## R
+- Rahmen 12/4c3b3; 33/5d6
+- Rasse 33/5c1
+- Rationalismus 31/8c
+- Raum 31/5d2g1a4
+- Reinheit 83/1
+- Rekursivität 11/2d
+- Relativismus 21/5c9-10
+- Revolution 12/4k
+- Reziprozität 31/12
+- Rhizom 12/4j-k
+- Ritual 31/5d4
+- Routinen 33/5d2; 31/5d4
+## S
+- Säkularisierung 42/2
+- Schema 12/4c5
+- Schmerz 31/5d2e1
+- Schmutz 31/5d2g3c
+- Schweigen 31/5c
+- Selbststeuerung 33/5d1a2; 31/1c8
+- Semantik 12/4c-g; 21/3a1; 32/2; 35/5
+- Simmel 31/1e
+- Sinn 33/1e,g,h; 33/5c7; 33/5d4; 21/3e,f; 12/4c1
+- Sinndimension 33/1e
+- Soziale Arbeit 31/1c2a3
+- Sozialisation 21/5c6b
+- Soziologie 35/2a
+- Spezialisierung 31/5d2i2
+- Spiritualität 42/1
+- Sterbehilfe 31/1c2i
+- Sterben 31/1c2d; 31/5d2; 31/5d3b; 31/5d6
+- Sterben, gutes 31/5d2b
+- Sterbekultur 31/5d2
+- Sterben-Machen 33/5d1b,c
+- Struktur 11/2a-e; 12/4c1; _11/2c_
+- Strukturen, dissipative 11/2d
+- Subjekt 31/8a
+- Symbolisch generalisierte Kommunikationsmedien 33/1e
+- Symmetrie, Prinzip der 31/8-9; 31/5d1; 35/5
+- Symmetrieerwartungen 31/5e
+- Symptom 31/5d2d2a
+- Synästhesie 31/5d2g1a6
+- Synchronisation 12/4a,b; 12/4j; 71/1
+- Systemtheorie 33/1a-e; 21/3c,d; 33/5,a-e; 33/6; 12/4c1
+## T
+- Tausch 31/5d2g4
+- Technik 31/5h
+- Theorievergleich 33/5a,b; 21/3c
+- Tiere 31/5d2f1
+- Tod 11/4; 31/5d2-5; 33/5c4
+- Todesverdrängung 31/5d5a
+- Transzendenz 31/5a1 
+- Trauer 31/5d4b
+## U
+- Übersetzung 12/4; 12/4h
+- Überzeugungspraxis 35/3
+- Unbestimmtheit 12/4c3b1; 31/1c7
+- Unterscheidung 12/4c2a
+- Utopie 31/5d2g3a
+## V
+- Verteilte Intelligenz 12/4b
+- Verfremdung 35/4
+- Vermittlungsarbeit 12/4f
+- Vernunft 12/4c3b2
+- Vertrauen 12/4c2c
+## W
+- Wandel 11/2e
+- Weltbilder 12/4c1a3
+- Werte 31/7
+- Whitehead 12/4e
+- Wiederholung 12/4c3a; 33/5d1a1; 41/1-2
+- Wille 31/5d2a; 31/1c2b1
+- Wissenschaftstheorie 35/1,2; 21/2; 31/8a
+- Wissenspolitik 33/5d1b
+- Wissenssoziologie 31/8a
+- Witz 33/1b 
+- Würde 31/5d2b1
+## X, Y, Z 
+- Zeit 71/1-5
+- Zirkel 21/3d
