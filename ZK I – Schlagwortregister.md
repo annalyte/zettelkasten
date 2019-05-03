@@ -124,6 +124,7 @@
 - Kommunikation 31/5d6
 - Kompetenz 31/1c2b2d
 - Komplementarität 31/4
+- Komplexitätsreduktion 12/4c2c
 - Konsens 31/5a1
 - Konstruktivismus 31/8a1; 35/5
 - Kontext 33/8-9; 33/5c4; 33/5d1a; 33/5d5
@@ -224,7 +225,7 @@
 - Sterben, gutes 31/5d2b
 - Sterbekultur 31/5d2
 - Sterben-Machen 33/5d1b,c
-- Struktur 11/2a-e; 12/4c1
+- Struktur 11/2a-e; 12/4c1; _11/2c_
 - Strukturen, dissipative 11/2d
 - Subjekt 31/8a
 - Symbolisch generalisierte Kommunikationsmedien 33/1e
@@ -254,6 +255,7 @@
 - Verfremdung 35/4
 - Vermittlungsarbeit 12/4f
 - Vernunft 12/4c3b2
+- Vertrauen 12/4c2c
 ## W
 - Wandel 11/2e
 - Weltbilder 12/4c1a3
