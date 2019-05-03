@@ -220,6 +220,8 @@
 	- 31/1d2
 - Luhmann, Niklas (1968): Vertrauen. Ein Mechanismus der Reduktion sozialer Komplexität, Stuttgart: Ferdinand Enke Verlag.
 	- 31/1c3f
+	- 12/4c2c
+	- 11/2d1
 - Luhmann, Niklas (1971): Moderne Systemtheorien als Form gesamtgesellschaftlicher Analyse, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie, Frankfurt/M.: Suhrkamp, S. 7-24.
 	- 33/5g
 - Luhmann, Niklas (1971): Sinn als Grundbegriff der Soziologie, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie, Frankfurt/M.: Suhrkamp, S. 25-100.
