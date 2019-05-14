@@ -470,6 +470,7 @@
 	- 12/4c3b1
 - Saake, Irmhild (2007): Moderne Todessemantiken, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 237-262.
 	- 31/5d2a
+	- 31/5d2g1a9
 - Saake, Irmhild (2010): Die Kultur des Sterbens. Praktiken der Symmetrisierung, in: polar #10, 6-18.
 	- 31/5d2
 - Saake, Irmhild (2010): Bedeutungen und ihre Bornhiertheit, in: John, René / Henkel, Anna / Rückert-John Jana (Hrsg.): Methodologien des Systems, Wiesbaden: VS-Verlag, S. 55-79.
@@ -569,6 +570,8 @@
 	- 21/3b1
 	- 31/1d
 	- 31/5c
+- Stemmer, Renate (1999): Ganzheitlichkeit in der Pflege - unerreicht, da unerreichbar?, in: PfleGe 4.4, 86-91.
+	- 31/5d2h1d
  - Stichweh, Rudolf (1996): Professionen in einer funktional differenzierten Gesellschaft, in: Combe, Arno / Helsper, Werner (Hrsg.): Pädagogische Professionalität, Frankfurt/M.: Suhrkamp, S. 49-69.
 	- 31/1c1c
 - Stichweh, Rudolf (2000): Professionen im System der modernen Gesellschaft, in: Merten, Roland (Hrsg.): Systemtheorie Sozialer Arbeit, Opladen: Leske + Budrich, S. 29-38.
