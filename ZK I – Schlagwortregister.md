@@ -71,7 +71,7 @@
 - Familie 12/4c3e
 - Form 22; 33/5d7
 ## G
-- Ganzheitlichkeit 31/5d2g1; 31/5d2h1a
+- Ganzheitlichkeit 31/5d2g1; 31/5d2h1a; 31/5d2h1d
 - Gedächtnis 31/5d4a4
 - Gefühle 31/1c3e
 - Geld 31/5d2g3f
@@ -240,7 +240,7 @@
 - Technik 31/5h
 - Theorievergleich 33/5a,b; 21/3c
 - Tiere 31/5d2f1
-- Tod 11/4; 31/5d2-5; 33/5c4
+- Tod 11/4; 31/5d2-5; 33/5c4; 31/5d2g1a9
 - Todesverdrängung 31/5d5a
 - Transzendenz 31/5a1 
 - Trauer 31/5d4b
