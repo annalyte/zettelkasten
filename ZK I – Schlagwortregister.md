@@ -237,6 +237,7 @@
 - Systemtheorie 33/1a-e; 21/3c,d; 33/5,a-e; 33/6; 12/4c1
 ## T
 - Tausch 31/5d2g4
+- Team 12/4k4
 - Technik 31/5h
 - Theorievergleich 33/5a,b; 21/3c
 - Tiere 31/5d2f1
