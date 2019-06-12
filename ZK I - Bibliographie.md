@@ -26,6 +26,8 @@
 ## B
 - Baecker, Dirk (1999): Die doppelte Schließung der Organisation, in: ders. (Hrsg.): Organisation als System, Frankfurt/M.: Suhrkamp, S. 121-168.
 	- 31/5d4a3a
+- Baecker, Dirk (1999): Einfache Komplexität, in: ders. (Hrsg.): Organisation als System, Frankfurt/M.: Suhrkamp, S. 169-197.
+	- 12/4k4
 - Baecker, Dirk (2007): Zur Krankenbehandlung im Krankenhaus, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 39-62.
 	- 31/5d2d
 - Barth, Niklas / Nassehi, Armin / Schneider, Antonius (2013): Umgang mit Unbestimmtheit - zur Hypermodernität des Hausarztes, in: Zeitschrift für Evidenz, Fortbildung und Qualität im Gesundheitswesen 108, S. 59-65.
@@ -117,6 +119,8 @@
 	- 31/1c2f
 	- 31/1c2g
 	- 31/5g1a
+- Goffman, Erving (1959): The Presentation of Self in Everyday life, New York, NY: Anchor Books.
+	- 12/4k5
 - Groddeck, Victoria von (2011): Organisation und Werte, Wiesbaden: VS-Verlag.
 	- 31/5d2e5
 	- 31/7a
