@@ -25,6 +25,7 @@
 - Bewusstsein 31/5d5
 - Bewusstseinskontext 31/1c2e; 31/5d2b2a
 - Biografie 31/5d2g2a
+- Biomacht 31/5d2b7
 - Bourdieu 61/1
 - Bürokratie 22/3
 ## C
