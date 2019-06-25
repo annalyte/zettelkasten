@@ -566,6 +566,7 @@
 	- 31/5d2i7
 - Stadelbacher, Stephanie (2017): Das Lebensende als Randgebiet des Sozialen? Zur Praxis des ‚guten‘ Sterbens zu Hause am Beispiel der ambulanten Hospiz- und Palliativarbeit, in: Jakoby, Nina / Thönnes, Michaela (Hrsg.): Zur Soziologie des Sterbens, Wiesbaden: Springer VS, S. 49-70.
 	- 31/5d2g1a
+	- 31/5d2g7
 - Stäheli, Urs (2000): Sinnzusammenbrüche, Wielerswist: Velbrück Wissenschaft.
 	- 12/4c1a
 	- 12/4c1b
@@ -594,7 +595,9 @@
 - Streckeisen, Ursula (2007): Legitime und Illegitime Schmerzen. Ärztliche und pflegerische Strategien im Umgang mit invasives Maßnahmen bei Sterbenden, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 191-214.
 	- 31/5d2e
 	- 31/5d2f
-- Streeck, Natalie (2017): Sterben, wie man gelebt hat. Die Optimierung des Lebensendes, in: Jakoby, Nina / Thönnes, Michaela (Hrsg.): Zur Soziologie des Sterbens, Wiesbaden: Springer VS, S. 29-48.
+- Streeck, Nina (2016): „Leben machen, sterben lassen“: Palliative Care und Biomacht, in: Ethik in der Medizin 28, S. 135-148.
+	- 31/5d2b7
+- Streeck, Nina (2017): Sterben, wie man gelebt hat. Die Optimierung des Lebensendes, in: Jakoby, Nina / Thönnes, Michaela (Hrsg.): Zur Soziologie des Sterbens, Wiesbaden: Springer VS, S. 29-48.
 	- 31/5d2b2
 - Stolberg, Michael (2007): Cura palliativa. Begriff und Diskussion der palliativen Krankheitsbehandlung in der vermodernden Medizin, in: Medizinhistorisches Journal 42, S. 7-29.
 	- 31/5d2d1b
