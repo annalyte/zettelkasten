@@ -61,6 +61,8 @@
 	- 42/2
 - Brüggen, Susanne (2005): Religiöses aus der Ratgeberecke, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 81-102.
 	- 31/5d3a
+- Brzoska, Patrick / Yilmaz-Asian, Yüce / Probst, Stephan (2018): Umgang mit Diversität in der Pflege und Palliativversorgung am Beispiel von Menschen mit Migrationshintergrund, in: Zeitschrift für Gerontologie und Geriatrie 51, S. 636-641.
+	- 31/5d2g2a2
 ## C
 - Callon, Michel / Rabehariosa, Vololona (1999): De la sociologie du travail appliquée à l‘opération chirurgicale : ou comment faire disparaître la personne du patient, dans: Sociologie du Travail 41.2, pp. 143-162.
 	- 12/4m
@@ -460,6 +462,8 @@
 	- 31/1c7
 - Reichertz, Jo (1997): Plädoyer für das Ende einer Methodologiedebatte bis zur letzten Konsequenz, in: Sutter, Tilmann (Hrsg.): Beobachtung verstehen, Verstehen beobachten. Perspektiven einer konstruktivistischen Hermeneutik, Opladen: Westdeutscher Verlag, S. 98-132.
 	- 33/5d5f
+- Riemann, Gerhard / Schütze, Fritz (1991): „Trajectory“ as a basic theoretical concept for analyzing suffering and disorderly social processes, in: Maines, David R. (Ed.): Social organization and social process: essays in honor of Anselm Strauss, New York, NY: de Gruyter, pp. 333-357.
+	- 31/5d2d2h
 - Roßler, Gustav (2008): Kleine Galerie neuer Dingbegriffe, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 76-107.
 	- 21/5c3b5
 ## S
