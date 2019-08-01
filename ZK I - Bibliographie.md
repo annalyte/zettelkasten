@@ -61,7 +61,7 @@
 	- 42/2
 - Brüggen, Susanne (2005): Religiöses aus der Ratgeberecke, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 81-102.
 	- 31/5d3a
-- Brzoska, Patrick / Yilmaz-Asian, Yüce / Probst, Stephan (2018): Umgang mit Diversität in der Pflege und Palliativversorgung am Beispiel von Menschen mit Migrationshintergrund, in: Zeitschrift für Gerontologie und Geriatrie 51, S. 636-641.
+- Brzoska, Patrick / Yilmaz-Aslan, Yüce / Probst, Stephan (2018): Umgang mit Diversität in der Pflege und Palliativversorgung am Beispiel von Menschen mit Migrationshintergrund, in: Zeitschrift für Gerontologie und Geriatrie 51, S. 636-641.
 	- 31/5d2g2a2
 ## C
 - Callon, Michel / Rabehariosa, Vololona (1999): De la sociologie du travail appliquée à l‘opération chirurgicale : ou comment faire disparaître la personne du patient, dans: Sociologie du Travail 41.2, pp. 143-162.
@@ -147,6 +147,8 @@
 - Hanses, Andreas / Heuer, Katrin / Janotta, Lisa / Paul, Kathleen (2015): Konstruktionen des Sterbens - Analysen zu den Herstellungsweisen des Sterbens in organisationalen Kontexten, in: Neue Praxis 45.2, S. 160-177.
 	- 31/5d2g2a
 	- 31/5d2g3a
+- Hirschauer, Stefan (2001): Ethnografisches Schreiben und die Schweigsamkeit des Sozialen. Zu einer Methodologie der Beschreibung, in: Zeitschrift für Soziologie, 30.6., S. 429-451.
+	- 33/1j
 - Husserl, Edmund (1905/2013): Zur Phänomenologie des inneren Zeitbewußtseins, Hamburg: Felix Meiner Verlag.
 	- 71/5
 - Hopf, Christel (1978): Die Pseudo-Exploration - Überlegungen zur Technik qualitativer Interviews in der Sozialforschung, in: Zeitschrift für Soziologie, 7.2, S. 97-115.
@@ -263,6 +265,10 @@
 	- 33/3
 - Luhmann, Niklas (1990): Paradigm lost: Über die ethische Reflexion der Moral, Frankfurt/M.: Suhrkamp. 
 	- 12/1b 
+- Luhmann, Niklas (1990): Die Wissenschaft der Gesellschaft, Frankfurt/M.: Suhrkamp.
+	- 22/4
+	- 31/1c2k
+	- 33/5c2a
 - Luhmann, Niklas (1994): Die Wirtschaft der Gesellschaft, Frankfurt/M.: Suhrkamp.
 	- 21/3d
 	- 22/2
