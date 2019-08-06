@@ -532,6 +532,9 @@
 	- 21/5d
 	- 21/5e
 	- 31/1c
+- Saake, Irmhild / Nassehi, Armin / Mayr, Katharina (2019): Gegenwarten von Sterbenden. Eine Kritik des Paradigmas vom „bewussten“ Sterben, in: Kölner Zeitschrift für Soziologie und Sozialpsychologie, 71, S. 27-52.
+	- 31/5d2b2d
+	- 31/5d2g1h
 - Salis Gross, Corina (2001): Der ansteckende Tod. Eine ethnologische Studie zum Sterben im Altersheim, Frankfurt/M.: Campus.
 	- 31/5d2g1a7
 	- 31/5d2g1a8
