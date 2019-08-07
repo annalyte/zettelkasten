@@ -246,6 +246,8 @@
 	- 12/4c4
 - Luhmann, Niklas (1983): Anspruchsinflation im Krankheitssystem. Eine Stellungnahme aus gesellschaftstheoretischer Sicht, in: Herder-Dorneich, Philipp / Schuller, Alexander (Hrsg.): Die Anspruchsspirale, Stuttgart: Kohlhammer, S. 28-49.
 	- 31/5d2d2f
+- Luhmann, Niklas (1983/1980): Rechtssoziologie, Opladen: Westdeutscher Verlag.
+	- 31/1c3g
 - Luhmann, Niklas (1984/1987): Soziale Systeme, Frankfurt/M.: Suhrkamp.
 	- 11/2c
 	- 12/4c1c
