@@ -62,6 +62,7 @@
 - Erwartungsmanagement 31/1c2
 - Erwartungsstil 31/1c3d
 - Erzählung 32/3
+- Erziehung 31/5d2h4
 - Evaluation 31/5d2b
 - Evidenz 12/4c5; 31/1c2b2a; 31/5d2g1c1
 - Evolution 12/4c1
@@ -101,6 +102,7 @@
 - Hybriden 21/5c6b
 - Hybridorganisation 12/4a
 ## I
+- Ideal 31/5a2
 - Identität 12/4k1; 31/5d2g2a1
 - Improvisation 33/5d2b
 - Individualisierung 31/5d3
@@ -116,11 +118,13 @@
 - Kannibalen 21/5c6; 21/5c8
 - Kapitalismus 12/4i
 - Katalysator 21/5c3b; 21/5c3b2
+- Kinder 31/5d4b3
 - Krankenhaus 31/5d2b3; 31/5d2e; 31/5d2h
 - Krankheit 31/5d2d2; 31/5d2i3
 - Kultur 12/4c2b
 - Kulturalisierung 31/5d2g2a2
-- Kunst 11/1; 21/1; 21/5; 31/1c2b2b; 83/1
+- Kunst 11/1; 21/1; 83/1
+- Kunstlehre 31/1c2b2b
 - Kuratieren 21/5c3a-c
 - Kollektiv 31/1d2
 - Kollektivitätsorientierung 31/5d2h2
