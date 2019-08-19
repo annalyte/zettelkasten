@@ -117,6 +117,11 @@
 	- 12/4e 
 - Glaser, Barney G. / Strauss, Anselm L. (1964): Awareness contexts and social interaction, in: American Sociological Review 29.5, S. 669-679.
 	- 31/1c2e
+- Glaser, Barney G. / Strauss, Anselm L. (1968/2007): Time for dying, New Brunswick, NJ/London: Aldine Transaction.
+	- 31/5d4b3
+	- 31/5d2h1b3
+	- 31/5d2h4a
+	- 71/1a
 - Glaser, Barney G. / Strauss, Anselm L. (1974): Interaktion mit Sterbenden, Göttingen: Vandenhoeck & Ruprecht.
 	- 31/1c2f
 	- 31/1c2g
@@ -265,6 +270,8 @@
 	- 33/1e
 	- 33/1f
 	- 33/3
+- Luhmann, Niklas (1986/2008): Das Kunstwerk und die Selbstreproduktion der Kunst, in: Werber, Niels (Hrsg.): Schriften zur Kunst und Literatur, Frankfurt/M.: Suhrkamp, S. 139-188.
+	- 31/5a2
 - Luhmann, Niklas (1990): Paradigm lost: Über die ethische Reflexion der Moral, Frankfurt/M.: Suhrkamp. 
 	- 12/1b 
 - Luhmann, Niklas (1990): Die Wissenschaft der Gesellschaft, Frankfurt/M.: Suhrkamp.
@@ -545,8 +552,9 @@
 	- 33/1b 
 - Schleiermacher, Friedrich (1977): Hermeneutik und Kritik. Herausgegeben von Manfred Frank, Frankfurt/M.: Suhrkamp.
 	- 33/5d5a1
-- Schneider, Werner (2005): Zur diskursiven Ordnung des Lebensendes, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 55-80.
+- Schneider, Werner (2005): Der ‚gesicherte’ Tod. Zur diskursiven Ordnung des Lebensendes, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 55-80.
 	- 31/5d2a1
+	- 31/5d2b8
 - Schneider, Werner (2014): Sterbewelten. Ethnographische (und dispostivanalytische) Forschung am Lebensende, in: Schnell, Martin W. / Schneider, Werner / Kolbe, Harald (Hrsg.): Sterbewelten, Wiesbaden: Springer VS, S. 51-138.
 	- 11/5
 	- 11/6
