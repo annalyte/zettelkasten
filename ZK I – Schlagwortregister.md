@@ -209,7 +209,9 @@
 - Revolution 12/4k
 - Reziprozität 31/12
 - Rhizom 12/4j-k
+- Richter 31/1c9
 - Ritual 31/5d4
+- Rolle 31/1c9
 - Routinen 33/5d2; 31/5d4
 ## S
 - Säkularisierung 42/2
