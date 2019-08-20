@@ -1,4 +1,4 @@
-# ZK I - Bibliographie
+# ZK I - Bibliografie
 ## A 
 - Abbott, Andrew (1988): The System of Professions, Chicago/London: The University of Chicago Press.
 	- 31/1c2a4a
@@ -253,6 +253,7 @@
 	- 31/5d2d2f
 - Luhmann, Niklas (1983/1980): Rechtssoziologie, Opladen: Westdeutscher Verlag.
 	- 31/1c3g
+	- 31/1c9
 - Luhmann, Niklas (1984/1987): Soziale Systeme, Frankfurt/M.: Suhrkamp.
 	- 11/2c
 	- 12/4c1c
