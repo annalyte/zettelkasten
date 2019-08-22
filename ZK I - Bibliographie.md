@@ -159,6 +159,8 @@
 - Hopf, Christel (1978): Die Pseudo-Exploration - Überlegungen zur Technik qualitativer Interviews in der Sozialforschung, in: Zeitschrift für Soziologie, 7.2, S. 97-115.
 	- 33/5c3c
 ## I
+- Illich, Ivan (1995/2007): Die Nemesis der Medizin. Die Kritik der Medikalisierung des Lebens, München: C.H. Beck. 
+	- 31/5d2g3f
 ## J
 - Jacques, Michel (1997): Soigner avec ou sans consentement, dans: Faure, Olivier (ed.): Les thérapeutiques : savoirs et usages, Lyon: Fondation Marcel Mérieux, pp. 341-356.
 	- 31/1c2b2c
@@ -279,6 +281,8 @@
 	- 22/4
 	- 31/1c2k
 	- 33/5c2a
+- Luhmann, Niklas (1992): Zwei Quellen der Bürokratisierung in Hochschulen, in: Kieserling, André (Hrsg.): Universität als Milieu, Bielefeld: Cordula Haux Verlag, S. 74-79.
+	- 12/4k6
 - Luhmann, Niklas (1994): Die Wirtschaft der Gesellschaft, Frankfurt/M.: Suhrkamp.
 	- 21/3d
 	- 22/2
