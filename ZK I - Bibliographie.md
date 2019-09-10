@@ -86,6 +86,8 @@
 - Dreßke, Stephan / Göckenjahn, Gerd (2002): Wandlungen des Sterbens im Krankenhaus und die Konflikte zwischen Krankenrolle und Sterberolle, in: Österreichische Zeitschrift für Soziologie 27.4, S. 80-96.
 	- 31/5d2b3
 ## E
+- Eisch-Angus, Katharina (2019): Absurde Angst - Narrationen der Sicherheitsgesellschaft, Wiesbaden: Springer VS.
+	- 31/5d2b1b
 - Ernaux, Annie (1997): La honte, Paris: Éditions Gallimard.
 	- 41/1
 ## F
@@ -140,10 +142,10 @@
 - Gunaratnam, Yasmin (2003): Researching ‚Race‘ and Ethnicity. Methods, Power and Knowledge, London: Sagepub.
 	- 33/5c1
 ## H
-- Habermas, Jürgen (1971): Theorie der Gesellschaft oder Sozialtechnologie? Eine Auseinandersetzung mit Niklas Luhmann, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie?, Frankfurt/M.: Suhrkamp, S. 142-290.
+- Habermas, Jürgen (1971): Theorie der Gesellschaft oder Sozialtechnologie? Eine Auseinandersetzung mit Niklas Luhmann, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie? Was leistet die Systemforschung?, Frankfurt/M.: Suhrkamp, S. 142-290.
 	- 12/4c3b5
 	- 12/4c3b6
-- Habermas, Jürgen (1971): Vorbereitende Bemerkungen zu einer Theorie der kommunikativen Kompetenz, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie?, Frankfurt/M.: Suhrkamp, S. 101-141.
+- Habermas, Jürgen (1971): Vorbereitende Bemerkungen zu einer Theorie der kommunikativen Kompetenz, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie. Was leistet die Systemforschung?, Frankfurt/M.: Suhrkamp, S. 101-141.
 	- 31/5a1
 - Habermas, Jürgen (1997): Die Einheit der Vernunft in der Vielfalt ihrer Stimmen, in: ders.: Nachmetaphysisches Denken. Philosophische Aufsätze, Frankfurt/M.: Suhrkamp, S. 153-186.
 	- 12/4l
@@ -237,9 +239,9 @@
 	- 31/1c3f
 	- 12/4c2c
 	- 11/2d1
-- Luhmann, Niklas (1971): Moderne Systemtheorien als Form gesamtgesellschaftlicher Analyse, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie, Frankfurt/M.: Suhrkamp, S. 7-24.
+- Luhmann, Niklas (1971): Moderne Systemtheorien als Form gesamtgesellschaftlicher Analyse, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie. Was leistet die Systemforschung?, Frankfurt/M.: Suhrkamp, S. 7-24.
 	- 33/5g
-- Luhmann, Niklas (1971): Sinn als Grundbegriff der Soziologie, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie, Frankfurt/M.: Suhrkamp, S. 25-100.
+- Luhmann, Niklas (1971): Sinn als Grundbegriff der Soziologie, in: Habermas, Jürgen / Luhmann, Niklas (Hrsg.): Theorie der Gesellschaft oder Sozialtechnologie. Was leistet die Systemforschung?, Frankfurt/M.: Suhrkamp, S. 25-100.
 	- 33/5c7
 - Luhmann, Niklas (1971/2007): Die Knappheit der Zeit und die Vordringlichkeit des Befristeten, in: ders. (Hrsg.): Politische Planung. Aufsätze zur Soziologie von Politik und Verwaltung, Wiesbaden: VS-Verlag, S. 143-164.
 	- 71/2
@@ -318,6 +320,8 @@
 	- 31/5d2c
 - Luhmann, Niklas (1995/2008): Inklusion und Exklusion, in: ders.: Soziologische Aufklärung 6. Die Soziologie und der Mensch, Wiesbaden: VS-Verlag, S. 226-251.
 	- 33/5d7
+- Luhmann, Niklas (1990/2009): Risiko und Gefahr, in: ders. (Hrsg.): Soziologische Aufklärung 5. Konstruktivistische Perspektiven, Wiesbaden: VS-Verlag, S. 126-162.
+	- 31/5d2b1c
 - Luhmann, Niklas (1990/2009): Der medizinische Code, in: ders. (Hrsg.): Soziologische Aufklärung 5. Konstruktivistische Perspektiven, Wiesbaden: VS-Verlag, S. 176-188.
 	- 31/5d2d1
 - Luhmann, Niklas (1990/2009): Sozialsystem Familie, in: ders. (Hrsg.): Soziologische Aufklärung 5. Konstruktivistische Perspektiven, Wiesbaden: VS-Verlag, S. 189-209.
@@ -430,6 +434,8 @@
 - Nassehi, Armin / Saake, Irmhild (2005): Kontexturen des Todes, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 31-54.
 	- 33/5c4
 	- 33/9
+- Nassehi, Armin / Saake, Irmhild / Barth, Niklas (2019): Die Stärke schwacher Verfahren. Zur verfahrensförmigen Entdramatisierung von Perspektivendifferenzen im Kontext der Organspende, in: Zeitschrift für Soziologie 43.3, S. 190-208.
+	- 33/5c2b
 - Nida-Rümelin, Julian (2001): Strukturelle Rationalität, Stuttgart: Reclam. 
 	- 11/2a
 	- 11/2b
@@ -482,6 +488,8 @@
 	- 31/1c7
 - Reichertz, Jo (1997): Plädoyer für das Ende einer Methodologiedebatte bis zur letzten Konsequenz, in: Sutter, Tilmann (Hrsg.): Beobachtung verstehen, Verstehen beobachten. Perspektiven einer konstruktivistischen Hermeneutik, Opladen: Westdeutscher Verlag, S. 98-132.
 	- 33/5d5f
+- Richter, Dirk / Saake, Irmhild (1996): Die Grenzen des Ganzen. Eine Kritik holistischer Ansätze in der Pflegewissenschaft, in: Pflege 9.3, S. 171-180.
+	- 31/5d2h1e
 - Riemann, Gerhard / Schütze, Fritz (1991): „Trajectory“ as a basic theoretical concept for analyzing suffering and disorderly social processes, in: Maines, David R. (Ed.): Social organization and social process: essays in honor of Anselm Strauss, New York, NY: de Gruyter, pp. 333-357.
 	- 31/5d2d2h
 - Roßler, Gustav (2008): Kleine Galerie neuer Dingbegriffe, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 76-107.
@@ -592,6 +600,8 @@
 	- 33/1
 - Sontag, Susan (1978/1977): Krankheit als Metapher, München/Wien: Carl Hanser Verlag.
 	- 31/5d2i7
+- Stadelbacher, Stephanie (2015): Sterben zuhause: Krisen und Routinen des Sterben-Machens im Privaten, in: Lessenich, Stephan (Hrsg.): Routinen der Krise - Krise der Routinen. Verhandlungen des 37. Kongresses der Deutschen Gesellschaft für Soziologie in Trier 2014, S. 1808-1817.
+	- 31/5d2g1a10
 - Stadelbacher, Stephanie (2017): Das Lebensende als Randgebiet des Sozialen? Zur Praxis des ‚guten‘ Sterbens zu Hause am Beispiel der ambulanten Hospiz- und Palliativarbeit, in: Jakoby, Nina / Thönnes, Michaela (Hrsg.): Zur Soziologie des Sterbens, Wiesbaden: Springer VS, S. 49-70.
 	- 31/5d2g1a
 	- 31/5d2g7
