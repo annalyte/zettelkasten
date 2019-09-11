@@ -76,6 +76,7 @@
 ## G
 - Ganzheitlichkeit 31/5d2g1; 31/5d2h1a; 31/5d2h1d
 - Gedächtnis 31/5d4a4
+- Gefahr 31/5d2b1d
 - Gefühle 31/1c3e
 - Geld 31/5d2g3f
 - Generalisierung 21/5e
@@ -211,6 +212,7 @@
 - Reziprozität 31/12
 - Rhizom 12/4j-k
 - Richter 31/1c9
+- Risiko 31/5d2b1d
 - Ritual 31/5d4
 - Rolle 31/1c9
 - Routinen 33/5d2; 31/5d4
