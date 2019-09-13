@@ -74,6 +74,8 @@
 - Deleuze, Gilles / Guattari, Félix (1977): Rhizom, Berlin: Merve.
 	- 12/4j
 	- 12/4k
+- Dietz, Isabel / Plog, Anke / Jox, Ralf J. / Schulz, Christian (2014): “Please Describe from Your Point of View a Typical Case of an Error in Palliative Care”: Qualitative Data from an Exploratory Cross-Sectional Survey Study among Palliative Care Professionals, in: Journal of Palliative Medicine 17.3, S. 331-337.
+	- 31/5d2b2e
 - Dreßke, Stephan (2005): Sterben im Hospiz. Der Alltag in einer alternativen Pflegeeinrichtung, Frankfurt/M./New York, NY: Campus-Verlag.
 	- 31/5d2d2g
 	- 31/5d2d5
@@ -154,6 +156,9 @@
 - Hanses, Andreas / Heuer, Katrin / Janotta, Lisa / Paul, Kathleen (2015): Konstruktionen des Sterbens - Analysen zu den Herstellungsweisen des Sterbens in organisationalen Kontexten, in: Neue Praxis 45.2, S. 160-177.
 	- 31/5d2g2a
 	- 31/5d2g3a
+- Heider, Fritz (1926/2005): Ding und Medium, Berlin: Kadmos.
+	- 22/5
+	- 22/6
 - Hirschauer, Stefan (2001): Ethnografisches Schreiben und die Schweigsamkeit des Sozialen. Zu einer Methodologie der Beschreibung, in: Zeitschrift für Soziologie, 30.6., S. 429-451.
 	- 33/1j
 - Husserl, Edmund (1905/2013): Zur Phänomenologie des inneren Zeitbewußtseins, Hamburg: Felix Meiner Verlag.
@@ -283,6 +288,13 @@
 	- 22/4
 	- 31/1c2k
 	- 33/5c2a
+- Luhmann, Niklas (1990/2009): Risiko und Gefahr, in: ders. (Hrsg.): Soziologische Aufklärung 5. Konstruktivistische Perspektiven, Wiesbaden: VS-Verlag, S. 126-162.
+	- 31/5d2b1c
+	- 31/5d2b1d
+- Luhmann, Niklas (1990/2009): Der medizinische Code, in: ders. (Hrsg.): Soziologische Aufklärung 5. Konstruktivistische Perspektiven, Wiesbaden: VS-Verlag, S. 176-188.
+	- 31/5d2d1
+- Luhmann, Niklas (1990/2009): Sozialsystem Familie, in: ders. (Hrsg.): Soziologische Aufklärung 5. Konstruktivistische Perspektiven, Wiesbaden: VS-Verlag, S. 189-209.
+	- 12/4c3e
 - Luhmann, Niklas (1992): Zwei Quellen der Bürokratisierung in Hochschulen, in: Kieserling, André (Hrsg.): Universität als Milieu, Bielefeld: Cordula Haux Verlag, S. 74-79.
 	- 12/4k6
 - Luhmann, Niklas (1994): Die Wirtschaft der Gesellschaft, Frankfurt/M.: Suhrkamp.
@@ -303,6 +315,10 @@
 	- 33/4
 	- 61/1
 	- 83/1
+- Luhmann, Niklas (1995/2008): Inklusion und Exklusion, in: ders.: Soziologische Aufklärung 6. Die Soziologie und der Mensch, Wiesbaden: VS-Verlag, S. 226-251.
+	- 33/5d7
+- Luhmann, Niklas (1995/2008): Wahrnehmung und Kommunikation sexueller Interessen, in: ders.: Soziologische Aufklärung 6. Die Soziologie und der Mensch, Wiesbaden: VS-Verlag, S. 180-193.
+	- 31/5d2i9
 - Luhmann, Niklas (1997): Die Gesellschaft der Gesellschaft, Frankfurt/M.: Suhrkamp.
 	- 12/4c1a1
 	- 12/4c1a2
@@ -318,15 +334,6 @@
 	- 31/5d4a4
 - Luhmann, Niklas (2008): Ist Kunst codierbar?, in: ders. (Hrsg.): Schriften zur Kunst und Literatur, Frankfurt/M.: Suhrkamp, S. 14-44.
 	- 31/5d2c
-- Luhmann, Niklas (1995/2008): Inklusion und Exklusion, in: ders.: Soziologische Aufklärung 6. Die Soziologie und der Mensch, Wiesbaden: VS-Verlag, S. 226-251.
-	- 33/5d7
-- Luhmann, Niklas (1990/2009): Risiko und Gefahr, in: ders. (Hrsg.): Soziologische Aufklärung 5. Konstruktivistische Perspektiven, Wiesbaden: VS-Verlag, S. 126-162.
-	- 31/5d2b1c
-	- 31/5d2b1d
-- Luhmann, Niklas (1990/2009): Der medizinische Code, in: ders. (Hrsg.): Soziologische Aufklärung 5. Konstruktivistische Perspektiven, Wiesbaden: VS-Verlag, S. 176-188.
-	- 31/5d2d1
-- Luhmann, Niklas (1990/2009): Sozialsystem Familie, in: ders. (Hrsg.): Soziologische Aufklärung 5. Konstruktivistische Perspektiven, Wiesbaden: VS-Verlag, S. 189-209.
-	- 12/4c3e
 - Luhmann, Niklas (2016): Der neue Chef, Berlin: Suhrkamp.
 	- 12/4k3
 ## M
@@ -491,6 +498,7 @@
 	- 33/5d5f
 - Richter, Dirk / Saake, Irmhild (1996): Die Grenzen des Ganzen. Eine Kritik holistischer Ansätze in der Pflegewissenschaft, in: Pflege 9.3, S. 171-180.
 	- 31/5d2h1e
+	- 31/5d2h4b
 - Riemann, Gerhard / Schütze, Fritz (1991): „Trajectory“ as a basic theoretical concept for analyzing suffering and disorderly social processes, in: Maines, David R. (Ed.): Social organization and social process: essays in honor of Anselm Strauss, New York, NY: de Gruyter, pp. 333-357.
 	- 31/5d2d2h
 - Roßler, Gustav (2008): Kleine Galerie neuer Dingbegriffe, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 76-107.
@@ -593,6 +601,8 @@
 	- 31/5d2h1c
 	- 31/5d2g5e
 	- 31/5d4b2
+- Seminole, Elena / Demjén, Zsófia / Demmen, Jane / Koller, Veronika / Payne, Sheila / Hardie, Andrew / Rayson, Paul (2017): The online use of Violence and Journey metaphors by patients with cancer, as compared with health professionals: a mixed methods study. in: BMJ Supportive & Palliative Care 17, S. 60-66.
+	- 12/4n
 - Serres, Michel (2008): Der Parasit, Frankfurt/M.: Suhrkamp.
 	- 21/5c3b5
 - Simmel, Georg (1989): Die Philosophie des Geldes, Frankfurt/M.: Suhrkamp.
