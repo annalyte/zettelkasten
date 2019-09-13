@@ -204,6 +204,7 @@
 - Rahmen 12/4c3b3; 33/5d6
 - Rasse 33/5c1
 - Rationalismus 31/8c
+- Rationalität 22/4
 - Raum 31/5d2g1a4
 - Reinheit 83/1
 - Rekursivität 11/2d
