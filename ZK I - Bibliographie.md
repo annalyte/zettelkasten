@@ -114,6 +114,8 @@
 	- 31/5d3c
 - Foucault, Michel (1984/1986): Of Other Spaces, in: Diacritics, 16.1, pp. 22-27.
 	- 31/5d2g3e
+- Fuhse, Jan (2009): Die kommunikative Konstruktion von Akteuren in Netzwerken, in: Soziale Systeme 15.2, S. 288-316.
+	- 12/4k2a
 ## G
 - Gertenbach, Lars (2016): Politik - Diplomatie - Dezisionismus, in: Soziale Welt 67.3, S. 281-298.
 	- 21/3b2
@@ -601,7 +603,7 @@
 	- 31/5d2h1c
 	- 31/5d2g5e
 	- 31/5d4b2
-- Seminole, Elena / Demjén, Zsófia / Demmen, Jane / Koller, Veronika / Payne, Sheila / Hardie, Andrew / Rayson, Paul (2017): The online use of Violence and Journey metaphors by patients with cancer, as compared with health professionals: a mixed methods study. in: BMJ Supportive & Palliative Care 17, S. 60-66.
+- Semino, Elena / Demjén, Zsófia / Demmen, Jane / Koller, Veronika / Payne, Sheila / Hardie, Andrew / Rayson, Paul (2017): The online use of Violence and Journey metaphors by patients with cancer, as compared with health professionals: a mixed methods study. in: BMJ Supportive & Palliative Care 17, S. 60-66.
 	- 12/4n
 - Serres, Michel (2008): Der Parasit, Frankfurt/M.: Suhrkamp.
 	- 21/5c3b5
