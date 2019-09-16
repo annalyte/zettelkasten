@@ -172,7 +172,8 @@
 - Multiprofessionalität 31/5d2h1; 31/5d2h1b; 31/5d7
 - Musik 22/1
 ## N
-- Netzwerk 12/4h-l; 12/4c1b; 12/4k1
+- Netzwerk 12/4h-l; 12/4k1
+- Netzwerk, semantisches 12/4c1b
 ## O
 - Objekt 21/5c3b2-5; 21/1; 31/8a
 - Ökonomie 32/2
