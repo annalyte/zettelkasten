@@ -134,6 +134,9 @@
 	- 31/5g1a
 - Goffman, Erving (1959): The Presentation of Self in Everyday life, New York, NY: Anchor Books.
 	- 12/4k5
+- Göckenjan, Gerd (1985): Kurieren und Staat machen. Gesundheit und Medizin in der bürgerlichen Welt, Frankfurt/M.: Suhrkamp.
+	- 31/1c2b1a
+	- 31/1c2b1b
 - Groddeck, Victoria von (2011): Organisation und Werte, Wiesbaden: VS-Verlag.
 	- 31/5d2e5
 	- 31/7a
