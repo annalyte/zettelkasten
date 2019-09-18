@@ -137,12 +137,16 @@
 - Göckenjan, Gerd (1985): Kurieren und Staat machen. Gesundheit und Medizin in der bürgerlichen Welt, Frankfurt/M.: Suhrkamp.
 	- 31/1c2b1a
 	- 31/1c2b1b
+	- 31/1c2b1c
+	- 31/5d2h4c
 - Groddeck, Victoria von (2011): Organisation und Werte, Wiesbaden: VS-Verlag.
 	- 31/5d2e5
 	- 31/7a
 	- 33/5d5b
 - Groddeck, Victoria von (2015): Unternehmen sind nun mal Teil der Gesellschaft, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 131-156.
 	- 31/7
+- Groddeck, Victoria von / Siri, Jasmin / Mayr, Katharina (2015): Die Entscheidungsvergessenheit der Organisationsforschung. Plädoyer für eine operative Entscheidungsforschung, in: Soziale Systeme 20.1, S. 167-192.
+	- 31/5d4a3b
 - Gronemeyer, Reimer (2005): Hospizbewegung und Palliative Care, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 207-220.
 	- 31/5d2b1
 	- 31/5d2g3
@@ -348,7 +352,7 @@
 	- 31/5d2h1b1
 - May, Michaela / Schütte-Bäumer, Christian (2018): Macht- und Wissensverhältnisse in der spezialisierten ambulanten Palliativversorgung, in: Stehr Johannes / Anhorn, Roland / Rathgeb, Kerstin (Hrsg.): Konflikt als Verhältnis - Konflikt als Verhalten - Konflikt als Widerstand, Wiesbaden: Springer VS, S. 519-531.
 	- 31/5d2g1a1
-- Mayr, Katharina (2007): Rationalität und Plausibilität in klinischen Ethikkomitees, in: Soziale Welt, Sonderheft 58, S. 323-344.
+- Mayr, Katharina (2007): Rationalität und Plausibilität in klinischen Ethikkomitees. Die Echtzeitlichkeit von Kommunikation als Empirie der Systemtheorie, in: Soziale Welt, Sonderheft 58, S. 323-344.
 	- 11/2c1
 	- 33/5c6
 - McNamara, Beverley (2001): Fragile lives. Death, dying and care, Buckingham/Philadelphia, PA: Open University Press.
@@ -433,6 +437,8 @@
 	- 12/4b
 - Nassehi, Armin (2017): Gibt es theoretische Einsichten? Zur Empirie dessen, was wir wissen können, in: Burzan, Nicole / Hitzler, Ronald (Hrsg.): Theoretische Einsichten. Im Kontext empirischer Arbeit, Wiesbaden: Springer VS, S. 15-30.
 	- 33/1c1
+- Nassehi, Armin (2019): Muster. Theorie der digitalen Gesellschaft, München: C.H. Beck.
+	- 32/2a
 - Nassehi, Armin / Weber, Georg (1988): Verdrängung des Todes, in: Soziale Welt 39.4, S. 377-396.
 	- 31/5d4b1
 	- 31/5d5a
