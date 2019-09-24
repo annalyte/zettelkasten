@@ -247,6 +247,8 @@
 	- 31/5d2g1a3
 - Lehmann, Maren (2016): Diplomatie an der Front, in: Soziologische Revue 39.4, S. 537-544.
 	- 21/5c4
+- Lehmann, Maren (2016): Angstkommunikation in dichten Ordnungen. Über Terror und Terrorismus, in: Soziale Systeme 21.1, S. 217-239.
+	- 31/1c3f1
 - Lindemann, Gesa (2008): „Allons enfants et faits de la patrie ...“ Über Latours Sozial- und Gesellschaftstheorie sowie seinen Beitrag zur Rettung der Welt, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 339-360.
 	- 31/1d2
 - Luhmann, Niklas (1968): Vertrauen. Ein Mechanismus der Reduktion sozialer Komplexität, Stuttgart: Ferdinand Enke Verlag.
@@ -537,6 +539,8 @@
 	- 33/5d3
 - Saake, Irmhild (2012): Sterben vor Publikum, in: Kursbuch 171, S. 157-171.
 	- 31/5d2b
+- Saake, Irmhild (2014): Wie alles einfacher werden sollte und dann doch schwieriger wurde, in: Braun, Norman / Müller, Julian / Nassehi, Armin / Saake, Irmhild / Wolbring, Tobias (Hrsg.): Begriffe - Positionen - Debatten. Eine Relektüre von 65 Jahren Soziale Welt, Baden-Baden: Nomos, S. 229-236.
+	- 31/1c3d1
 - Saake, Irmhild (2015): Soziologie der Ethik. Semantik es symmetrischer Kommunikation, in: Nassehi, Armin / Saake, Irmhild / Siri, Jasmin (Hrsg.): Ethik - Normen - Werte, Wiesbaden: VS-Verlag, S. 43-67.
 	- 12/2
 	- 12/3
