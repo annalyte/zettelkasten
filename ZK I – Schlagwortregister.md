@@ -7,6 +7,9 @@
 - Akteur 31/1d2
 - Akteur-Netzwerk Theorie 21/3-5; 33/6
 - Ambiguität 31/1c3c
+- Ambulant 31/5d2h4b
+- Angehörige 31/5d2h4a
+- Angst 31/1c3f
 - Arzt 31/1c2b
 - Assemblage 12/4l
 - Assoziation 21/3b; 21/5c3c; 21/5c3b1
