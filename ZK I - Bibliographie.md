@@ -134,6 +134,8 @@
 	- 31/5g1a
 - Goffman, Erving (1959): The Presentation of Self in Everyday life, New York, NY: Anchor Books.
 	- 12/4k5
+- Goffman, Erving (1971): Techniken der Imagepflege. Eine Analyse ritueller Elemente in sozialer Interaktion, in: ders.: Interaktionsrituale. Über Verhalten in direkter Kommunikation, Frankfurt/M.: Suhrkamp, S. 10-53.
+	- 31/5d2b1a1
 - Göckenjan, Gerd (1985): Kurieren und Staat machen. Gesundheit und Medizin in der bürgerlichen Welt, Frankfurt/M.: Suhrkamp.
 	- 31/1c2b1a
 	- 31/1c2b1b
@@ -176,7 +178,7 @@
 	- 33/5c3c
 ## I
 - Illich, Ivan (1995/2007): Die Nemesis der Medizin. Die Kritik der Medikalisierung des Lebens, München: C.H. Beck. 
-	- 31/5d2g3f
+	- 31/5d2g1i
 ## J
 - Jacques, Michel (1997): Soigner avec ou sans consentement, dans: Faure, Olivier (ed.): Les thérapeutiques : savoirs et usages, Lyon: Fondation Marcel Mérieux, pp. 341-356.
 	- 31/1c2b2c
@@ -402,6 +404,8 @@
 	- 33/7
 - Nassehi, Armin (2004): Sozialer Sinn, in: Nassehi, Armin / Nollmann, Gerd (Hrsg.): Bourdieu und Luhmann, Frankfurt/M.: Suhrkamp, S. 155-188.
 	- 12/4c3b4
+- Nassehi, Armin (2006): Formen der Vergesellschaftung des Sterbeprozesses, in: Nationaler Ethikrat (Hg.): Wie wir sterben/Selbstbestimmung am Lebensende. Tagungsdokumentation, S. 81-92.
+	- 31/1c2j1
 - Nassehi, Armin (2006): Der soziologische Diskurs der Moderne, Frankfurt/M.: Suhrkamp.
 	- 12/4c3b1
 	- 31/1c2a
