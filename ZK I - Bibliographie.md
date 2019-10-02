@@ -114,6 +114,8 @@
 	- 31/5d3c
 - Foucault, Michel (1984/1986): Of Other Spaces, in: Diacritics, 16.1, pp. 22-27.
 	- 31/5d2g3e
+- Fuchs, Peter (2016): Wie nicht vom Tod reden, in: Benkel, Thorsten (Hg.): Die Zukunft des Todes. Heterotopien des Lebensendes, Bielefeld: transcript, S. 43-60.
+	- 31/5d3b1
 - Fuhse, Jan (2009): Die kommunikative Konstruktion von Akteuren in Netzwerken, in: Soziale Systeme 15.2, S. 288-316.
 	- 12/4k2a
 ## G
@@ -253,7 +255,7 @@
 	- 31/1c3f1
 - Lindemann, Gesa (2008): „Allons enfants et faits de la patrie ...“ Über Latours Sozial- und Gesellschaftstheorie sowie seinen Beitrag zur Rettung der Welt, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 339-360.
 	- 31/1d2
-- Lindner, Doris (2016): Einschluss des Ausgeschlossenen. Konturen des Sterbens im Hospiz, in: Benkel, Thorsten (Hg.): Die Zukunft des Todes. Heterotopien des Lebensendes, Bielefeld: transcript, S. 85-106.
+- Lindner, Doris (2016): Einschluss der Ausgeschlossenen. Konturen des Sterbens im Hospiz, in: Benkel, Thorsten (Hg.): Die Zukunft des Todes. Heterotopien des Lebensendes, Bielefeld: transcript, S. 85-106.
 	- 31/5d2g1a11
 	- 31/5d2g1a7a
 	- 31/5d2h6a
@@ -639,6 +641,8 @@
 - Stadelbacher, Stephanie (2017): Das Lebensende als Randgebiet des Sozialen? Zur Praxis des ‚guten‘ Sterbens zu Hause am Beispiel der ambulanten Hospiz- und Palliativarbeit, in: Jakoby, Nina / Thönnes, Michaela (Hrsg.): Zur Soziologie des Sterbens, Wiesbaden: Springer VS, S. 49-70.
 	- 31/5d2g1a
 	- 31/5d2g7
+- Stadelbacher, Stephanie / Schneider, Werner (2016): Zuhause Sterben in der reflexiven Moderne. Private Sterbewelten als Heterotopien, in: Benkel, Thorsten (Hg.): Die Zukunft des Todes. Heterotopien des Lebensendes, Bielefeld: transcript, S. 61-84.
+	- 31/5d2g1a7b
 - Stäheli, Urs (2000): Sinnzusammenbrüche, Wielerswist: Velbrück Wissenschaft.
 	- 12/4c1a
 	- 12/4c1b
