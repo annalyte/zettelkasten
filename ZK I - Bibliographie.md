@@ -253,6 +253,10 @@
 	- 31/1c3f1
 - Lindemann, Gesa (2008): „Allons enfants et faits de la patrie ...“ Über Latours Sozial- und Gesellschaftstheorie sowie seinen Beitrag zur Rettung der Welt, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 339-360.
 	- 31/1d2
+- Lindner, Doris (2016): Einschluss des Ausgeschlossenen. Konturen des Sterbens im Hospiz, in: Benkel, Thorsten (Hg.): Die Zukunft des Todes. Heterotopien des Lebensendes, Bielefeld: transcript, S. 85-106.
+	- 31/5d2g1a11
+	- 31/5d2g1a7a
+	- 31/5d2h6a
 - Luhmann, Niklas (1968): Vertrauen. Ein Mechanismus der Reduktion sozialer Komplexität, Stuttgart: Ferdinand Enke Verlag.
 	- 31/1c3f
 	- 12/4c2c
@@ -729,10 +733,10 @@
 	- 21/5c2a
 	- 21/5c2b
 	- 31/1b1
-- Walker, Andreas / Breitsameter, Christoph (2013): Ethische Entscheidungen in Hospizen. Ergebnisse einer qualitativen Studie in drei Hospizen in Nordrhein-Westfalen, in: Ethik Med, S. 301-313.
-	- 31/5d2k
 - Walker, Andreas / Breitsameter, Christoph (2012): Conflicts and conflict regulation in hospices: nurses‘ perspectives, in: Medical Health Care and Philosophy 16/2013, pp. 709-718.
 	- 31/5d2g5
+- Walker, Andreas / Breitsameter, Christoph (2013): Ethische Entscheidungen in Hospizen. Ergebnisse einer qualitativen Studie in drei Hospizen in Nordrhein-Westfalen, in: Ethik Med, S. 301-313.
+	- 31/5d2k
 - Walker, Andreas / Breitsameter, Christoph (2017): The Provision of Spiritual Care in Hospices: A Study in Four Hospices in North Rhine-Westphalia, in: Journal of Religious Health 56, pp. 2237-2250.
 	- 42/1
 - Wasner, Maria / Piret, Paal / Borasio, Gian Domenico (2013): Psychological Care for the Caregivers of Primary Malignant Brain Tumor Patients, in: Journal of Social Work in End-of-Life & Palliative Care 9, S. 74-95.
