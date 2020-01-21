@@ -52,9 +52,15 @@
 	- 31/8a
 - Bohnsack, Ralf (2010): Dokumentarische Methode und Typenbildung - Bezüge zur Systemtheorie, in: John, René / Henkel, Anna / Rückert-John Jana (Hrsg.): Methodologien des Systems, Wiesbaden: VS-Verlag, S. 291-320.
 	- 33/5d5e
+- Boltanski, Luc / Thévenot, Laurent (2007/1991): Über die Rechtfertigung. Eine Soziologie der kritischen Urteilskraft, Hamburg: Hamburger Edition.
+	- 31/1c7a
+	- 33/5c2c
+	- 33/5c2d
 - Bourdieu, Pierre (1987): Sozialer Sinn, Frankfurt/M.: Suhrkamp.
 	- 12/4c3b4
 	- 12/4c3b4a
+	- 31/5d4b1a
+	- 31/5d4b1b
 	- 33/5d2a
 	- 33/5d2b
 - Bradshaw, Ann (1996): The spiritual dimension of hospice: The secularization of an ideal, in: Social Science & Medicine, 43.2, pp. 409-419.
