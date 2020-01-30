@@ -59,10 +59,13 @@
 - Bourdieu, Pierre (1987): Sozialer Sinn, Frankfurt/M.: Suhrkamp.
 	- 12/4c3b4
 	- 12/4c3b4a
+	- 12/4c3b4b
+	- 12/4c3b4c
 	- 31/5d4b1a
 	- 31/5d4b1b
 	- 33/5d2a
 	- 33/5d2b
+	- 71/6
 - Bradshaw, Ann (1996): The spiritual dimension of hospice: The secularization of an ideal, in: Social Science & Medicine, 43.2, pp. 409-419.
 	- 42/2
 - Brüggen, Susanne (2005): Religiöses aus der Ratgeberecke, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 81-102.
@@ -624,7 +627,7 @@
 	- 12/4g
 	- 21/5c6b
 - Schroer, Markus (2019): Raum, Zeit und soziale Ordnung, in: ders. (Hrsg.): Räume der Gesellschaft. Soziologische Studien, Wiesbaden: Springer VS, S. 127-142.
-	- 31/5d2g1a4
+	- 31/5d2g1a5
 - Schützeichel, Rainer (2017): Sinnwelten des Trauerns. Eine Analyse der Professionalisierung von Trauerarbeit, in: Jakoby, Nina / Thönnes, Michaela (Hrsg.): Zur Soziologie des Sterbens, Wiesbaden: Springer VS, S. 113-134.
 	- 31/5d4b
 - Seale, Clive (1998): Constructing Death. Sociology of Dying and Bereavement, Cambridge: Cambridge University Press.
