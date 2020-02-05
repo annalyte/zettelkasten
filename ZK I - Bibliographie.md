@@ -109,6 +109,8 @@
 - Findeis, Anja (2007): Die Ganzheitlichkeit der Pflege. Ein notwendiger Mythos klinischer Organisationen, in: Saake, Irmhild / Vogd, Werner (Hrsg.): Moderne Mythen der Medizin, Wiesbaden: VS Verlag, S. 307-328.
 	- 31/5d2h
 	- 31/5d2e9
+- Fischer, Wolfram (1982): Alltagszeit und Lebenszeit in Lebensgeschichten von chronisch Kranken, in: Zeitschrift für Sozialisationsforschung und Erziehungssoziologie, 2.1, S. 5-19.
+	- 71/1b
 - Foucault, Michel (1972/2017): Die Ordnung des Diskurses, Frankfurt/M.: S. Fischer Verlag.
 	- 31/5d1a2
 - Foucault, Michel (1973/1988): Die Geburt der Klinik, Frankfurt/M.: S. Fischer Verlag.
@@ -163,6 +165,8 @@
 - Gronemeyer, Reimer (2005): Hospizbewegung und Palliative Care, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 207-220.
 	- 31/5d2b1
 	- 31/5d2g3
+- Gross, Matthias (2016): Give Me an Experiment and I Will Raise a Laboratory, in: Science, Technology & Human Values, 41.4, pp. 613-634.
+	- 12/4a2
 - Gunaratnam, Yasmin (2003): Researching ‚Race‘ and Ethnicity. Methods, Power and Knowledge, London: Sagepub.
 	- 33/5c1
 ## H
@@ -643,6 +647,10 @@
 	- 31/1e
 - Simmel, Georg (1989): Über sociale Differenzierung. Soziologische und psychologische Untersuchungen, Frankfurt/M.: Suhrkamp, S. 109-295.
 	- 33/1
+- Simon, Fritz B. (1993): Die andere Seite der Krankheit, in: Baecker, Dirk (Hg.): Probleme der Form, Frankfurt/M.: Suhrkamp, S. 266-289.
+	- 31/5d2d2c1
+	- 31/5d2d2c2
+	- 31/5d5a1
 - Sontag, Susan (1978/1977): Krankheit als Metapher, München/Wien: Carl Hanser Verlag.
 	- 31/5d2i7
 - Stadelbacher, Stephanie (2015): Sterben zuhause: Krisen und Routinen des Sterben-Machens im Privaten, in: Lessenich, Stephan (Hrsg.): Routinen der Krise - Krise der Routinen. Verhandlungen des 37. Kongresses der Deutschen Gesellschaft für Soziologie in Trier 2014, S. 1808-1817.
