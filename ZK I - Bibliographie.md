@@ -484,6 +484,8 @@
 	- 11/2a
 	- 11/2b
 	- 12/2a
+- Nussbaum, Martha (1996): Compassion: The Basic Socail Emotion, in: Social Philosophy and Policy, 13.1, p. 27-58.
+  	- 12/4c3e2
 ## O
 - Obrist, Hans Ulrich (2014): Ways of curating, New York, NY: Penguin.
 	- 21/5c3a
@@ -764,6 +766,8 @@
 	- 31/1c2a3
 - Weber, Max (1988): Wissenschaft als Beruf, in: ders.: Gesammelte Aufsätze zur Wissenschaftslehre, Tübingen: Mohr, S. 582-613
 	- 31/5d2g1g
+- Wegleitner, Klaus / Heimerl, Katharina / Kellehear, Allan (2016): Compassionate Communities. Case Studies from Britian and Europe, London/New York: Routledge.
+  	- 12/4c3e1
 - Werber, Niels (2009): Runde Tische & eckige Tische. Technologien zur Herstellung von Übereinkunft, in: Blumenrath, Hendrik / Rothe, Katja / Werkmeister, Sven / Wünsch, Michaela / Wurm, Barbara (Hrsg.): Techniken der Übereinkunft. Zur Medialität des Politischen, Berlin: Kadmos, S. 113-132.
 	- 31/4b
 - Werber, Niels (2011): Raumvergessenheit oder Raumontologie, Latour oder Luhmann? Zur Rolle der Systemtheorie in einer (medien)geographischen Kontroverse, in: Soziale Systeme 17.2, S. 361-372.
