@@ -182,6 +182,8 @@
 - Hanses, Andreas / Heuer, Katrin / Janotta, Lisa / Paul, Kathleen (2015): Konstruktionen des Sterbens - Analysen zu den Herstellungsweisen des Sterbens in organisationalen Kontexten, in: Neue Praxis 45.2, S. 160-177.
 	- 31/5d2g2a
 	- 31/5d2g3a
+- Hasenfeld, Yeheskel (1983): Human Service Organizations, Englewood Cliffs: Prentice-Hall.
+  	- 31/1c7b
 - Heider, Fritz (1926/2005): Ding und Medium, Berlin: Kadmos.
 	- 22/5
 	- 22/6
@@ -217,6 +219,8 @@
 	- 35/5
 - Krause, Ulrike (2016): Ethische Überlegungen zur Feldforschung, CSS Working Paper 20, Marburg.
 	- 21/5c1a
+- Krauss, Sabine H. (2025): Dienstleistungsarbeit in der Palliative Care, Wiesbaden: Springer VS.
+	- 31/1c7b
 - Kunz, Roland (2003): Palliative Care für Patienten mit fortgeschrittener Demenz: Values Based statt Evidence Based Practice, in: Zeitschrift für Gerontologie und Geriatrie 36, S. 355-359.
 	- 31/5d2g1c1
 	- 31/5d2g1c2
