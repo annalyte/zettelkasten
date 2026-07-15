@@ -770,7 +770,7 @@
 	- 31/5d2g1g
 - Wegleitner, Klaus / Heimerl, Katharina / Kellehear, Allan (2016): Compassionate Communities. Case Studies from Britian and Europe, London/New York: Routledge.
   	- 12/4c3e1
-- Weisser, A., Öhl, N., Mahlein, A. K., Peters, J., Simon, M., Schmitt-Rüth, S., ... & Heckel, M. (2026): New technology must support, not restrict humaneness: a qualitative interview study on the potential influences of a new digital system on specialist palliative home care, in: BMC palliative care, 25(1), 87.
+- Weisser, Alina / Öhl, Natalie / Mahlein, Ann-Kathrin / Peters, Joachim / Simon, Martina / Schmitt-Rüth, Stephanie / ... Heckel, Maria (2026): New technology must support, not restrict humaneness: a qualitative interview study on the potential influences of a new digital system on specialist palliative home care, in: BMC palliative care, 25(1), 87.
   	- 31/5d2g8
 - Werber, Niels (2009): Runde Tische & eckige Tische. Technologien zur Herstellung von Übereinkunft, in: Blumenrath, Hendrik / Rothe, Katja / Werkmeister, Sven / Wünsch, Michaela / Wurm, Barbara (Hrsg.): Techniken der Übereinkunft. Zur Medialität des Politischen, Berlin: Kadmos, S. 113-132.
 	- 31/4b
