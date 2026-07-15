@@ -35,6 +35,7 @@
 ## C
 - Charisma 31/5d2g3b
 - Code 31/5d2c; 31/5d2e1
+- Compassion 12/4c3e1
 - Compliance 31/5d2e1a
 ## D
 - Dekonstruktion 35/5
