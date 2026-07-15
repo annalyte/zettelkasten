@@ -259,7 +259,7 @@
 ## T
 - Tausch 31/5d2g4
 - Team 12/4k4
-- Technik 31/5h
+- Technik 31/5h; 31/5d2g2
 - Theorievergleich 33/5a,b; 21/3c
 - Tiere 31/5d2f1
 - Tod 11/4; 31/5d2-5; 33/5c4; 31/5d2g1a9
