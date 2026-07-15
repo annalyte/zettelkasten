@@ -208,6 +208,8 @@
 - Keller, Reiner / Lau, Christoph (2008): Bruno Latour und die Grenzen der Gesellschaft, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 306-338.
 	- 12/3a1
 	- 31/5d1
+- Kellehear, Allan (2005): Compassionate Cities. Publich Health and End-of-Life care, London/New York: Routledge.
+  	- 12/4c3e1
 - Kneer, Georg (2008): Hybridizität, zirkulierende Referenz, Amoderne?, in: Kneer, Georg / Schroer, Markus / Schüttpeltz, Erhard (Hrsg.): Bruno Latours Kollektive, Frankfurt/M.: Suhrkamp, S. 261-305.
 	- 12/4f
 - Knorr-Cetina, Karin (1989): Spielarten des Konstruktivismus, in: Soziale Welt 40.1/2, S. 86-96.
