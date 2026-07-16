@@ -68,6 +68,8 @@
 	- 71/6
 - Bradshaw, Ann (1996): The spiritual dimension of hospice: The secularization of an ideal, in: Social Science & Medicine, 43.2, pp. 409-419.
 	- 42/2
+- Büchner, Stefanie / Erdmann, Nina / Zakharova, Irina (2026): Fallförmigkeit – ein Forschungsausblick, in: Büchner, Stefanie / Braunsmann, Katharina / Gall, Korbinian / Rahn, Justus / Zakharova, Irina (Hrsg.): Fall unf Fallförmigkeit. Organisationen als Kontexte von Fallbearbeitung, Bielefeld: transcript, S. 327-346.
+  	- 31/1c10
 - Brüggen, Susanne (2005): Religiöses aus der Ratgeberecke, in: Knoblauch, Hubert / Zingerle, Arnold (Hrsg.): Thanatosoziologie, Berlin: Duncker & Humblot, S. 81-102.
 	- 31/5d3a
 - Brzoska, Patrick / Yilmaz-Aslan, Yüce / Probst, Stephan (2018): Umgang mit Diversität in der Pflege und Palliativversorgung am Beispiel von Menschen mit Migrationshintergrund, in: Zeitschrift für Gerontologie und Geriatrie 51, S. 636-641.
