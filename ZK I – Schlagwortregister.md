@@ -103,7 +103,7 @@
 - Heterogenität 12/4a1
 - Heterotopie 31/5d2g3e
 - Hierarchie 31/5d2j
-- Hineinversetzen 21/5c6-9; 31/5d2g1
+- Hineinversetzen 21/5c6-9; 31/5d2g1 -> Mitleid
 - Hospiz 31/5d2g; 31/5d2g3
 - Humangenetik 31/5d2e8
 - Hybriden 21/5c6b
@@ -173,6 +173,7 @@
 - Metapher 12/4l
 - Methode 33/5a; 33/5d5; 21/5c1a; 35/5
 - Mitglied 31/5d4a4
+- Mitleid 12/4c3e2 -> Hineinversetzen
 - Mode 12/1a
 - Moderator 21/5, 21/5c5
 - Moral 31/9; 12/1b; 31/1c1a
