@@ -130,6 +130,7 @@
 - Kinder 31/5d4b3
 - Krankenhaus 31/5d2b3; 31/5d2e; 31/5d2h
 - Krankheit 31/5d2d2; 31/5d2i3
+- Kreativität 33/5d5g
 - Kultur 12/4c2b
 - Kulturalisierung 31/5d2g2a2
 - Kunst 11/1; 21/1; 83/1
