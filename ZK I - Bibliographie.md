@@ -725,6 +725,8 @@
 	- 21/3b
 	- 31/3
 	- 35/1
+- Tavory, Iddo / Timmermans, Stefan (2014): Aductive Analysis. Theorizing Qualitative Research, Chicago, IL: University of Chicago Press.
+  	- 33/5d5g
 - Thönnes, Michaela / Jakoby, Nina (2017): Tiere als Sterbebegleiter. Eine symbolisch-interaktionistische Perspektive, in: ders. (Hrsg.): Zur Soziologie des Sterbens, Wiesbaden: Springer VS, S. 91-112.
 	- 31/5d2f1
 - Turner, Bryan S. (1986): Equality, London: Tavistock.
