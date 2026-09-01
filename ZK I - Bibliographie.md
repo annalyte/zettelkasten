@@ -81,6 +81,8 @@
 - Charmaz, Kathy (1980): The social reality of death. Death in contemporary America, Reading, MA: Addison-Wesley.
 	- 31/1c2d
 	- 31/5d4c
+- Cooper, David (1971): The Death of the Family, Harmondsworth: Penguin Books.
+    - 33/1b1
 ## D
 - Deleuze, Gilles / Guattari, Félix (1977): Rhizom, Berlin: Merve.
 	- 12/4j
